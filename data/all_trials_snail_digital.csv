@@ -1,0 +1,1233 @@
+week,experiment_day,trial_day,start_time,start_date,end_time,end_date,time,tank,snail_species,temp,condition,infection_status,crayfish_id,snail_density,snails_out,snails_lettuce,snails_sheltered,snails_under_shelter,snails_open ,snails_remaining,empty_shells,dead_snails,snails_consumed,snails_added,collector_name,notes,dodgey_remove,molt
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,0,1,bulinus,25,control_2,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK,,Y,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,0,2,biomph,25,pilot,uninfected,C006,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,0,3,bulinus,25,pilot,uninfected,C001,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,0,4,biomph,25,control_1,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,0,5,bulinus,25,pilot,uninfected,C003,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,0,6,biomph,25,pilot,uninfected,C005,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,0,7,bulinus,25,pilot,uninfected,C002,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,0,8,biomph,25,pilot,uninfected,C004,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,0,9,bulinus,30,pilot,uninfected,C011,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,0,10,biomph,30,pilot,uninfected,C010,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,0,11,bulinus,30,pilot,uninfected,C007,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,0,12,biomph,30,pilot,uninfected,C008,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,0,13,bulinus,30,pilot,uninfected,C012,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,0,14,biomph,30,control_2,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,0,15,bulinus,30,control_1,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,0,16,biomph,30,pilot,uninfected,C009,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,12,1,bulinus,25,control_2,uninfected,NA,12,6,2,NA,NA,3,11,0,0,NA,12,SF_RP,1 snail missing; control cannot be consumed,Y,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,12,2,biomph,25,pilot,uninfected,C006,12,2,5,0,NA,3,10,0,0,2,12,SF_RP,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,12,3,bulinus,25,pilot,uninfected,C001,12,3,3,0,NA,5,11,0,0,1,12,SF_RP,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,12,4,biomph,25,control_1,uninfected,NA,12,0,8,NA,NA,4,12,0,0,NA,12,SF_RP,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,12,5,bulinus,25,pilot,uninfected,C003,12,7,0,0,NA,2,9,0,0,3,12,SF_RP,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,12,6,biomph,25,pilot,uninfected,C005,12,0,7,0,NA,5,12,0,0,0,12,SF_RP,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,12,7,bulinus,25,pilot,uninfected,C002,12,5,2,0,NA,1,8,0,0,4,12,SF_RP,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,12,8,biomph,25,pilot,uninfected,C004,12,0,2,0,NA,4,6,1,0,5,12,SF_RP,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,12,9,bulinus,30,pilot,uninfected,C011,12,0,2,0,NA,7,9,0,0,3,12,SF_HF,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,12,10,biomph,30,pilot,uninfected,C010,12,5,2,0,NA,0,7,3,0,2,12,SF_HF,piece of shell = counted,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,12,11,bulinus,30,pilot,uninfected,C007,12,0,0,0,NA,9,9,2,0,1,12,SF_HF,,Y,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,12,12,biomph,30,pilot,uninfected,C008,12,2,5,0,NA,2,9,0,0,3,12,SF_HF,,Y,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,12,13,bulinus,30,pilot,uninfected,C012,12,3,0,1,NA,5,9,0,0,3,12,SF_HF,,Y,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,12,14,biomph,30,control_2,uninfected,NA,12,0,11,NA,NA,1,12,0,0,NA,12,SF_HF,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,12,15,bulinus,30,control_1,uninfected,NA,12,4,7,NA,NA,1,12,0,0,NA,12,SF_HF,,N,N
+pilot_1,1,1,7:00,14/06/2021,20:04,14/06/2021,12,16,biomph,30,pilot,uninfected,C009,12,0,9,0,NA,2,11,0,0,1,12,SF_HF,,Y,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,24,1,bulinus,25,control_2,uninfected,NA,12,5,2,NA,NA,5,12,0,0,NA,0,SF_RP,,N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,24,2,biomph,25,pilot,uninfected,C006,12,1,3,0,NA,6,10,2,0,0,2,SF_RP,,N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,24,3,bulinus,25,pilot,uninfected,C001,12,7,0,0,NA,1,8,1,0,3,4,SF_RP,broken shell pieces = difficult to count,N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,24,4,biomph,25,control_1,uninfected,NA,12,0,8,NA,NA,3,11,1,0,NA,1,SF_RP,,N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,24,5,bulinus,25,pilot,uninfected,C003,12,2,0,4,NA,4,10,0,0,2,2,SF_RP,,N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,24,6,biomph,25,pilot,uninfected,C005,12,0,6,0,NA,6,12,0,0,0,0,SF_RP,,N,Y
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,24,7,bulinus,25,pilot,uninfected,C002,12,3,0,0,NA,2,5,3,0,4,7,SF_RP,broken shell pieces = difficult to count,N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,24,8,biomph,25,pilot,uninfected,C004,12,0,3,0,NA,0,3,4,0,5,9,SF_RP,,N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,24,9,bulinus,30,pilot,uninfected,C011,12,0,0,0,NA,6,6,6,0,0,6,SF_AO,,N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,24,10,biomph,30,pilot,uninfected,C010,12,5,1,0,NA,2,8,2,0,2,4,SF_AO,,N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,24,11,bulinus,30,pilot,uninfected,C007,12,0,3,2,NA,7,13,0,0,1,-1,SF_AO,1 extra snail (13 total) = removed; 1 snail being eaten = counted as consumed,Y,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,24,12,biomph,30,pilot,uninfected,C008,12,0,6,0,NA,6,12,2,0,0,0,SF_AO,empty shells?,Y,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,24,13,bulinus,30,pilot,uninfected,C012,12,3,4,0,NA,8,15,0,0,0,-3,SF_AO,3 extra snails (15 total) = removed,Y,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,24,14,biomph,30,control_2,uninfected,NA,12,0,4,NA,NA,8,12,0,0,NA,0,SF_AO,,N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,24,15,bulinus,30,control_1,uninfected,NA,12,1,10,NA,NA,1,12,0,0,NA,0,SF_AO,,N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,24,16,biomph,30,pilot,uninfected,C009,12,0,9,0,NA,4,13,0,0,0,-1,SF_AO,1 extra snail (13 total) = removed,Y,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,36,1,bulinus,25,control_2,uninfected,NA,12,3,5,0,NA,4,12,0,0,NA,0,SF,,N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,36,2,biomph,25,pilot,uninfected,C006,12,0,3,0,NA,8,11,1,0,0,1,SF,,Y,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,36,3,bulinus,25,pilot,uninfected,C001,12,5,2,0,NA,3,10,2,0,0,2,SF_HF,broken shell pieces = difficult to count; consumed/empty confusion & miscalculation (edited by SF 07/07/21),N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,36,4,biomph,25,control_1,uninfected,NA,12,0,6,0,NA,6,12,0,0,NA,0,SF_HF,,N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,36,5,bulinus,25,pilot,uninfected,C003,12,3,2,2,NA,2,9,3,0,0,3,SF_HF,2 snails under shelter = counted as sheltered; broken shell pieces = difficult to count; consumed/empty confusion & miscalculation (edited by SF 07/07/21),Y,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,36,6,biomph,25,pilot,uninfected,C005,12,0,4,1,NA,7,12,0,0,0,0,SF_HF,crayfish molted,N,Y
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,36,7,bulinus,25,pilot,uninfected,C002,12,5,3,0,NA,2,10,0,0,2,2,SF_HF,broken shell pieces = difficult to count,N,Y
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,36,8,biomph,25,pilot,uninfected,C004,12,3,3,0,NA,3,9,3,0,0,3,SF_HF,broken shell pieces = difficult to count; consumed/empty confusion & miscalculation (edited by SF 07/07/21),N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,36,9,bulinus,30,pilot,uninfected,C011,12,0,2,1,NA,8,11,1,0,0,1,SF_HF,consumed/empty confusion & miscalculation (edited by SF 07/07/21),N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,36,10,biomph,30,pilot,uninfected,C010,12,6,5,0,NA,0,11,1,0,0,1,SF_HF,consumed/empty confusion & miscalculation (edited by SF 07/07/21),N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,36,11,bulinus,30,pilot,uninfected,C007,12,3,4,0,NA,3,10,1,0,1,2,SF_HF,consumed/empty confusion & miscalculation (edited by SF 07/07/21),N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,36,12,biomph,30,pilot,uninfected,C008,12,1,6,0,NA,4,11,1,0,0,1,SF_HF,consumed/empty confusion & miscalculation (edited by SF 07/07/21),N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,36,13,bulinus,30,pilot,uninfected,C012,12,3,3,0,NA,6,12,0,0,0,0,SF_HF,,N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,36,14,biomph,30,control_2,uninfected,NA,12,0,9,0,NA,3,12,0,0,NA,0,SF_HF,,N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,36,15,bulinus,30,control_1,uninfected,NA,12,1,8,0,NA,3,12,0,0,NA,0,SF_HF,,N,N
+pilot_1,2,2,7:00,15/06/2021,19:59,15/06/2021,36,16,biomph,30,pilot,uninfected,C009,12,0,6,0,NA,6,12,0,0,0,0,SF_HF,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,48,1,bulinus,25,control_2,uninfected,NA,12,2,8,0,NA,2,12,0,0,NA,0,SK_AO,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,48,2,biomph,25,pilot,uninfected,C006,12,3,4,0,NA,3,10,3,0,0,2,SK_AO,1 extra snail (13 total) = removed,Y,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,48,3,bulinus,25,pilot,uninfected,C001,12,5,1,1,NA,3,10,2,0,0,3,SK_AO,1 very beat up snail = removed and replaced,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,48,4,biomph,25,control_1,uninfected,NA,12,0,8,0,NA,4,12,0,0,NA,0,SK_AO,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,48,5,bulinus,25,pilot,uninfected,C003,12,1,9,0,NA,2,12,1,0,0,0,SK_AO,1 extra snail (13 total) = removed,Y,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,48,6,biomph,25,pilot,uninfected,C005,12,0,8,2,NA,1,11,1,0,0,1,SK_AO,,N,Y
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,48,7,bulinus,25,pilot,uninfected,C002,12,0,4,1,NA,6,11,1,0,0,1,SK_AO,broken shell pieces = difficult to count; crayfish molted,N,Y
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,48,8,biomph,25,pilot,uninfected,C004,12,3,0,0,NA,0,3,5,0,4,9,SK_AO,broken shell pieces = difficult to count; murky water = debris removed & 50% water change,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,48,9,bulinus,30,pilot,uninfected,C011,12,1,1,0,NA,7,9,2,0,1,3,SF_SK,broken shell pieces = difficult to count,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,48,10,biomph,30,pilot,uninfected,C010,12,5,1,0,NA,1,7,1,0,4,5,SF_SK,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,48,11,bulinus,30,pilot,uninfected,C007,12,1,4,2,NA,5,12,0,0,0,0,SF_SK,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,48,12,biomph,30,pilot,uninfected,C008,12,1,6,0,NA,2,9,3,0,0,3,SF_SK,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,48,13,bulinus,30,pilot,uninfected,C012,12,1,3,0,NA,6,10,2,0,0,2,SF_SK,dying snail? Not an empty shell yet,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,48,14,biomph,30,control_2,uninfected,NA,12,0,8,1,NA,3,12,0,0,NA,0,SF_SK,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,48,15,bulinus,30,control_1,uninfected,NA,12,0,9,1,NA,2,12,0,0,NA,0,SF_SK,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,48,16,biomph,30,pilot,uninfected,C009,12,0,8,0,NA,4,12,0,0,0,0,SF_SK,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,60,1,bulinus,25,control_2,uninfected,NA,12,0,11,0,NA,1,12,0,0,NA,0,SF_RP,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,60,2,biomph,25,pilot,uninfected,C006,12,0,5,1,NA,5,11,1,0,0,1,SF_RP,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,60,3,bulinus,25,pilot,uninfected,C001,12,3,1,0,NA,5,9,1,0,2,3,SF_RP,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,60,4,biomph,25,control_1,uninfected,NA,12,0,5,0,NA,7,12,0,0,NA,0,SF_RP,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,60,5,bulinus,25,pilot,uninfected,C003,12,5,5,1,NA,0,11,1,0,0,1,SF_RP,broken shell pieces = difficult to count,Y,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,60,6,biomph,25,pilot,uninfected,C005,12,0,9,0,NA,3,12,0,0,0,0,SF_RP,one snail being eaten ,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,60,7,bulinus,25,pilot,uninfected,C002,12,2,4,2,NA,4,12,0,0,0,0,SF_RP,,N,Y
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,60,8,biomph,25,pilot,uninfected,C004,12,4,2,0,NA,2,8,4,0,0,4,SF_RP,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,60,9,bulinus,30,pilot,uninfected,C011,12,3,3,0,NA,4,10,2,0,0,2,SF_RP,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,60,10,biomph,30,pilot,uninfected,C010,12,6,1,0,NA,4,11,1,0,0,1,SF_RP,broken shell pieces = difficult to count,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,60,11,bulinus,30,pilot,uninfected,C007,12,2,2,1,NA,6,11,1,0,0,1,SF_RP,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,60,12,biomph,30,pilot,uninfected,C008,12,1,7,0,NA,4,12,0,0,0,0,SF_RP,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,60,13,bulinus,30,pilot,uninfected,C012,12,0,5,0,NA,6,11,1,0,0,1,SF_RP,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,60,14,biomph,30,control_2,uninfected,NA,12,0,11,0,NA,1,12,0,0,NA,0,SF_RP,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,60,15,bulinus,30,control_1,uninfected,NA,12,0,10,0,NA,2,12,0,0,NA,0,SF_RP,,N,N
+pilot_1,3,3,7:03,16/06/2021,19:37,16/06/2021,60,16,biomph,30,pilot,uninfected,C009,12,0,5,0,NA,7,12,0,0,0,0,SF_RP,,N,N
+pilot_1,4,4,7:05,17/06/2021,NA,17/06/2021,72,1,bulinus,25,control_2,uninfected,NA,12,0,10,0,NA,2,12,0,0,NA,NA,SF_SK,,N,N
+pilot_1,4,4,7:05,17/06/2021,NA,17/06/2021,72,2,biomph,25,pilot,uninfected,C006,12,1,2,0,NA,5,8,4,0,0,NA,SF_SK,,N,N
+pilot_1,4,4,7:05,17/06/2021,NA,17/06/2021,72,3,bulinus,25,pilot,uninfected,C001,12,1,3,0,NA,5,9,2,0,1,NA,SF_SK,,N,N
+pilot_1,4,4,7:05,17/06/2021,NA,17/06/2021,72,4,biomph,25,control_1,uninfected,NA,12,1,5,0,NA,6,12,0,0,NA,NA,SF_SK,,N,N
+pilot_1,4,4,7:05,17/06/2021,NA,17/06/2021,72,5,bulinus,25,pilot,uninfected,C003,12,0,4,0,NA,9,13,0,0,0,NA,SF_SK,1 extra snail (13 total) ,Y,N
+pilot_1,4,4,7:05,17/06/2021,NA,17/06/2021,72,6,biomph,25,pilot,uninfected,C005,12,0,4,0,NA,6,10,2,0,0,NA,SF_SK,,N,N
+pilot_1,4,4,7:05,17/06/2021,NA,17/06/2021,72,7,bulinus,25,pilot,uninfected,C002,12,0,4,0,NA,3,7,2,0,3,NA,SF_SK,,N,N
+pilot_1,4,4,7:05,17/06/2021,NA,17/06/2021,72,8,biomph,25,pilot,uninfected,C004,12,3,1,0,NA,1,5,3,0,4,NA,SF_SK,,N,N
+pilot_1,4,4,7:05,17/06/2021,NA,17/06/2021,72,9,bulinus,30,pilot,uninfected,C011,12,1,5,0,NA,4,10,2,0,0,NA,SK_HF,,N,N
+pilot_1,4,4,7:05,17/06/2021,NA,17/06/2021,72,10,biomph,30,pilot,uninfected,C010,12,3,2,0,NA,3,8,2,0,2,NA,SK_HF,,N,N
+pilot_1,4,4,7:05,17/06/2021,NA,17/06/2021,72,11,bulinus,30,pilot,uninfected,C007,12,1,4,0,NA,5,10,1,0,1,NA,SK_HF,,N,N
+pilot_1,4,4,7:05,17/06/2021,NA,17/06/2021,72,12,biomph,30,pilot,uninfected,C008,12,1,6,0,NA,5,12,0,0,0,NA,SK_HF,,N,N
+pilot_1,4,4,7:05,17/06/2021,NA,17/06/2021,72,13,bulinus,30,pilot,uninfected,C012,12,1,5,1,NA,4,11,0,0,1,NA,SK_HF,,N,N
+pilot_1,4,4,7:05,17/06/2021,NA,17/06/2021,72,14,biomph,30,control_2,uninfected,NA,12,0,5,0,NA,7,12,0,0,NA,NA,SK_HF,,N,N
+pilot_1,4,4,7:05,17/06/2021,NA,17/06/2021,72,15,bulinus,30,control_1,uninfected,NA,12,1,6,0,NA,5,12,0,0,NA,NA,SK_HF,,N,N
+pilot_1,4,4,7:05,17/06/2021,NA,17/06/2021,72,16,biomph,30,pilot,uninfected,C009,12,0,5,0,NA,7,12,0,0,0,NA,SK_HF,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,0,1,bulinus,20,control_1,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,0,2,biomph,20,pilot,uninfected,C003,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,0,3,bulinus,20,pilot,uninfected,C004,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,0,4,biomph,20,pilot,uninfected,C006,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,0,5,bulinus,20,pilot,uninfected,C005,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,0,6,biomph,20,pilot,uninfected,C001,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,0,7,bulinus,20,pilot,uninfected,C002,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,0,8,biomph,20,control_2,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,0,9,bulinus,35,pilot,uninfected,C007,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,0,10,biomph,35,pilot,uninfected,C009,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,0,11,bulinus,35,control_1,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,0,12,biomph,35,control_2,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,0,13,bulinus,35,pilot,uninfected,C012,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,0,14,biomph,35,pilot,uninfected,C010,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,0,15,bulinus,35,pilot,uninfected,C011,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,0,16,biomph,35,pilot,uninfected,C008,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,12,1,bulinus,20,control_1,uninfected,NA,12,7,1,0,NA,4,12,0,0,NA,0,RP_MW_HF,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,12,2,biomph,20,pilot,uninfected,C003,12,0,0,3,NA,6,9,2,0,1,3,RP_MW_HF,dead snail confusion & miscalculation (edited by SF 07/07/21),N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,12,3,bulinus,20,pilot,uninfected,C004,12,1,1,0,NA,4,6,1,0,5,6,RP_MW_HF,dead snail confusion & miscalculation (edited by SF 07/07/21),N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,12,4,biomph,20,pilot,uninfected,C006,12,2,5,0,NA,1,8,3,0,1,4,RP_MW_HF,dead snail confusion & miscalculation (edited by SF 07/07/21),Y,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,12,5,bulinus,20,pilot,uninfected,C005,12,4,0,0,NA,5,9,0,0,3,3,RP_MW_HF,dead snail confusion & miscalculation (edited by SF 07/07/21),N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,12,6,biomph,20,pilot,uninfected,C001,12,0,1,0,NA,10,11,1,0,0,1,RP_MW_HF,two snails copulating; dead snail confusion & miscalculation (edited by SF 07/07/21),N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,12,7,bulinus,20,pilot,uninfected,C002,12,2,0,0,NA,1,3,0,0,9,9,RP_MW_HF,dead snail confusion & miscalculation (edited by SF 07/07/21),N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,12,8,biomph,20,control_2,uninfected,NA,12,0,10,0,NA,2,12,0,0,NA,0,RP_MW_HF,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,12,9,bulinus,35,pilot,uninfected,C007,12,0,1,0,NA,11,12,0,0,0,0,RP_MW_HF,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,12,10,biomph,35,pilot,uninfected,C009,12,0,5,0,NA,6,12,0,0,0,0,RP_MW_HF,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,12,11,bulinus,35,control_1,uninfected,NA,12,2,2,0,NA,8,12,0,0,NA,0,RP_MW_HF,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,12,12,biomph,35,control_2,uninfected,NA,12,0,10,0,NA,2,12,0,0,NA,0,RP_MW_HF,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,12,13,bulinus,35,pilot,uninfected,C012,12,0,0,0,NA,12,12,0,0,0,0,RP_MW_HF,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,12,14,biomph,35,pilot,uninfected,C010,12,1,7,0,NA,4,12,0,0,0,0,RP_MW_HF,,N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,12,15,bulinus,35,pilot,uninfected,C011,12,0,0,0,NA,7,7,4,5,1,5,RP_MW_HF,dead snail confusion & miscalculation (edited by SF 07/07/21),N,N
+pilot_2,5,1,7:00,22/06/21,NA,22/06/21,12,16,biomph,35,pilot,uninfected,C008,12,0,6,0,NA,6,12,0,0,0,0,RP_MW_HF,,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,24,1,bulinus,20,control_1,uninfected,NA,12,4,1,0,NA,7,12,0,0,NA,0,MW_SK,,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,24,2,biomph,20,pilot,uninfected,C003,12,0,1,0,NA,10,11,1,0,0,1,MW_SK,,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,24,3,bulinus,20,pilot,uninfected,C004,12,0,1,0,NA,2,3,0,0,9,9,MW_SK,shell debris in water,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,24,4,biomph,20,pilot,uninfected,C006,12,0,4,0,NA,5,9,4,0,0,3,MW_SK,,Y,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,24,5,bulinus,20,pilot,uninfected,C005,12,4,0,0,NA,6,10,0,0,2,2,MW_SK,,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,24,6,biomph,20,pilot,uninfected,C001,12,0,1,1,NA,10,12,0,0,0,0,MW_SK,,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,24,7,bulinus,20,pilot,uninfected,C002,12,1,0,0,NA,1,2,0,0,10,10,MW_SK,lots of shell debris; no full shells,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,24,8,biomph,20,control_2,uninfected,NA,12,0,7,1,NA,4,12,0,0,NA,0,MW_SK,,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,24,9,bulinus,35,pilot,uninfected,C007,12,0,1,0,NA,11,12,0,0,0,0,MW_SK,,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,24,10,biomph,35,pilot,uninfected,C009,12,0,0,0,NA,12,12,0,0,0,0,MW_SK,,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,24,11,bulinus,35,control_1,uninfected,NA,12,0,3,1,NA,8,12,0,0,NA,0,MW_SK,,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,24,12,biomph,35,control_2,uninfected,NA,12,0,5,1,NA,6,12,0,0,NA,0,MW_SK,,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,24,13,bulinus,35,pilot,uninfected,C012,12,0,2,0,NA,10,12,0,0,0,0,MW_SK,,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,24,14,biomph,35,pilot,uninfected,C010,12,0,6,1,NA,5,12,0,0,0,0,MW_SK,,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,24,15,bulinus,35,pilot,uninfected,C011,12,1,2,1,NA,5,9,3,0,0,3,MW_SK,,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,24,16,biomph,35,pilot,uninfected,C008,12,0,3,0,NA,9,12,0,0,0,0,MW_SK,,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,36,1,bulinus,20,control_1,uninfected,NA,12,2,7,0,NA,3,12,0,0,NA,0,MW_HF,,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,36,2,biomph,20,pilot,uninfected,C003,12,2,8,0,NA,0,10,2,0,0,2,MW_HF,snail shell debris; consumed/empty confusion & miscalculation (edited by SF 07/07/21),Y,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,36,3,bulinus,20,pilot,uninfected,C004,12,0,1,0,NA,5,6,0,0,6,6,MW_HF,snail shell debris ,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,36,4,biomph,20,pilot,uninfected,C006,12,1,1,0,NA,4,6,4,0,2,6,MW_HF,snail shell debris; consumed/empty confusion & miscalculation (edited by SF 07/07/21),Y,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,36,5,bulinus,20,pilot,uninfected,C005,12,3,0,0,NA,6,9,0,0,3,3,MW_HF,snail shell debris ,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,36,6,biomph,20,pilot,uninfected,C001,12,0,3,0,NA,7,10,2,0,0,2,MW_HF,consumed/empty confusion & miscalculation (edited by SF 07/07/21),Y,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,36,7,bulinus,20,pilot,uninfected,C002,12,1,3,0,NA,3,7,0,0,5,5,MW_HF,shells everywhere,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,36,8,biomph,20,control_2,uninfected,NA,12,0,12,0,NA,0,12,0,0,NA,0,MW_HF,,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,36,9,bulinus,35,pilot,uninfected,C007,12,0,2,0,NA,8,10,0,0,2,2,MW_HF,,Y,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,36,10,biomph,35,pilot,uninfected,C009,12,1,1,0,NA,10,12,0,0,0,0,MW_HF,,Y,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,36,11,bulinus,35,control_1,uninfected,NA,12,1,6,0,NA,5,12,0,0,NA,0,MW_HF,,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,36,12,biomph,35,control_2,uninfected,NA,12,0,7,1,NA,4,12,0,0,NA,0,MW_HF,,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,36,13,bulinus,35,pilot,uninfected,C012,12,0,1,0,NA,9,10,1,0,1,2,MW_HF,consumed/empty confusion & miscalculation (edited by SF 07/07/21),N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,36,14,biomph,35,pilot,uninfected,C010,12,0,8,0,NA,3,11,1,0,0,1,MW_HF,shell was in the shelter; consumed/empty confusion & miscalculation (edited by SF 07/07/21),N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,36,15,bulinus,35,pilot,uninfected,C011,12,1,1,1,NA,8,11,0,0,1,1,MW_HF,,N,N
+pilot_2,6,2,7:15,23/06/21,NA,23/06/21,36,16,biomph,35,pilot,uninfected,C008,12,0,4,0,NA,8,12,0,0,0,0,MW_HF,,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,48,1,bulinus,20,control_1,uninfected,NA,12,2,7,0,NA,2,11,0,0,NA,1,HF_AO_MW,1 snail missing; lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,48,2,biomph,20,pilot,uninfected,C003,12,0,7,0,NA,5,12,1,0,1,0,HF_AO_MW,1 extra snail (13 total) = removed; leftover shell?; lettuce decaying rapidly,Y,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,48,3,bulinus,20,pilot,uninfected,C004,12,0,2,0,NA,4,6,0,0,6,6,HF_AO_MW,shell pieces; lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,48,4,biomph,20,pilot,uninfected,C006,12,1,2,0,NA,6,9,5,0,3,3,HF_AO_MW,leftover shells; lettuce decaying rapidly,Y,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,48,5,bulinus,20,pilot,uninfected,C005,12,2,1,0,NA,7,10,0,0,2,2,HF_AO_MW,shell pieces; lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,48,6,biomph,20,pilot,uninfected,C001,12,0,3,1,NA,9,13,0,0,0,-1,HF_AO_MW,1 extra snail (13 total) = removed; lettuce decaying rapidly,Y,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,48,7,bulinus,20,pilot,uninfected,C002,12,3,1,1,NA,1,6,0,0,6,6,HF_AO_MW,shell pieces; lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,48,8,biomph,20,control_2,uninfected,NA,12,0,6,2,NA,4,12,0,0,NA,0,HF_AO_MW,lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,48,9,bulinus,35,pilot,uninfected,C007,12,0,6,1,NA,6,13,0,0,0,-1,HF_AO_MW,1 extra snail (13 total) = removed; lettuce decaying rapidly,Y,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,48,10,biomph,35,pilot,uninfected,C009,12,1,2,1,NA,7,11,1,1,0,1,HF_AO_MW,snail died = not consumed; lettuce decaying rapidly,Y,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,48,11,bulinus,35,control_1,uninfected,NA,12,0,2,0,NA,10,12,0,0,NA,0,HF_AO_MW,1 snail in water close to death; lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,48,12,biomph,35,control_2,uninfected,NA,12,0,7,0,NA,5,12,0,0,NA,0,HF_AO_MW,lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,48,13,bulinus,35,pilot,uninfected,C012,12,0,2,0,NA,9,11,0,1,0,1,HF_AO_MW,died in water; new lettuce added; lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,48,14,biomph,35,pilot,uninfected,C010,12,0,3,1,NA,5,9,3,0,0,3,HF_AO_MW,lettuce decaying rapidly; consumed/empty confusion & miscalculation (edited by SF 07/07/21),N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,48,15,bulinus,35,pilot,uninfected,C011,12,1,2,1,NA,2,6,3,0,3,6,HF_AO_MW,lettuce decaying rapidly; consumed/empty confusion & miscalculation (edited by SF 07/07/21),N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,48,16,biomph,35,pilot,uninfected,C008,12,0,5,0,NA,7,12,0,0,0,0,HF_AO_MW,lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,60,1,bulinus,20,control_1,uninfected,NA,12,0,10,0,NA,2,12,0,0,NA,0,MW_SK,lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,60,2,biomph,20,pilot,uninfected,C003,12,0,6,0,NA,6,12,0,0,0,0,MW_SK,lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,60,3,bulinus,20,pilot,uninfected,C004,12,0,5,0,NA,3,8,0,0,4,4,MW_SK,1 snail partially consumed; lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,60,4,biomph,20,pilot,uninfected,C006,12,1,5,0,NA,4,10,2,0,0,2,MW_SK,lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,60,5,bulinus,20,pilot,uninfected,C005,12,3,2,0,NA,4,9,0,0,3,3,MW_SK,1 snail partially consumed; lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,60,6,biomph,20,pilot,uninfected,C001,12,0,6,2,NA,4,12,0,0,0,0,MW_SK,lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,60,7,bulinus,20,pilot,uninfected,C002,12,3,1,0,NA,0,4,0,0,8,8,MW_SK,lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,60,8,biomph,20,control_2,uninfected,NA,12,0,7,0,NA,5,12,0,0,NA,0,MW_SK,lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,60,9,bulinus,35,pilot,uninfected,C007,12,2,2,0,NA,8,12,0,0,0,0,MW_SK,lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,60,10,biomph,35,pilot,uninfected,C009,12,0,6,0,NA,6,12,0,0,0,0,MW_SK,lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,60,11,bulinus,35,control_1,uninfected,NA,12,1,0,0,NA,11,12,0,0,NA,0,MW_SK,lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,60,12,biomph,35,control_2,uninfected,NA,12,0,9,0,NA,3,12,0,0,NA,0,MW_SK,lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,60,13,bulinus,35,pilot,uninfected,C012,12,0,2,0,NA,8,10,0,1,1,2,MW_SK,lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,60,14,biomph,35,pilot,uninfected,C010,12,0,10,0,NA,2,12,0,0,0,0,MW_SK,lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,60,15,bulinus,35,pilot,uninfected,C011,12,1,5,1,NA,3,10,1,1,0,2,MW_SK,lettuce decaying rapidly,N,N
+pilot_2,7,3,7:11,24/06/21,NA,24/06/21,60,16,biomph,35,pilot,uninfected,C008,12,0,0,0,NA,12,12,0,0,0,0,MW_SK,lettuce decaying rapidly,N,N
+pilot_2,8,4,7:05,25/06/21,7:20,25/06/21,72,1,bulinus,20,control_1,uninfected,NA,12,1,8,0,NA,3,12,0,0,NA,NA,MW_HF,,N,N
+pilot_2,8,4,7:05,25/06/21,7:20,25/06/21,72,2,biomph,20,pilot,uninfected,C003,12,0,6,1,NA,4,11,0,0,1,NA,MW_HF,shell fragments,N,N
+pilot_2,8,4,7:05,25/06/21,7:20,25/06/21,72,3,bulinus,20,pilot,uninfected,C004,12,1,3,0,NA,2,6,2,0,4,NA,MW_HF,shell fragments; consumed/empty confusion & miscalculation (edited by SF 07/07/21),N,N
+pilot_2,8,4,7:05,25/06/21,7:20,25/06/21,72,4,biomph,20,pilot,uninfected,C006,12,1,0,0,NA,5,6,3,0,3,NA,MW_HF,murky water; consumed/empty confusion & miscalculation (edited by SF 07/07/21),N,N
+pilot_2,8,4,7:05,25/06/21,7:20,25/06/21,72,6,bulinus,20,pilot,uninfected,C005,12,2,6,1,NA,2,11,0,0,1,NA,MW_HF,,N,N
+pilot_2,8,4,7:05,25/06/21,7:20,25/06/21,72,6,biomph,20,pilot,uninfected,C001,12,0,2,1,NA,9,12,0,0,0,NA,MW_HF,,N,N
+pilot_2,8,4,7:05,25/06/21,7:20,25/06/21,72,7,bulinus,20,pilot,uninfected,C002,12,2,2,0,NA,0,4,0,0,8,NA,MW_HF,shell fragements & poop,N,N
+pilot_2,8,4,7:05,25/06/21,7:20,25/06/21,72,8,biomph,20,control_2,uninfected,NA,12,0,10,0,NA,2,12,0,0,NA,NA,MW_HF,,N,N
+pilot_2,8,4,7:05,25/06/21,7:20,25/06/21,72,9,bulinus,35,pilot,uninfected,C007,12,0,0,0,NA,12,12,0,0,0,NA,MW_RP,,N,N
+pilot_2,8,4,7:05,25/06/21,7:20,25/06/21,72,10,biomph,35,pilot,uninfected,C009,12,0,5,0,NA,7,12,0,0,0,NA,MW_RP,,N,N
+pilot_2,8,4,7:05,25/06/21,7:20,25/06/21,72,11,bulinus,35,control_1,uninfected,NA,12,0,2,0,NA,10,12,0,0,NA,NA,MW_RP,,N,N
+pilot_2,8,4,7:05,25/06/21,7:20,25/06/21,72,12,biomph,35,control_2,uninfected,NA,12,0,2,0,NA,10,12,0,0,NA,NA,MW_RP,,N,N
+pilot_2,8,4,7:05,25/06/21,7:20,25/06/21,72,13,bulinus,35,pilot,uninfected,C012,12,0,5,0,NA,6,11,0,1,0,NA,MW_RP,,N,N
+pilot_2,8,4,7:05,25/06/21,7:20,25/06/21,72,14,biomph,35,pilot,uninfected,C010,12,0,6,0,NA,5,11,1,0,0,NA,MW_RP,consumed/empty confusion & miscalculation (edited by SF 07/07/21),N,N
+pilot_2,8,4,7:05,25/06/21,7:20,25/06/21,72,15,bulinus,35,pilot,uninfected,C011,12,0,4,0,NA,6,10,0,0,2,NA,MW_RP,shell fragments,N,N
+pilot_2,8,4,7:05,25/06/21,7:20,25/06/21,72,16,biomph,35,pilot,uninfected,C008,12,0,6,0,NA,6,12,0,0,0,NA,MW_RP,,N,N
+pilot_3,9,1,7:37,5/7/2021,7:37,5/7/2021,0,1,bulinus,15,pilot,uninfected,C004,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF,,N,N
+pilot_3,9,1,7:37,5/7/2021,7:37,5/7/2021,0,2,biomph,15,control_1,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF,,N,N
+pilot_3,9,1,7:37,5/7/2021,7:37,5/7/2021,0,3,bulinus,15,pilot,uninfected,C002,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF,,N,N
+pilot_3,9,1,7:37,5/7/2021,7:37,5/7/2021,0,4,biomph,15,control_2,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF,,N,N
+pilot_3,9,1,7:37,5/7/2021,7:37,5/7/2021,0,5,bulinus,15,pilot,uninfected,C006,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF,,N,N
+pilot_3,9,1,7:37,5/7/2021,7:37,5/7/2021,0,6,biomph,15,pilot,uninfected,C001,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF,,N,N
+pilot_3,9,1,7:37,5/7/2021,7:37,5/7/2021,0,7,bulinus,15,pilot,uninfected,C005,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF,,N,N
+pilot_3,9,1,7:37,5/7/2021,7:37,5/7/2021,0,8,biomph,15,pilot,uninfected,C003,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF,,N,N
+pilot_3,9,1,NA,5/7/2021,NA,5/7/2021,12,1,bulinus,15,pilot,uninfected,C004,12,0,1,0,NA,7,8,1,0,3,4,MW_RP,,Y,N
+pilot_3,9,1,NA,5/7/2021,NA,5/7/2021,12,2,biomph,15,control_1,uninfected,NA,12,0,1,5,NA,5,11,0,1,NA,1,MW_RP,,N,N
+pilot_3,9,1,NA,5/7/2021,NA,5/7/2021,12,3,bulinus,15,pilot,uninfected,C002,12,2,0,0,NA,4,6,0,0,6,6,MW_RP,lots of debris,Y,N
+pilot_3,9,1,NA,5/7/2021,NA,5/7/2021,12,4,biomph,15,control_2,uninfected,NA,12,0,2,2,NA,8,12,0,0,NA,0,MW_RP,,N,N
+pilot_3,9,1,NA,5/7/2021,NA,5/7/2021,12,5,bulinus,15,pilot,uninfected,C006,12,6,1,1,NA,3,10,0,0,2,2,MW_RP,,N,N
+pilot_3,9,1,NA,5/7/2021,NA,5/7/2021,12,6,biomph,15,pilot,uninfected,C001,12,0,0,0,NA,10,11,1,0,0,1,MW_RP,,N,N
+pilot_3,9,1,NA,5/7/2021,NA,5/7/2021,12,7,bulinus,15,pilot,uninfected,C005,12,4,0,1,NA,5,10,1,0,1,2,MW_RP,,Y,N
+pilot_3,9,1,NA,5/7/2021,NA,5/7/2021,12,8,biomph,15,pilot,uninfected,C003,12,0,0,0,NA,10,10,0,2,0,2,MW_RP,,N,N
+pilot_3,10,2,7:09,6/7/2021,7:09,6/7/2021,24,1,bulinus,15,pilot,uninfected,C004,12,1,0,7,NA,7,15,0,0,0,-3,SK,"TOO MANY SNAILS, REMOVED THREE",Y,N
+pilot_3,10,2,7:09,6/7/2021,7:09,6/7/2021,24,2,biomph,15,control_1,uninfected,NA,12,0,0,1,NA,11,12,0,0,NA,0,SK,,N,N
+pilot_3,10,2,7:09,6/7/2021,7:09,6/7/2021,24,3,bulinus,15,pilot,uninfected,C002,12,0,0,3,NA,9,12,1,2,0,0,SK,"SOME BROKEN SHELLS, FROM LAST TIME? ",N,N
+pilot_3,10,2,7:09,6/7/2021,7:09,6/7/2021,24,4,biomph,15,control_2,uninfected,NA,12,1,4,3,NA,4,12,0,0,N,0,SK,,N,N
+pilot_3,10,2,7:09,6/7/2021,7:09,6/7/2021,24,5,bulinus,15,pilot,uninfected,C006,12,0,1,1,NA,9,11,0,1,0,1,SK,FROM LAST TIME?; snails_added miscalculation (edited by SF 08/10/21),N,N
+pilot_3,10,2,7:09,6/7/2021,7:09,6/7/2021,24,6,biomph,15,pilot,uninfected,C001,12,0,2,1,NA,9,12,0,0,0,0,SK,,N,N
+pilot_3,10,2,7:09,6/7/2021,7:09,6/7/2021,24,7,bulinus,15,pilot,uninfected,C005,12,2,2,0,NA,9,13,0,1,0,-1,SK,"REMOVED DEAD, NO REPLACEMENT BC 1 EXTRA; snails_added miscalculation (edited by SF 08/10/21)",Y,N
+pilot_3,10,2,7:09,6/7/2021,7:09,6/7/2021,24,8,biomph,15,pilot,uninfected,C003,12,0,0,5,NA,5,10,2,0,0,2,SK,,N,N
+pilot_3,10,2,7:08,6/7/2021,7:08,6/7/2021,36,1,bulinus,15,pilot,uninfected,C004,12,0,0,3,NA,8,11,0,0,1,1,MW_RP_HF,,Y,N
+pilot_3,10,2,7:08,6/7/2021,7:08,6/7/2021,36,2,biomph,15,control_1,uninfected,NA,12,0,8,2,NA,2,12,0,0,NA,0,MW_RP_HF,,N,N
+pilot_3,10,2,7:08,6/7/2021,7:08,6/7/2021,36,3,bulinus,15,pilot,uninfected,C002,12,0,0,2,NA,6,8,0,1,3,4,MW_RP_HF,,Y,N
+pilot_3,10,2,7:08,6/7/2021,7:08,6/7/2021,36,4,biomph,15,control_2,uninfected,NA,12,1,1,1,NA,8,11,0,0,NA,1,MW_RP_HF,where is the missing snail??,Y,N
+pilot_3,10,2,7:08,6/7/2021,7:08,6/7/2021,36,5,bulinus,15,pilot,uninfected,C006,12,0,0,1,NA,11,12,0,0,0,0,MW_RP_HF,CLOUDY WATER,N,N
+pilot_3,10,2,7:08,6/7/2021,7:08,6/7/2021,36,6,biomph,15,pilot,uninfected,C001,12,0,2,0,NA,10,12,0,0,0,0,MW_RP_HF,,N,N
+pilot_3,10,2,7:08,6/7/2021,7:08,6/7/2021,36,7,bulinus,15,pilot,uninfected,C005,12,2,1,1,NA,6,10,0,0,2,2,MW_RP_HF,,N,N
+pilot_3,10,2,7:08,6/7/2021,7:08,6/7/2021,36,8,biomph,15,pilot,uninfected,C003,12,0,0,2,NA,9,11,0,1,0,1,MW_RP_HF,,N,N
+pilot_3,11,3,7:12,7/7/2021,7:12,7/7/2021,48,1,bulinus,15,pilot,uninfected,C004,12,0,0,7,NA,6,13,0,0,0,-1,SK,,Y,N
+pilot_3,11,3,7:12,7/7/2021,7:12,7/7/2021,48,2,biomph,15,control_1,uninfected,NA,12,0,7,0,NA,5,12,0,0,NA,0,SK,,N,N
+pilot_3,11,3,7:12,7/7/2021,7:12,7/7/2021,48,3,bulinus,15,pilot,uninfected,C002,12,1,0,7,NA,6,13,0,2,0,-1,SK,"2 DEAD, STILL HAD TO REMOVE ONE",Y,N
+pilot_3,11,3,7:12,7/7/2021,7:12,7/7/2021,48,4,biomph,15,control_2,uninfected,NA,12,0,5,2,NA,6,13,0,0,NA,-1,SK,,Y,N
+pilot_3,11,3,7:12,7/7/2021,7:12,7/7/2021,48,5,bulinus,15,pilot,uninfected,C006,12,1,1,1,NA,9,12,0,0,0,0,SK,,N,N
+pilot_3,11,3,7:12,7/7/2021,7:12,7/7/2021,48,6,biomph,15,pilot,uninfected,C001,12,0,0,1,NA,11,12,0,0,0,0,SK,,N,N
+pilot_3,11,3,7:12,7/7/2021,7:12,7/7/2021,48,7,bulinus,15,pilot,uninfected,C005,12,1,3,1,NA,6,11,0,1,0,1,SK,,N,N
+pilot_3,11,3,7:12,7/7/2021,7:12,7/7/2021,48,8,biomph,15,pilot,uninfected,C003,12,0,1,2,NA,9,12,0,0,0,0,SK,,N,N
+pilot_3,11,3,NA,7/7/2021,NA,7/7/2021,60,1,bulinus,15,pilot,uninfected,C004,12,0,1,3,NA,6,10,1,1,0,2,MW_RP,,N,N
+pilot_3,11,3,NA,7/7/2021,NA,7/7/2021,60,2,biomph,15,control_1,uninfected,NA,12,0,12,0,NA,0,12,0,0,NA,0,MW_RP,,N,N
+pilot_3,11,3,NA,7/7/2021,NA,7/7/2021,60,3,bulinus,15,pilot,uninfected,C002,12,0,4,4,NA,4,12,0,0,0,0,MW_RP,,N,N
+pilot_3,11,3,NA,7/7/2021,NA,7/7/2021,60,4,biomph,15,control_2,uninfected,NA,12,1,5,0,NA,6,12,0,0,NA,0,MW_RP,,N,N
+pilot_3,11,3,NA,7/7/2021,NA,7/7/2021,60,5,bulinus,15,pilot,uninfected,C006,12,0,1,1,NA,8,10,0,0,2,2,MW_RP,snails_consumed & snails_added miscalculation (edited by SF 08/10/21),N,N
+pilot_3,11,3,NA,7/7/2021,NA,7/7/2021,60,6,biomph,15,pilot,uninfected,C001,12,0,2,0,NA,10,12,0,0,0,0,MW_RP,,N,N
+pilot_3,11,3,NA,7/7/2021,NA,7/7/2021,60,7,bulinus,15,pilot,uninfected,C005,12,1,3,1,NA,6,11,0,1,0,1,MW_RP,,N,N
+pilot_3,11,3,NA,7/7/2021,NA,7/7/2021,60,8,biomph,15,pilot,uninfected,C003,12,0,2,3,NA,4,9,1,2,0,3,MW_RP,,N,N
+pilot_3,12,4,7:04,8/7/2021,8:09,8/7/2021,72,1,bulinus,15,pilot,uninfected,C004,12,0,1,2,NA,7,10,0,2,0,NA,SF,RECOUNTED WITH WATER SWAP,N,N
+pilot_3,12,4,7:04,8/7/2021,8:09,8/7/2021,72,2,biomph,15,control_1,uninfected,NA,12,0,7,0,NA,5,12,0,0,NA,NA,SF,SOME SHELL PIECES,N,N
+pilot_3,12,4,7:04,8/7/2021,8:09,8/7/2021,72,3,bulinus,15,pilot,uninfected,C002,12,0,2,2,NA,2,6,0,4,2,NA,SF,SOME SHELL PIECES,N,N
+pilot_3,12,4,7:04,8/7/2021,8:09,8/7/2021,72,4,biomph,15,control_2,uninfected,NA,12,0,5,0,NA,7,12,0,0,NA,NA,SF,,N,N
+pilot_3,12,4,7:04,8/7/2021,8:09,8/7/2021,72,5,bulinus,15,pilot,uninfected,C006,12,1,2,2,NA,2,6,0,6,0,NA,SF,"1 SHELL PIECE, LIKELY PART OF DEAD SNAIL",N,N
+pilot_3,12,4,7:04,8/7/2021,8:09,8/7/2021,72,6,biomph,15,pilot,uninfected,C001,12,0,3,0,NA,9,12,0,0,0,NA,SF,,N,N
+pilot_3,12,4,7:04,8/7/2021,8:09,8/7/2021,72,7,bulinus,15,pilot,uninfected,C005,12,0,5,0,NA,4,9,1,1,1,NA,SF,,N,N
+pilot_3,12,4,7:04,8/7/2021,8:09,8/7/2021,72,8,biomph,15,pilot,uninfected,C003,12,0,5,1,NA,6,12,0,0,0,NA,SF,,N,N
+experiment_1,13,1,7:39,27/07/21,7:50,27/07/21,0,1,bulinus,15,experimental,uninfected,C008,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,molted,N,Y
+experiment_1,13,1,7:39,27/07/21,7:50,27/07/21,0,2,biomph,15,experimental,uninfected,C007,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+experiment_1,13,1,7:39,27/07/21,7:50,27/07/21,0,3,bulinus,15,control_1,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+experiment_1,13,1,7:39,27/07/21,7:50,27/07/21,0,4,biomph,15,experimental,uninfected,C012,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,molted,N,Y
+experiment_1,13,1,7:39,27/07/21,7:50,27/07/21,0,5,bulinus,15,experimental,uninfected,C010,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+experiment_1,13,1,7:39,27/07/21,7:50,27/07/21,0,6,biomph,15,experimental,uninfected,C011,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+experiment_1,13,1,7:39,27/07/21,7:50,27/07/21,0,7,bulinus,15,experimental,uninfected,C009,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+experiment_1,13,1,7:39,27/07/21,7:50,27/07/21,0,8,biomph,15,control_2,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+experiment_1,13,1,7:39,27/07/21,7:50,27/07/21,0,9,bulinus,35,experimental,uninfected,C006,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+experiment_1,13,1,7:39,27/07/21,7:50,27/07/21,0,10,biomph,35,experimental,uninfected,C002,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+experiment_1,13,1,7:39,27/07/21,7:50,27/07/21,0,11,bulinus,35,experimental,uninfected,C003,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,Y
+experiment_1,13,1,7:39,27/07/21,7:50,27/07/21,0,12,biomph,35,experimental,uninfected,C001,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+experiment_1,13,1,7:39,27/07/21,7:50,27/07/21,0,13,bulinus,35,experimental,uninfected,C004,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+experiment_1,13,1,7:39,27/07/21,7:50,27/07/21,0,14,biomph,35,experimental,uninfected,C005,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+experiment_1,13,1,7:39,27/07/21,7:50,27/07/21,0,15,bulinus,35,control_1,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+experiment_1,13,1,7:39,27/07/21,7:50,27/07/21,0,16,biomph,35,control_2,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+experiment_1,13,1,NA,27/07/21,19:40,27/07/21,12,1,bulinus,15,experimental,uninfected,C008,12,0,NA,2,NA,10,12,0,0,0,0,SF_HF,forgot to add lettuce at the start of the trial; lettuce added at the end of time block 12,N,Y
+experiment_1,13,1,NA,27/07/21,19:40,27/07/21,12,2,biomph,15,experimental,uninfected,C007,12,0,NA,1,NA,9,10,2,0,0,2,SF_HF,forgot to add lettuce at the start of the trial; lettuce added at the end of time block 12,N,N
+experiment_1,13,1,NA,27/07/21,19:40,27/07/21,12,3,bulinus,15,control_1,uninfected,NA,12,1,NA,1,NA,10,12,0,0,NA,0,SF_HF,forgot to add lettuce at the start of the trial; lettuce added at the end of time block 12,N,N
+experiment_1,13,1,NA,27/07/21,19:40,27/07/21,12,4,biomph,15,experimental,uninfected,C012,12,1,NA,4,NA,7,12,0,0,0,0,SF_HF,forgot to add lettuce at the start of the trial; lettuce added at the end of time block 12,N,Y
+experiment_1,13,1,NA,27/07/21,19:40,27/07/21,12,5,bulinus,15,experimental,uninfected,C010,12,1,NA,2,NA,8,11,1,0,0,1,SF_HF,forgot to add lettuce at the start of the trial; lettuce added at the end of time block 12,N,N
+experiment_1,13,1,NA,27/07/21,19:40,27/07/21,12,6,biomph,15,experimental,uninfected,C011,12,1,NA,2,NA,6,9,2,1,0,3,SF_HF,forgot to add lettuce at the start of the trial; lettuce added at the end of time block 12,N,N
+experiment_1,13,1,NA,27/07/21,19:40,27/07/21,12,7,bulinus,15,experimental,uninfected,C009,12,1,NA,0,NA,5,6,1,0,5,6,SF_HF,shell pieces; forgot to add lettuce at the start of the trial; lettuce added at the end of time block 12,N,N
+experiment_1,13,1,NA,27/07/21,19:40,27/07/21,12,8,biomph,15,control_2,uninfected,NA,12,0,NA,6,NA,6,12,0,0,NA,0,SF_HF,forgot to add lettuce at the start of the trial; lettuce added at the end of time block 12,N,N
+experiment_1,13,1,NA,27/07/21,19:40,27/07/21,12,9,bulinus,35,experimental,uninfected,C006,12,0,NA,0,NA,12,12,0,0,0,0,SF_HF,forgot to add lettuce at the start of the trial; lettuce added at the end of time block 12,N,N
+experiment_1,13,1,NA,27/07/21,19:40,27/07/21,12,10,biomph,35,experimental,uninfected,C002,12,2,NA,1,NA,7,10,2,0,0,2,SF_HF,shell pieces; forgot to add lettuce at the start of the trial; lettuce added at the end of time block 12,N,N
+experiment_1,13,1,NA,27/07/21,19:40,27/07/21,12,11,bulinus,35,experimental,uninfected,C003,12,0,NA,1,NA,11,12,0,0,0,0,SF_HF,molted; 1 snail inside molt = counted as open water; forgot to add lettuce at the start of the trial; lettuce added at the end of time block 12,N,Y
+experiment_1,13,1,NA,27/07/21,19:40,27/07/21,12,12,biomph,35,experimental,uninfected,C001,12,0,NA,0,NA,10,10,1,0,1,2,SF_HF,forgot to add lettuce at the start of the trial; lettuce added at the end of time block 12,N,N
+experiment_1,13,1,NA,27/07/21,19:40,27/07/21,12,13,bulinus,35,experimental,uninfected,C004,12,0,NA,1,NA,8,9,0,0,3,3,SF_HF,shell pieces; forgot to add lettuce at the start of the trial; lettuce added at the end of time block 12,Y,N
+experiment_1,13,1,NA,27/07/21,19:40,27/07/21,12,14,biomph,35,experimental,uninfected,C005,12,0,NA,0,NA,12,12,0,0,0,0,SF_HF,forgot to add lettuce at the start of the trial; lettuce added at the end of time block 12,N,N
+experiment_1,13,1,NA,27/07/21,19:40,27/07/21,12,15,bulinus,35,control_1,uninfected,NA,12,2,NA,1,NA,9,12,0,0,NA,0,SF_HF,forgot to add lettuce at the start of the trial; lettuce added at the end of time block 12,N,N
+experiment_1,13,1,NA,27/07/21,19:40,27/07/21,12,16,biomph,35,control_2,uninfected,NA,12,0,NA,0,NA,11,11,0,1,NA,1,SF_HF,forgot to add lettuce at the start of the trial; lettuce added at the end of time block 12,N,N
+experiment_1,14,2,7:08,28/07/21,NA,28/07/21,24,1,bulinus,15,experimental,uninfected,C008,12,0,2,1,NA,9,12,0,0,0,0,SF_RP_AO,,N,N
+experiment_1,14,2,7:08,28/07/21,NA,28/07/21,24,2,biomph,15,experimental,uninfected,C007,12,0,0,0,NA,11,11,1,0,0,1,SF_RP_AO,,N,N
+experiment_1,14,2,7:08,28/07/21,NA,28/07/21,24,3,bulinus,15,control_1,uninfected,NA,12,4,4,0,NA,4,12,0,0,NA,0,SF_RP_AO,,N,N
+experiment_1,14,2,7:08,28/07/21,NA,28/07/21,24,4,biomph,15,experimental,uninfected,C012,12,0,0,0,NA,12,12,0,0,0,0,SF_RP_AO,,N,N
+experiment_1,14,2,7:08,28/07/21,NA,28/07/21,24,5,bulinus,15,experimental,uninfected,C010,12,1,0,0,NA,11,12,0,0,0,0,SF_RP_AO,,N,N
+experiment_1,14,2,7:08,28/07/21,NA,28/07/21,24,6,biomph,15,experimental,uninfected,C011,12,0,1,0,NA,6,7,4,1,0,5,SF_RP_AO,,N,N
+experiment_1,14,2,7:08,28/07/21,NA,28/07/21,24,7,bulinus,15,experimental,uninfected,C009,12,2,1,0,NA,5,8,0,1,3,4,SF_RP_AO,,N,N
+experiment_1,14,2,7:08,28/07/21,NA,28/07/21,24,8,biomph,15,control_2,uninfected,NA,12,0,1,0,NA,11,12,0,0,NA,0,SF_RP_AO,,N,N
+experiment_1,14,2,7:08,28/07/21,NA,28/07/21,24,9,bulinus,35,experimental,uninfected,C006,12,0,0,0,NA,11,11,0,0,1,1,SF_RP_AO,,Y,N
+experiment_1,14,2,7:08,28/07/21,NA,28/07/21,24,10,biomph,35,experimental,uninfected,C002,12,1,1,0,NA,9,11,1,0,0,1,SF_RP_AO,,N,N
+experiment_1,14,2,7:08,28/07/21,NA,28/07/21,24,11,bulinus,35,experimental,uninfected,C003,12,0,0,3,NA,9,12,0,0,0,0,SF_RP_AO,,N,Y
+experiment_1,14,2,7:08,28/07/21,NA,28/07/21,24,12,biomph,35,experimental,uninfected,C001,12,0,7,0,NA,3,10,2,0,0,2,SF_RP_AO,,N,N
+experiment_1,14,2,7:08,28/07/21,NA,28/07/21,24,13,bulinus,35,experimental,uninfected,C004,12,0,0,3,NA,9,12,0,1,0,0,SF_RP_AO,1 extra snail (dead) = zero snails added,Y,N
+experiment_1,14,2,7:08,28/07/21,NA,28/07/21,24,14,biomph,35,experimental,uninfected,C005,12,0,0,1,NA,11,12,0,0,0,0,SF_RP_AO,,N,N
+experiment_1,14,2,7:08,28/07/21,NA,28/07/21,24,15,bulinus,35,control_1,uninfected,NA,12,0,1,1,NA,10,12,0,0,NA,0,SF_RP_AO,,N,N
+experiment_1,14,2,7:08,28/07/21,NA,28/07/21,24,16,biomph,35,control_2,uninfected,NA,12,0,5,2,NA,5,12,0,0,NA,0,SF_RP_AO,,N,N
+experiment_1,14,2,NA,28/07/21,NA,28/07/21,36,1,bulinus,15,experimental,uninfected,C008,12,0,2,0,NA,10,12,0,0,0,0,SF_RP,,N,N
+experiment_1,14,2,NA,28/07/21,NA,28/07/21,36,2,biomph,15,experimental,uninfected,C007,12,0,1,0,NA,8,9,3,0,0,3,SF_RP,,N,N
+experiment_1,14,2,NA,28/07/21,NA,28/07/21,36,3,bulinus,15,control_1,uninfected,NA,12,2,6,0,NA,4,12,0,0,NA,0,SF_RP,,N,N
+experiment_1,14,2,NA,28/07/21,NA,28/07/21,36,4,biomph,15,experimental,uninfected,C012,12,0,0,0,NA,12,12,0,0,0,0,SF_RP,molt (taken out),N,Y
+experiment_1,14,2,NA,28/07/21,NA,28/07/21,36,5,bulinus,15,experimental,uninfected,C010,12,0,1,0,NA,11,12,0,0,0,0,SF_RP,crayfish berried,N,N
+experiment_1,14,2,NA,28/07/21,NA,28/07/21,36,6,biomph,15,experimental,uninfected,C011,12,0,5,0,NA,6,11,1,0,0,1,SF_RP,,N,N
+experiment_1,14,2,NA,28/07/21,NA,28/07/21,36,7,bulinus,15,experimental,uninfected,C009,12,1,3,0,NA,6,10,1,1,0,2,SF_RP,,N,N
+experiment_1,14,2,NA,28/07/21,NA,28/07/21,36,8,biomph,15,control_2,uninfected,NA,12,0,7,1,NA,4,12,0,0,NA,0,SF_RP,,Y,N
+experiment_1,14,2,NA,28/07/21,NA,28/07/21,36,9,bulinus,35,experimental,uninfected,C006,12,0,3,5,NA,5,13,0,0,0,-1,SF_RP,1 extra snail = removed,N,N
+experiment_1,14,2,NA,28/07/21,NA,28/07/21,36,10,biomph,35,experimental,uninfected,C002,12,0,10,0,NA,0,10,2,0,0,2,SF_RP,,N,N
+experiment_1,14,2,NA,28/07/21,NA,28/07/21,36,11,bulinus,35,experimental,uninfected,C003,12,0,5,0,NA,7,12,0,0,0,0,SF_RP,,N,N
+experiment_1,14,2,NA,28/07/21,NA,28/07/21,36,12,biomph,35,experimental,uninfected,C001,12,1,7,0,NA,2,10,2,0,0,2,SF_RP,,N,N
+experiment_1,14,2,NA,28/07/21,NA,28/07/21,36,13,bulinus,35,experimental,uninfected,C004,12,0,2,0,NA,8,10,0,0,2,2,SF_RP,broken [shell] pieces,N,N
+experiment_1,14,2,NA,28/07/21,NA,28/07/21,36,14,biomph,35,experimental,uninfected,C005,12,0,2,0,NA,10,12,0,0,0,0,SF_RP,,N,N
+experiment_1,14,2,NA,28/07/21,NA,28/07/21,36,15,bulinus,35,control_1,uninfected,NA,12,0,3,0,NA,8,11,0,1,NA,1,SF_RP,,N,N
+experiment_1,14,2,NA,28/07/21,NA,28/07/21,36,16,biomph,35,control_2,uninfected,NA,12,0,7,0,NA,5,12,0,0,NA,0,SF_RP,,N,N
+experiment_1,15,3,7:07,29/07/21,7:34,29/07/21,48,1,bulinus,15,experimental,uninfected,C008,12,0,2,0,NA,8,10,0,0,2,2,SF_SK_RP,removed molt,N,N
+experiment_1,15,3,7:07,29/07/21,7:34,29/07/21,48,2,biomph,15,experimental,uninfected,C007,12,0,2,0,NA,7,9,3,0,0,3,SF_SK_RP,,N,N
+experiment_1,15,3,7:07,29/07/21,7:34,29/07/21,48,3,bulinus,15,control_1,uninfected,NA,12,3,3,0,NA,6,12,0,0,NA,0,SF_SK_RP,,N,N
+experiment_1,15,3,7:07,29/07/21,7:34,29/07/21,48,4,biomph,15,experimental,uninfected,C012,12,0,1,0,NA,11,12,0,0,0,0,SF_SK_RP,,N,Y
+experiment_1,15,3,7:07,29/07/21,7:34,29/07/21,48,5,bulinus,15,experimental,uninfected,C010,12,0,1,0,NA,11,12,0,0,0,0,SF_SK_RP,,N,N
+experiment_1,15,3,7:07,29/07/21,7:34,29/07/21,48,6,biomph,15,experimental,uninfected,C011,12,0,3,0,NA,5,8,4,0,0,4,SF_SK_RP,,N,N
+experiment_1,15,3,7:07,29/07/21,7:34,29/07/21,48,7,bulinus,15,experimental,uninfected,C009,12,2,0,0,NA,8,10,0,0,2,2,SF_SK_RP,,N,N
+experiment_1,15,3,7:07,29/07/21,7:34,29/07/21,48,8,biomph,15,control_2,uninfected,NA,12,0,4,0,NA,8,12,0,0,NA,0,SF_SK_RP,,N,N
+experiment_1,15,3,7:07,29/07/21,7:34,29/07/21,48,9,bulinus,35,experimental,uninfected,C006,12,0,4,0,NA,8,12,0,0,0,0,SF_SK_RP,,N,N
+experiment_1,15,3,7:07,29/07/21,7:34,29/07/21,48,10,biomph,35,experimental,uninfected,C002,12,0,6,0,NA,6,12,0,0,0,0,SF_SK_RP,,N,N
+experiment_1,15,3,7:07,29/07/21,7:34,29/07/21,48,11,bulinus,35,experimental,uninfected,C003,12,0,4,0,NA,8,12,0,0,0,0,SF_SK_RP,,N,N
+experiment_1,15,3,7:07,29/07/21,7:34,29/07/21,48,12,biomph,35,experimental,uninfected,C001,12,2,6,0,NA,2,10,2,0,0,2,SF_SK_RP,,Y,N
+experiment_1,15,3,7:07,29/07/21,7:34,29/07/21,48,13,bulinus,35,experimental,uninfected,C004,12,0,3,1,NA,8,12,0,0,0,0,SF_SK_RP,babies in tank = removed ,N,N
+experiment_1,15,3,7:07,29/07/21,7:34,29/07/21,48,14,biomph,35,experimental,uninfected,C005,12,0,8,0,NA,3,11,1,0,0,1,SF_SK_RP,,N,N
+experiment_1,15,3,7:07,29/07/21,7:34,29/07/21,48,15,bulinus,35,control_1,uninfected,NA,12,1,5,0,NA,6,12,0,0,NA,0,SF_SK_RP,,N,N
+experiment_1,15,3,7:07,29/07/21,7:34,29/07/21,48,16,biomph,35,control_2,uninfected,NA,12,0,7,0,NA,5,12,0,0,NA,0,SF_SK_RP,,N,N
+experiment_1,15,3,19:07,29/07/21,NA,29/07/21,60,1,bulinus,15,experimental,uninfected,C008,12,0,0,1,NA,11,12,0,0,0,0,SF_SK_RP,leftover debris?,N,N
+experiment_1,15,3,19:07,29/07/21,NA,29/07/21,60,2,biomph,15,experimental,uninfected,C007,12,0,4,1,NA,7,12,0,0,0,0,SF_SK_RP,,N,N
+experiment_1,15,3,19:07,29/07/21,NA,29/07/21,60,3,bulinus,15,control_1,uninfected,NA,12,2,5,0,NA,5,12,0,0,NA,0,SF_SK_RP,,N,N
+experiment_1,15,3,19:07,29/07/21,NA,29/07/21,60,4,biomph,15,experimental,uninfected,C012,12,0,4,0,NA,7,11,1,0,0,1,SF_SK_RP,,N,N
+experiment_1,15,3,19:07,29/07/21,NA,29/07/21,60,5,bulinus,15,experimental,uninfected,C010,12,1,0,1,NA,10,12,0,0,0,0,SF_SK_RP,,N,N
+experiment_1,15,3,19:07,29/07/21,NA,29/07/21,60,6,biomph,15,experimental,uninfected,C011,12,0,0,0,NA,9,9,3,0,0,3,SF_SK_RP,,N,N
+experiment_1,15,3,19:07,29/07/21,NA,29/07/21,60,7,bulinus,15,experimental,uninfected,C009,12,0,1,0,NA,8,9,1,2,0,3,SF_SK_RP,,N,N
+experiment_1,15,3,19:07,29/07/21,NA,29/07/21,60,8,biomph,15,control_2,uninfected,NA,12,0,0,2,NA,10,12,0,0,NA,0,SF_SK_RP,,N,N
+experiment_1,15,3,19:07,29/07/21,NA,29/07/21,60,9,bulinus,35,experimental,uninfected,C006,12,1,4,0,NA,7,12,0,0,0,0,SF_SK_RP,,N,N
+experiment_1,15,3,19:07,29/07/21,NA,29/07/21,60,10,biomph,35,experimental,uninfected,C002,12,1,9,0,NA,1,11,1,0,0,1,SF_SK_RP,,N,N
+experiment_1,15,3,19:07,29/07/21,NA,29/07/21,60,11,bulinus,35,experimental,uninfected,C003,12,2,2,0,NA,6,10,2,0,0,2,SF_SK_RP,,N,N
+experiment_1,15,3,19:07,29/07/21,NA,29/07/21,60,12,biomph,35,experimental,uninfected,C001,12,0,11,0,NA,2,13,0,0,0,-1,SF_SK_RP,one extra snail = removed,Y,N
+experiment_1,15,3,19:07,29/07/21,NA,29/07/21,60,13,bulinus,35,experimental,uninfected,C004,12,1,2,2,NA,4,9,2,1,0,3,SF_SK_RP,,N,N
+experiment_1,15,3,19:07,29/07/21,NA,29/07/21,60,14,biomph,35,experimental,uninfected,C005,12,0,10,0,NA,1,11,0,1,0,1,SF_SK_RP,dead in shelter/half consumed,N,N
+experiment_1,15,3,19:07,29/07/21,NA,29/07/21,60,15,bulinus,35,control_1,uninfected,NA,12,0,4,1,NA,7,12,0,0,NA,0,SF_SK_RP,,N,N
+experiment_1,15,3,19:07,29/07/21,NA,29/07/21,60,16,biomph,35,control_2,uninfected,NA,12,0,9,0,NA,3,12,0,0,NA,0,SF_SK_RP,,N,N
+experiment_1,16,4,7:09,30/07/21,7:34,30/07/21,72,1,bulinus,15,experimental,uninfected,C008,12,0,1,1,NA,7,9,1,2,0,NA,SF_AO_HF,,N,N
+experiment_1,16,4,7:09,30/07/21,7:34,30/07/21,72,2,biomph,15,experimental,uninfected,C007,12,0,4,0,NA,6,10,2,0,0,NA,SF_AO_HF,,N,N
+experiment_1,16,4,7:09,30/07/21,7:34,30/07/21,72,3,bulinus,15,control_1,uninfected,NA,12,0,5,0,NA,7,12,0,0,NA,NA,SF_AO_HF,,N,N
+experiment_1,16,4,7:09,30/07/21,7:34,30/07/21,72,4,biomph,15,experimental,uninfected,C012,12,0,5,0,NA,5,10,2,0,0,NA,SF_AO_HF,,N,N
+experiment_1,16,4,7:09,30/07/21,7:34,30/07/21,72,5,bulinus,15,experimental,uninfected,C010,12,0,1,1,NA,10,12,0,0,0,NA,SF_AO_HF,,N,N
+experiment_1,16,4,7:09,30/07/21,7:34,30/07/21,72,6,biomph,15,experimental,uninfected,C011,12,0,1,1,NA,5,7,4,1,0,NA,SF_AO_HF,,N,N
+experiment_1,16,4,7:09,30/07/21,7:34,30/07/21,72,7,bulinus,15,experimental,uninfected,C009,12,0,6,0,NA,3,9,0,1,2,NA,SF_AO_HF,shell pieces,N,N
+experiment_1,16,4,7:09,30/07/21,7:34,30/07/21,72,8,biomph,15,control_2,uninfected,NA,12,0,3,0,NA,9,12,0,0,NA,NA,SF_AO_HF,,N,N
+experiment_1,16,4,7:09,30/07/21,7:34,30/07/21,72,9,bulinus,35,experimental,uninfected,C006,12,0,3,0,NA,9,12,0,0,0,NA,SF_AO_HF,,N,N
+experiment_1,16,4,7:09,30/07/21,7:34,30/07/21,72,10,biomph,35,experimental,uninfected,C002,12,0,7,0,NA,4,11,0,1,0,NA,SF_AO_HF,,N,N
+experiment_1,16,4,7:09,30/07/21,7:34,30/07/21,72,11,bulinus,35,experimental,uninfected,C003,12,0,4,0,NA,5,9,2,0,1,NA,SF_AO_HF,shell pieces,N,N
+experiment_1,16,4,7:09,30/07/21,7:34,30/07/21,72,12,biomph,35,experimental,uninfected,C001,12,0,10,0,NA,1,11,1,0,0,NA,SF_AO_HF,,N,N
+experiment_1,16,4,7:09,30/07/21,7:34,30/07/21,72,13,bulinus,35,experimental,uninfected,C004,12,1,3,2,NA,5,11,1,0,0,NA,SF_AO_HF,shell pieces; crayfish babies,N,N
+experiment_1,16,4,7:09,30/07/21,7:34,30/07/21,72,14,biomph,35,experimental,uninfected,C005,12,0,6,0,NA,2,8,2,0,2,NA,SF_AO_HF,,N,N
+experiment_1,16,4,7:09,30/07/21,7:34,30/07/21,72,15,bulinus,35,control_1,uninfected,NA,12,0,5,0,NA,7,12,0,0,NA,NA,SF_AO_HF,,N,N
+experiment_1,16,4,7:09,30/07/21,7:34,30/07/21,72,16,biomph,35,control_2,uninfected,NA,12,0,3,0,NA,9,12,0,0,NA,NA,SF_AO_HF,,N,N
+experiment_2,17,1,7:47,3/8/2021,8:00,3/8/2021,0,1,bulinus,20,control_1,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK ,,N,N
+experiment_2,17,1,7:47,3/8/2021,8:00,3/8/2021,0,2,biomph,20,experimental,uninfected,C012,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK ,,N,N
+experiment_2,17,1,7:47,3/8/2021,8:00,3/8/2021,0,3,bulinus,20,experimental,uninfected,C007,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK ,,N,N
+experiment_2,17,1,7:47,3/8/2021,8:00,3/8/2021,0,4,biomph,20,experimental,uninfected,C011,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK ,,N,N
+experiment_2,17,1,7:47,3/8/2021,8:00,3/8/2021,0,5,bulinus,20,experimental,uninfected,C009,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK ,,N,N
+experiment_2,17,1,7:47,3/8/2021,8:00,3/8/2021,0,6,biomph,20,control_2,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK ,,N,N
+experiment_2,17,1,7:47,3/8/2021,8:00,3/8/2021,0,7,bulinus,20,experimental,uninfected,C010,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK ,,N,N
+experiment_2,17,1,7:47,3/8/2021,8:00,3/8/2021,0,8,biomph,20,experimental,uninfected,C008,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK ,,N,N
+experiment_2,17,1,7:47,3/8/2021,8:00,3/8/2021,0,9,bulinus,30,experimental,uninfected,C001,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK ,,N,N
+experiment_2,17,1,7:47,3/8/2021,8:00,3/8/2021,0,10,biomph,30,control_1,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK ,,N,N
+experiment_2,17,1,7:47,3/8/2021,8:00,3/8/2021,0,11,bulinus,30,experimental,uninfected,C005,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK ,,N,N
+experiment_2,17,1,7:47,3/8/2021,8:00,3/8/2021,0,12,biomph,30,experimental,uninfected,C003,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK ,,N,N
+experiment_2,17,1,7:47,3/8/2021,8:00,3/8/2021,0,13,bulinus,30,experimental,uninfected,C002,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK ,,N,N
+experiment_2,17,1,7:47,3/8/2021,8:00,3/8/2021,0,14,biomph,30,experimental,uninfected,C006,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK ,,N,N
+experiment_2,17,1,7:47,3/8/2021,8:00,3/8/2021,0,15,bulinus,30,control_2,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK ,,N,N
+experiment_2,17,1,7:47,3/8/2021,8:00,3/8/2021,0,16,biomph,30,experimental,uninfected,C004,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK ,,N,N
+experiment_2,17,1,19:00,3/8/2021,19:55,3/8/2021,12,1,bulinus,20,control_1,uninfected,NA,12,0,7,0,NA,5,12,0,0,NA,0,SF_RP,,N,N
+experiment_2,17,1,19:00,3/8/2021,19:55,3/8/2021,12,2,biomph,20,experimental,uninfected,C012,12,0,3,0,NA,5,8,4,0,0,4,SF_RP,,N,N
+experiment_2,17,1,19:00,3/8/2021,19:55,3/8/2021,12,3,bulinus,20,experimental,uninfected,C007,12,0,1,0,NA,9,10,0,0,2,2,SF_RP,,N,N
+experiment_2,17,1,19:00,3/8/2021,19:55,3/8/2021,12,4,biomph,20,experimental,uninfected,C011,12,0,3,0,NA,1,4,3,4,1,8,SF_RP,,N,N
+experiment_2,17,1,19:00,3/8/2021,19:55,3/8/2021,12,5,bulinus,20,experimental,uninfected,C009,12,0,0,0,NA,3,3,0,1,8,9,SF_RP,shell pieces ,N,N
+experiment_2,17,1,19:00,3/8/2021,19:55,3/8/2021,12,6,biomph,20,control_2,uninfected,NA,12,0,5,0,NA,7,12,0,0,NA,0,SF_RP,,N,N
+experiment_2,17,1,19:00,3/8/2021,19:55,3/8/2021,12,7,bulinus,20,experimental,uninfected,C010,12,0,2,0,NA,10,12,0,0,0,0,SF_RP,,N,N
+experiment_2,17,1,19:00,3/8/2021,19:55,3/8/2021,12,8,biomph,20,experimental,uninfected,C008,12,0,6,0,NA,3,9,2,0,1,3,SF_RP,,N,N
+experiment_2,17,1,19:00,3/8/2021,19:55,3/8/2021,12,9,bulinus,30,experimental,uninfected,C001,12,0,0,0,NA,6,6,0,0,6,6,SF_RP,shell pieces,N,N
+experiment_2,17,1,19:00,3/8/2021,19:55,3/8/2021,12,10,biomph,30,control_1,uninfected,NA,12,0,6,1,NA,5,12,0,0,NA,0,SF_RP,,N,N
+experiment_2,17,1,19:00,3/8/2021,19:55,3/8/2021,12,11,bulinus,30,experimental,uninfected,C005,12,1,0,0,NA,5,6,1,4,1,6,SF_RP,,N,N
+experiment_2,17,1,19:00,3/8/2021,19:55,3/8/2021,12,12,biomph,30,experimental,uninfected,C003,12,1,4,0,NA,3,8,1,1,2,4,SF_RP,,N,N
+experiment_2,17,1,19:00,3/8/2021,19:55,3/8/2021,12,13,bulinus,30,experimental,uninfected,C002,12,1,1,0,NA,3,5,0,0,7,7,SF_RP,shell pieces,N,N
+experiment_2,17,1,19:00,3/8/2021,19:55,3/8/2021,12,14,biomph,30,experimental,uninfected,C006,12,0,2,0,NA,7,9,3,0,0,3,SF_RP,,N,N
+experiment_2,17,1,19:00,3/8/2021,19:55,3/8/2021,12,15,bulinus,30,control_2,uninfected,NA,12,0,6,1,NA,5,12,0,0,NA,0,SF_RP,,N,N
+experiment_2,17,1,19:00,3/8/2021,19:55,3/8/2021,12,16,biomph,30,experimental,uninfected,C004,12,0,0,0,NA,3,3,2,0,7,9,SF_RP,,N,N
+experiment_2,18,2,7:05,4/8/2021,7:53,4/8/2021,24,1,bulinus,20,control_1,uninfected,NA,12,0,8,1,NA,2,11,0,1,NA,1,SF_SK,,N,N
+experiment_2,18,2,7:05,4/8/2021,7:53,4/8/2021,24,2,biomph,20,experimental,uninfected,C012,12,0,2,0,NA,0,2,9,0,1,10,SF_SK,,N,N
+experiment_2,18,2,7:05,4/8/2021,7:53,4/8/2021,24,3,bulinus,20,experimental,uninfected,C007,12,1,4,0,NA,4,9,1,1,1,3,SF_SK,,N,N
+experiment_2,18,2,7:05,4/8/2021,7:53,4/8/2021,24,4,biomph,20,experimental,uninfected,C011,12,0,2,0,NA,0,2,7,3,0,10,SF_SK,,N,N
+experiment_2,18,2,7:05,4/8/2021,7:53,4/8/2021,24,5,bulinus,20,experimental,uninfected,C009,12,0,0,0,NA,3,3,4,4,1,9,SF_SK,"shell pieces, not whole",N,N
+experiment_2,18,2,7:05,4/8/2021,7:53,4/8/2021,24,6,biomph,20,control_2,uninfected,NA,12,0,5,1,NA,5,11,0,1,NA,1,SF_SK,,N,N
+experiment_2,18,2,7:05,4/8/2021,7:53,4/8/2021,24,7,bulinus,20,experimental,uninfected,C010,12,0,1,0,NA,11,12,0,0,0,0,SF_SK,,N,N
+experiment_2,18,2,7:05,4/8/2021,7:53,4/8/2021,24,8,biomph,20,experimental,uninfected,C008,12,1,1,0,NA,3,5,7,0,0,7,SF_SK,,N,N
+experiment_2,18,2,7:05,4/8/2021,7:53,4/8/2021,24,9,bulinus,30,experimental,uninfected,C001,12,0,2,0,NA,4,6,3,2,NA,6,SF_SK,shell pieces,N,N
+experiment_2,18,2,7:05,4/8/2021,7:53,4/8/2021,24,10,biomph,30,control_1,uninfected,NA,12,0,10,0,NA,2,12,0,0,0,0,SF_SK,,N,N
+experiment_2,18,2,7:05,4/8/2021,7:53,4/8/2021,24,11,bulinus,30,experimental,uninfected,C005,12,0,2,0,NA,3,5,3,2,2,7,SF_SK,,N,N
+experiment_2,18,2,7:05,4/8/2021,7:53,4/8/2021,24,12,biomph,30,experimental,uninfected,C003,12,0,3,0,NA,0,3,5,0,4,9,SF_SK,shell pieces,N,N
+experiment_2,18,2,7:05,4/8/2021,7:53,4/8/2021,24,13,bulinus,30,experimental,uninfected,C002,12,0,3,0,NA,4,7,2,1,2,5,SF_SK,shell pieces,N,N
+experiment_2,18,2,7:05,4/8/2021,7:53,4/8/2021,24,14,biomph,30,experimental,uninfected,C006,12,1,1,0,NA,3,5,5,1,1,7,SF_SK,,N,N
+experiment_2,18,2,7:05,4/8/2021,7:53,4/8/2021,24,15,bulinus,30,control_2,uninfected,NA,12,0,8,0,NA,4,12,0,0,NA,0,SF_SK,,N,N
+experiment_2,18,2,7:05,4/8/2021,7:53,4/8/2021,24,16,biomph,30,experimental,uninfected,C004,12,0,4,0,NA,2,6,2,0,4,6,SF_SK,shell pieces,N,N
+experiment_2,18,2,19:06,4/8/2021,19:55,4/8/2021,36,1,bulinus,20,control_1,uninfected,NA,12,1,9,0,NA,2,12,0,0,NA,0,SF_RP,,N,N
+experiment_2,18,2,19:06,4/8/2021,19:55,4/8/2021,36,2,biomph,20,experimental,uninfected,C012,12,1,4,0,NA,3,8,3,0,1,4,SF_RP,,N,N
+experiment_2,18,2,19:06,4/8/2021,19:55,4/8/2021,36,3,bulinus,20,experimental,uninfected,C007,12,0,8,0,NA,3,11,1,0,0,1,SF_RP,,N,N
+experiment_2,18,2,19:06,4/8/2021,19:55,4/8/2021,36,4,biomph,20,experimental,uninfected,C011,12,1,4,0,NA,4,9,3,0,0,3,SF_RP,,N,N
+experiment_2,18,2,19:06,4/8/2021,19:55,4/8/2021,36,5,bulinus,20,experimental,uninfected,C009,12,0,6,0,NA,1,7,1,3,1,5,SF_RP,,N,N
+experiment_2,18,2,19:06,4/8/2021,19:55,4/8/2021,36,6,biomph,20,control_2,uninfected,NA,12,0,4,0,NA,8,12,0,0,NA,0,SF_RP,,N,N
+experiment_2,18,2,19:06,4/8/2021,19:55,4/8/2021,36,7,bulinus,20,experimental,uninfected,C010,12,1,4,0,NA,6,11,1,0,0,1,SF_RP,,N,N
+experiment_2,18,2,19:06,4/8/2021,19:55,4/8/2021,36,8,biomph,20,experimental,uninfected,C008,12,2,3,0,NA,5,10,1,0,1,2,SF_RP,shell pieces,N,N
+experiment_2,18,2,19:06,4/8/2021,19:55,4/8/2021,36,9,bulinus,30,experimental,uninfected,C001,12,0,3,0,NA,4,7,2,3,0,5,SF_RP,,N,N
+experiment_2,18,2,19:06,4/8/2021,19:55,4/8/2021,36,10,biomph,30,control_1,uninfected,NA,12,0,9,0,NA,3,12,0,0,NA,0,SF_RP,,N,N
+experiment_2,18,2,19:06,4/8/2021,19:55,4/8/2021,36,11,bulinus,30,experimental,uninfected,C005,12,0,2,0,NA,6,8,1,1,2,4,SF_RP,,N,N
+experiment_2,18,2,19:06,4/8/2021,19:55,4/8/2021,36,12,biomph,30,experimental,uninfected,C003,12,1,1,0,NA,2,4,2,0,6,8,SF_RP,shell pieces,N,N
+experiment_2,18,2,19:06,4/8/2021,19:55,4/8/2021,36,13,bulinus,30,experimental,uninfected,C002,12,0,3,1,NA,2,6,3,2,1,6,SF_RP,,N,N
+experiment_2,18,2,19:06,4/8/2021,19:55,4/8/2021,36,14,biomph,30,experimental,uninfected,C006,12,1,5,0,NA,1,7,5,0,0,5,SF_RP,,N,N
+experiment_2,18,2,19:06,4/8/2021,19:55,4/8/2021,36,15,bulinus,30,control_2,uninfected,NA,12,0,7,0,NA,5,12,0,0,NA,0,SF_RP,,N,N
+experiment_2,18,2,19:06,4/8/2021,19:55,4/8/2021,36,16,biomph,30,experimental,uninfected,C004,12,1,4,0,NA,4,9,1,0,2,3,SF_RP,shell pieces,N,N
+experiment_2,19,3,7:20,5/8/2021,8:03,5/8/2021,48,1,bulinus,20,control_1,uninfected,NA,12,1,9,0,NA,2,12,0,0,NA,0,SF_SK,,N,N
+experiment_2,19,3,7:20,5/8/2021,8:03,5/8/2021,48,2,biomph,20,experimental,uninfected,C012,12,0,0,0,NA,4,4,7,0,1,8,SF_SK,shell pieces,N,N
+experiment_2,19,3,7:20,5/8/2021,8:03,5/8/2021,48,3,bulinus,20,experimental,uninfected,C007,12,0,3,0,NA,7,10,2,0,0,2,SF_SK,,N,N
+experiment_2,19,3,7:20,5/8/2021,8:03,5/8/2021,48,4,biomph,20,experimental,uninfected,C011,12,0,0,0,NA,6,6,5,1,0,6,SF_SK,,N,N
+experiment_2,19,3,7:20,5/8/2021,8:03,5/8/2021,48,5,bulinus,20,experimental,uninfected,C009,12,0,3,0,NA,3,6,2,2,2,6,SF_SK,shell pieces,N,N
+experiment_2,19,3,7:20,5/8/2021,8:03,5/8/2021,48,6,biomph,20,control_2,uninfected,NA,12,0,5,2,NA,4,11,0,1,NA,1,SF_SK,,N,N
+experiment_2,19,3,7:20,5/8/2021,8:03,5/8/2021,48,7,bulinus,20,experimental,uninfected,C010,12,1,4,0,NA,4,9,1,1,1,3,SF_SK,,Y,N
+experiment_2,19,3,7:20,5/8/2021,8:03,5/8/2021,48,8,biomph,20,experimental,uninfected,C008,12,3,3,0,NA,2,8,4,0,0,4,SF_SK,,N,N
+experiment_2,19,3,7:20,5/8/2021,8:03,5/8/2021,48,9,bulinus,30,experimental,uninfected,C001,12,0,8,0,NA,4,12,0,0,0,0,SF_SK,,N,N
+experiment_2,19,3,7:20,5/8/2021,8:03,5/8/2021,48,10,biomph,30,control_1,uninfected,NA,12,0,6,0,NA,6,12,0,0,NA,0,SF_SK,,N,N
+experiment_2,19,3,7:20,5/8/2021,8:03,5/8/2021,48,11,bulinus,30,experimental,uninfected,C005,12,0,3,0,NA,2,5,5,2,0,7,SF_SK,,N,N
+experiment_2,19,3,7:20,5/8/2021,8:03,5/8/2021,48,12,biomph,30,experimental,uninfected,C003,12,0,1,0,NA,0,1,4,2,5,11,SF_SK,shell pieces,N,N
+experiment_2,19,3,7:20,5/8/2021,8:03,5/8/2021,48,13,bulinus,30,experimental,uninfected,C002,12,1,5,0,NA,5,11,0,1,0,1,SF_SK,,N,N
+experiment_2,19,3,7:20,5/8/2021,8:03,5/8/2021,48,14,biomph,30,experimental,uninfected,C006,12,5,2,0,NA,2,9,3,0,0,3,SF_SK,,N,N
+experiment_2,19,3,7:20,5/8/2021,8:03,5/8/2021,48,15,bulinus,30,control_2,uninfected,NA,12,0,7,0,NA,5,12,0,0,NA,0,SF_SK,,N,N
+experiment_2,19,3,7:20,5/8/2021,8:03,5/8/2021,48,16,biomph,30,experimental,uninfected,C004,12,0,3,0,NA,1,4,3,0,5,8,SF_SK,shell pieces,N,N
+experiment_2,19,3,19:00,5/8/2021,NA,5/8/2021,60,1,bulinus,20,control_1,uninfected,NA,12,0,10,0,NA,2,12,0,0,NA,0,SF_RP,,N,N
+experiment_2,19,3,19:00,5/8/2021,NA,5/8/2021,60,2,biomph,20,experimental,uninfected,C012,12,0,6,0,NA,4,10,2,0,0,2,SF_RP,,N,N
+experiment_2,19,3,19:00,5/8/2021,NA,5/8/2021,60,3,bulinus,20,experimental,uninfected,C007,12,0,3,0,NA,8,11,0,1,0,1,SF_RP,,N,N
+experiment_2,19,3,19:00,5/8/2021,NA,5/8/2021,60,4,biomph,20,experimental,uninfected,C011,12,0,5,0,NA,5,10,0,2,0,2,SF_RP,,N,N
+experiment_2,19,3,19:00,5/8/2021,NA,5/8/2021,60,5,bulinus,20,experimental,uninfected,C009,12,0,5,0,NA,4,9,0,2,1,3,SF_RP,shell pieces,N,N
+experiment_2,19,3,19:00,5/8/2021,NA,5/8/2021,60,6,biomph,20,control_2,uninfected,NA,12,0,4,0,NA,8,12,0,0,NA,0,SF_RP,,N,N
+experiment_2,19,3,19:00,5/8/2021,NA,5/8/2021,60,7,bulinus,20,experimental,uninfected,C010,12,0,2,0,NA,10,12,0,1,0,0,SF_RP,1 extra snail,Y,N
+experiment_2,19,3,19:00,5/8/2021,NA,5/8/2021,60,8,biomph,20,experimental,uninfected,C008,12,0,3,0,NA,8,11,0,1,0,1,SF_RP,replaced 2 [too] large [snails],N,N
+experiment_2,19,3,19:00,5/8/2021,NA,5/8/2021,60,9,bulinus,30,experimental,uninfected,C001,12,0,8,0,NA,4,12,0,0,0,0,SF_RP,,N,Y
+experiment_2,19,3,19:00,5/8/2021,NA,5/8/2021,60,10,biomph,30,control_1,uninfected,NA,12,0,4,0,NA,8,12,0,0,NA,0,SF_RP,,N,N
+experiment_2,19,3,19:00,5/8/2021,NA,5/8/2021,60,11,bulinus,30,experimental,uninfected,C005,12,0,4,1,NA,5,10,2,0,0,2,SF_RP,,N,N
+experiment_2,19,3,19:00,5/8/2021,NA,5/8/2021,60,12,biomph,30,experimental,uninfected,C003,12,0,2,0,NA,7,9,2,0,1,3,SF_RP,,N,N
+experiment_2,19,3,19:00,5/8/2021,NA,5/8/2021,60,13,bulinus,30,experimental,uninfected,C002,12,0,6,2,NA,2,10,0,2,0,2,SF_RP,,N,N
+experiment_2,19,3,19:00,5/8/2021,NA,5/8/2021,60,14,biomph,30,experimental,uninfected,C006,12,3,2,0,NA,5,10,1,0,1,2,SF_RP,,N,N
+experiment_2,19,3,19:00,5/8/2021,NA,5/8/2021,60,15,bulinus,30,control_2,uninfected,NA,12,0,6,0,NA,6,12,0,0,NA,0,SF_RP,,N,N
+experiment_2,19,3,19:00,5/8/2021,NA,5/8/2021,60,16,biomph,30,experimental,uninfected,C004,12,2,4,0,NA,2,8,3,0,1,4,SF_RP,shell pieces,N,N
+experiment_2,20,4,7:07,5/8/2021,NA,5/8/2021,72,1,bulinus,20,control_1,uninfected,NA,12,0,8,1,NA,3,12,0,0,NA,NA,SF_AO ,,N,N
+experiment_2,20,4,7:07,5/8/2021,NA,5/8/2021,72,2,biomph,20,experimental,uninfected,C012,12,0,5,0,NA,1,6,5,0,1,NA,SF_AO ,shell pieces ,N,N
+experiment_2,20,4,7:07,5/8/2021,NA,5/8/2021,72,3,bulinus,20,experimental,uninfected,C007,12,1,3,0,NA,6,10,0,0,2,NA,SF_AO ,shell pieces ,N,N
+experiment_2,20,4,7:07,5/8/2021,NA,5/8/2021,72,4,biomph,20,experimental,uninfected,C011,12,0,3,0,NA,2,5,5,2,0,NA,SF_AO ,,N,N
+experiment_2,20,4,7:07,5/8/2021,NA,5/8/2021,72,5,bulinus,20,experimental,uninfected,C009,12,0,7,0,NA,2,9,1,0,2,NA,SF_AO ,shell pieces ,N,N
+experiment_2,20,4,7:07,5/8/2021,NA,5/8/2021,72,6,biomph,20,control_2,uninfected,NA,12,0,9,0,NA,3,12,0,0,NA,NA,SF_AO ,,N,N
+experiment_2,20,4,7:07,5/8/2021,NA,5/8/2021,72,7,bulinus,20,experimental,uninfected,C010,12,0,1,1,NA,10,12,0,0,0,NA,SF_AO ,,N,N
+experiment_2,20,4,7:07,5/8/2021,NA,5/8/2021,72,8,biomph,20,experimental,uninfected,C008,12,0,3,0,NA,2,5,7,0,0,NA,SF_AO ,shell pieces ,N,N
+experiment_2,20,4,7:07,5/8/2021,NA,5/8/2021,72,9,bulinus,30,experimental,uninfected,C001,12,0,6,1,NA,5,12,0,0,0,NA,SF_AO ,lettuce decaying; molt,N,Y
+experiment_2,20,4,7:07,5/8/2021,NA,5/8/2021,72,10,biomph,30,control_1,uninfected,NA,12,0,9,0,NA,3,12,0,0,NA,NA,SF_AO ,,N,N
+experiment_2,20,4,7:07,5/8/2021,NA,5/8/2021,72,11,bulinus,30,experimental,uninfected,C005,12,1,3,0,NA,2,6,3,0,3,NA,SF_AO ,shell pieces ,N,N
+experiment_2,20,4,7:07,5/8/2021,NA,5/8/2021,72,12,biomph,30,experimental,uninfected,C003,12,0,2,0,NA,0,2,4,0,6,NA,SF_AO ,shell pieces ,N,N
+experiment_2,20,4,7:07,5/8/2021,NA,5/8/2021,72,13,bulinus,30,experimental,uninfected,C002,12,0,1,2,NA,5,8,0,0,4,NA,SF_AO ,shell pieces ,N,N
+experiment_2,20,4,7:07,5/8/2021,NA,5/8/2021,72,14,biomph,30,experimental,uninfected,C006,12,3,0,0,NA,2,5,6,0,1,NA,SF_AO ,shell pieces ,N,N
+experiment_2,20,4,7:07,5/8/2021,NA,5/8/2021,72,15,bulinus,30,control_2,uninfected,NA,12,0,10,0,NA,2,12,0,0,NA,NA,SF_AO ,,N,N
+experiment_2,20,4,7:07,5/8/2021,NA,5/8/2021,72,16,biomph,30,experimental,uninfected,C004,12,1,1,0,NA,3,5,3,0,4,NA,SF_AO ,shell pieces ,N,N
+experiment_3,21,1,7:15,10/8/2021,7:37,10/8/2021,0,1,bulinus,25,control_2,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK,,N,N
+experiment_3,21,1,7:15,10/8/2021,7:37,10/8/2021,0,2,biomph,25,experimental,uninfected,C008,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK,,N,N
+experiment_3,21,1,7:15,10/8/2021,7:37,10/8/2021,0,3,bulinus,25,experimental,uninfected,C012,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK,,N,N
+experiment_3,21,1,7:15,10/8/2021,7:37,10/8/2021,0,4,biomph,25,experimental,uninfected,C010,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK,,N,N
+experiment_3,21,1,7:15,10/8/2021,7:37,10/8/2021,0,5,bulinus,25,experimental,uninfected,C011,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK,,N,N
+experiment_3,21,1,7:15,10/8/2021,7:37,10/8/2021,0,6,biomph,25,control_1,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK,,N,N
+experiment_3,21,1,7:15,10/8/2021,7:37,10/8/2021,0,7,bulinus,25,experimental,uninfected,C009,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK,,N,N
+experiment_3,21,1,7:15,10/8/2021,7:37,10/8/2021,0,8,biomph,25,experimental,uninfected,C007,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK,,N,N
+experiment_3,21,1,19:03,10/8/2021,19:25,10/8/2021,12,1,bulinus,25,control_2,uninfected,NA,12,5,2,0,NA,5,12,0,0,NA,0,SF_RP,,N,N
+experiment_3,21,1,19:03,10/8/2021,19:25,10/8/2021,12,2,biomph,25,experimental,uninfected,C008,12,4,0,0,NA,4,8,3,1,0,4,SF_RP,,N,N
+experiment_3,21,1,19:03,10/8/2021,19:25,10/8/2021,12,3,bulinus,25,experimental,uninfected,C012,12,4,1,0,NA,1,6,0,1,5,6,SF_RP,shell pieces,N,N
+experiment_3,21,1,19:03,10/8/2021,19:25,10/8/2021,12,4,biomph,25,experimental,uninfected,C010,12,4,2,1,NA,1,8,3,0,1,4,SF_RP,,N,N
+experiment_3,21,1,19:03,10/8/2021,19:25,10/8/2021,12,5,bulinus,25,experimental,uninfected,C011,12,1,3,0,NA,7,11,0,0,1,1,SF_RP,,N,N
+experiment_3,21,1,19:03,10/8/2021,19:25,10/8/2021,12,6,biomph,25,control_1,uninfected,NA,12,0,8,0,NA,4,12,0,0,NA,0,SF_RP,,N,N
+experiment_3,21,1,19:03,10/8/2021,19:25,10/8/2021,12,7,bulinus,25,experimental,uninfected,C009,12,2,0,0,NA,3,5,0,2,5,7,SF_RP,shell pieces,N,N
+experiment_3,21,1,19:03,10/8/2021,19:25,10/8/2021,12,8,biomph,25,experimental,uninfected,C007,12,1,2,1,NA,7,11,1,0,0,1,SF_RP,,N,N
+experiment_3,22,2,7:04,11/8/2021,7:20,11/8/2021,24,1,bulinus,25,control_2,uninfected,NA,12,1,8,1,NA,2,12,0,0,NA,0,SF_SK_AO,,N,N
+experiment_3,22,2,7:04,11/8/2021,7:20,11/8/2021,24,2,biomph,25,experimental,uninfected,C008,12,1,0,0,NA,1,2,8,1,1,10,SF_SK_AO,,N,N
+experiment_3,22,2,7:04,11/8/2021,7:20,11/8/2021,24,3,bulinus,25,experimental,uninfected,C012,12,1,0,0,NA,1,2,3,3,4,10,SF_SK_AO,shell pieces,N,N
+experiment_3,22,2,7:04,11/8/2021,7:20,11/8/2021,24,4,biomph,25,experimental,uninfected,C010,12,3,1,0,NA,0,4,5,0,3,8,SF_SK_AO,shell pieces,N,N
+experiment_3,22,2,7:04,11/8/2021,7:20,11/8/2021,24,5,bulinus,25,experimental,uninfected,C011,12,1,0,3,NA,8,12,0,0,0,0,SF_SK_AO,,N,N
+experiment_3,22,2,7:04,11/8/2021,7:20,11/8/2021,24,6,biomph,25,control_1,uninfected,NA,12,0,4,1,NA,7,12,0,0,NA,0,SF_SK_AO,,N,N
+experiment_3,22,2,7:04,11/8/2021,7:20,11/8/2021,24,7,bulinus,25,experimental,uninfected,C009,12,1,0,0,NA,1,2,5,1,4,10,SF_SK_AO,shell pieces,N,N
+experiment_3,22,2,7:04,11/8/2021,7:20,11/8/2021,24,8,biomph,25,experimental,uninfected,C007,12,3,1,0,NA,6,10,2,0,0,2,SF_SK_AO,,N,N
+experiment_3,22,2,19:02,11/8/2021,19:25,11/8/2021,36,1,bulinus,25,control_2,uninfected,NA,12,1,10,0,NA,1,12,0,0,NA,0,SF_RP,,N,N
+experiment_3,22,2,19:02,11/8/2021,19:25,11/8/2021,36,2,biomph,25,experimental,uninfected,C008,12,3,5,0,NA,0,8,2,0,2,4,SF_RP,,N,N
+experiment_3,22,2,19:02,11/8/2021,19:25,11/8/2021,36,3,bulinus,25,experimental,uninfected,C012,12,2,4,0,NA,3,9,0,2,1,3,SF_RP,shell pieces,N,N
+experiment_3,22,2,19:02,11/8/2021,19:25,11/8/2021,36,4,biomph,25,experimental,uninfected,C010,12,3,2,1,NA,3,9,1,0,2,3,SF_RP,shell pieces,N,N
+experiment_3,22,2,19:02,11/8/2021,19:25,11/8/2021,36,5,bulinus,25,experimental,uninfected,C011,12,2,1,0,NA,7,10,0,1,1,2,SF_RP,,N,N
+experiment_3,22,2,19:02,11/8/2021,19:25,11/8/2021,36,6,biomph,25,control_1,uninfected,NA,12,0,8,0,NA,4,12,0,0,NA,0,SF_RP,,N,N
+experiment_3,22,2,19:02,11/8/2021,19:25,11/8/2021,36,7,bulinus,25,experimental,uninfected,C009,12,0,4,0,NA,6,10,0,0,2,2,SF_RP,,N,N
+experiment_3,22,2,19:02,11/8/2021,19:25,11/8/2021,36,8,biomph,25,experimental,uninfected,C007,12,3,4,0,NA,2,9,2,1,0,3,SF_RP,,N,N
+experiment_3,23,3,7:10,12/8/2021,NA,12/8/2021,48,1,bulinus,25,control_2,uninfected,NA,12,0,9,0,NA,3,12,0,0,NA,0,SF_AO,,N,N
+experiment_3,23,3,7:10,12/8/2021,NA,12/8/2021,48,2,biomph,25,experimental,uninfected,C008,12,4,0,0,NA,0,4,6,0,2,8,SF_AO,shell pieces,N,N
+experiment_3,23,3,7:10,12/8/2021,NA,12/8/2021,48,3,bulinus,25,experimental,uninfected,C012,12,0,3,1,NA,2,6,4,1,1,6,SF_AO,shell pieces,N,N
+experiment_3,23,3,7:10,12/8/2021,NA,12/8/2021,48,4,biomph,25,experimental,uninfected,C010,12,7,1,0,NA,0,8,2,0,2,4,SF_AO,shell pieces,N,N
+experiment_3,23,3,7:10,12/8/2021,NA,12/8/2021,48,5,bulinus,25,experimental,uninfected,C011,12,1,0,1,NA,10,12,0,0,0,0,SF_AO,,N,N
+experiment_3,23,3,7:10,12/8/2021,NA,12/8/2021,48,6,biomph,25,control_1,uninfected,NA,12,0,6,1,NA,5,12,0,0,NA,0,SF_AO,,N,N
+experiment_3,23,3,7:10,12/8/2021,NA,12/8/2021,48,7,bulinus,25,experimental,uninfected,C009,12,0,3,0,NA,0,3,3,2,4,9,SF_AO,shell pieces,N,N
+experiment_3,23,3,7:10,12/8/2021,NA,12/8/2021,48,8,biomph,25,experimental,uninfected,C007,12,2,2,1,NA,5,10,2,0,0,2,SF_AO,,N,N
+experiment_3,23,3,19:09,12/8/2021,19:32,12/8/2021,60,1,bulinus,25,control_2,uninfected,NA,12,1,4,1,NA,6,12,0,0,NA,0,SF_RP,,N,N
+experiment_3,23,3,19:09,12/8/2021,19:32,12/8/2021,60,2,biomph,25,experimental,uninfected,C008,12,2,6,0,NA,2,10,1,1,0,2,SF_RP,,N,N
+experiment_3,23,3,19:09,12/8/2021,19:32,12/8/2021,60,3,bulinus,25,experimental,uninfected,C012,12,0,4,0,NA,7,11,0,1,0,1,SF_RP,,N,N
+experiment_3,23,3,19:09,12/8/2021,19:32,12/8/2021,60,4,biomph,25,experimental,uninfected,C010,12,4,0,0,NA,2,6,3,1,2,6,SF_RP,,N,N
+experiment_3,23,3,19:09,12/8/2021,19:32,12/8/2021,60,5,bulinus,25,experimental,uninfected,C011,12,2,0,0,NA,7,9,0,2,1,3,SF_RP,,N,N
+experiment_3,23,3,19:09,12/8/2021,19:32,12/8/2021,60,6,biomph,25,control_1,uninfected,NA,12,0,6,0,NA,6,12,0,0,NA,0,SF_RP,,N,N
+experiment_3,23,3,19:09,12/8/2021,19:32,12/8/2021,60,7,bulinus,25,experimental,uninfected,C009,12,0,3,0,NA,7,10,0,2,0,2,SF_RP,,N,N
+experiment_3,23,3,19:09,12/8/2021,19:32,12/8/2021,60,8,biomph,25,experimental,uninfected,C007,12,1,3,0,NA,6,10,2,0,0,2,SF_RP,,N,N
+experiment_3,24,4,7:12,13/08/21,7:48,13/08/21,72,1,bulinus,25,control_2,uninfected,NA,12,0,9,0,NA,3,12,0,0,NA,NA,SF_AO,,N,N
+experiment_3,24,4,7:12,13/08/21,7:48,13/08/21,72,2,biomph,25,experimental,uninfected,C008,12,4,0,0,NA,1,5,3,0,4,NA,SF_AO,shell pieces,N,N
+experiment_3,24,4,7:12,13/08/21,7:48,13/08/21,72,3,bulinus,25,experimental,uninfected,C012,12,0,2,1,NA,6,9,2,0,1,NA,SF_AO,shell pieces,N,N
+experiment_3,24,4,7:12,13/08/21,7:48,13/08/21,72,4,biomph,25,experimental,uninfected,C010,12,2,5,0,NA,1,8,4,0,0,NA,SF_AO,,N,N
+experiment_3,24,4,7:12,13/08/21,7:48,13/08/21,72,5,bulinus,25,experimental,uninfected,C011,12,0,4,3,NA,2,9,0,0,3,NA,SF_AO,,N,N
+experiment_3,24,4,7:12,13/08/21,7:48,13/08/21,72,6,biomph,25,control_1,uninfected,NA,12,0,4,0,NA,8,12,0,0,NA,NA,SF_AO,,N,N
+experiment_3,24,4,7:12,13/08/21,7:48,13/08/21,72,7,bulinus,25,experimental,uninfected,C009,12,1,2,0,NA,4,7,4,0,1,NA,SF_AO,shell pieces,N,N
+experiment_3,24,4,7:12,13/08/21,7:48,13/08/21,72,8,biomph,25,experimental,uninfected,C007,12,4,3,0,NA,2,9,3,0,0,NA,SF_AO,,N,N
+pilot_ex_un_v_in_1,1,1,7:20,27/09/21,7:30,27/09/21,0,1,bulinus,25,experimental,uninfected,C010,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO,,N,N
+pilot_ex_un_v_in_1,1,1,7:20,27/09/21,7:30,27/09/21,0,2,biomph,25,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO,,N,N
+pilot_ex_un_v_in_1,1,1,7:20,27/09/21,7:30,27/09/21,0,3,bulinus,25,experimental,infected,C007,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO,,N,N
+pilot_ex_un_v_in_1,1,1,7:20,27/09/21,7:30,27/09/21,0,4,biomph,25,experimental,infected,C012,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO,,N,N
+pilot_ex_un_v_in_1,1,1,7:20,27/09/21,7:30,27/09/21,0,5,bulinus,25,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO,,N,N
+pilot_ex_un_v_in_1,1,1,7:20,27/09/21,7:30,27/09/21,0,6,biomph,25,experimental,uninfected,C008,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO,,N,N
+pilot_ex_un_v_in_1,1,1,7:20,27/09/21,7:30,27/09/21,0,7,bulinus,25,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO,,N,N
+pilot_ex_un_v_in_1,1,1,7:20,27/09/21,7:30,27/09/21,0,8,biomph,25,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO,,N,N
+pilot_ex_un_v_in_1,1,1,7:20,27/09/21,7:30,27/09/21,0,9,bulinus,30,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO,,N,N
+pilot_ex_un_v_in_1,1,1,7:20,27/09/21,7:30,27/09/21,0,10,bulinus,30,experimental,infected,C002,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO,,N,N
+pilot_ex_un_v_in_1,1,1,7:20,27/09/21,7:30,27/09/21,0,11,biomph,30,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO,,N,N
+pilot_ex_un_v_in_1,1,1,7:20,27/09/21,7:30,27/09/21,0,12,biomph,30,experimental,uninfected,C005,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO,,N,N
+pilot_ex_un_v_in_1,1,1,7:20,27/09/21,7:30,27/09/21,0,13,bulinus,30,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO,,N,N
+pilot_ex_un_v_in_1,1,1,7:20,27/09/21,7:30,27/09/21,0,14,biomph,30,experimental,infected,C001,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO,,N,N
+pilot_ex_un_v_in_1,1,1,7:20,27/09/21,7:30,27/09/21,0,15,bulinus,30,experimental,uninfected,C006,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO,,N,N
+pilot_ex_un_v_in_1,1,1,7:20,27/09/21,7:30,27/09/21,0,16,biomph,30,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO,,N,N
+pilot_ex_un_v_in_1,1,1,NA,27/09/21,NA,27/09/21,12,1,bulinus,25,experimental,uninfected,C010,12,0,4,0,0,6,10,1,0,1,2,ID_SF,shell pieces,N,N
+pilot_ex_un_v_in_1,1,1,NA,27/09/21,NA,27/09/21,12,2,biomph,25,control,infected,NA,12,1,0,0,0,11,12,0,0,NA,0,ID_SF,,N,N
+pilot_ex_un_v_in_1,1,1,NA,27/09/21,NA,27/09/21,12,3,bulinus,25,experimental,infected,C007,12,2,0,0,1,1,4,0,0,8,8,ID_SF,shelter snail was under the shelter; shell pieces ,N,N
+pilot_ex_un_v_in_1,1,1,NA,27/09/21,NA,27/09/21,12,4,biomph,25,experimental,infected,C012,12,2,0,0,0,6,8,3,1,0,4,ID_SF,,N,Y
+pilot_ex_un_v_in_1,1,1,NA,27/09/21,NA,27/09/21,12,5,bulinus,25,control,uninfected,NA,12,6,2,1,0,3,12,0,0,NA,0,ID_SF,,N,N
+pilot_ex_un_v_in_1,1,1,NA,27/09/21,NA,27/09/21,12,6,biomph,25,experimental,uninfected,C008,12,3,2,0,0,3,8,4,0,0,4,ID_SF,,N,N
+pilot_ex_un_v_in_1,1,1,NA,27/09/21,NA,27/09/21,12,7,bulinus,25,control,infected,NA,12,1,1,0,0,10,12,0,0,NA,0,ID_SF,,N,N
+pilot_ex_un_v_in_1,1,1,NA,27/09/21,NA,27/09/21,12,8,biomph,25,control,uninfected,NA,12,0,0,0,0,12,12,0,0,NA,0,ID_SF,,N,N
+pilot_ex_un_v_in_1,1,1,NA,27/09/21,NA,27/09/21,12,9,bulinus,30,control,infected,NA,12,3,2,0,0,7,12,0,0,NA,0,ID_SF,,N,N
+pilot_ex_un_v_in_1,1,1,NA,27/09/21,NA,27/09/21,12,10,bulinus,30,experimental,infected,C002,12,4,0,0,2,1,7,0,0,5,5,ID_SF,2 [snails] under shelter; shell pieces ,N,N
+pilot_ex_un_v_in_1,1,1,NA,27/09/21,NA,27/09/21,12,11,biomph,30,control,uninfected,NA,12,0,4,0,0,8,12,0,0,NA,0,ID_SF,,N,N
+pilot_ex_un_v_in_1,1,1,NA,27/09/21,NA,27/09/21,12,12,biomph,30,experimental,uninfected,C005,12,1,4,0,0,2,7,5,0,0,5,ID_SF,,N,N
+pilot_ex_un_v_in_1,1,1,NA,27/09/21,NA,27/09/21,12,13,bulinus,30,control,uninfected,NA,12,1,4,1,0,6,12,0,0,NA,0,ID_SF,,N,N
+pilot_ex_un_v_in_1,1,1,NA,27/09/21,NA,27/09/21,12,14,biomph,30,experimental,infected,C001,12,3,5,0,0,1,9,2,0,1,3,ID_SF,,N,N
+pilot_ex_un_v_in_1,1,1,NA,27/09/21,NA,27/09/21,12,15,bulinus,30,experimental,uninfected,C006,12,3,2,0,0,4,9,1,0,2,3,ID_SF,,N,N
+pilot_ex_un_v_in_1,1,1,NA,27/09/21,NA,27/09/21,12,16,biomph,30,control,infected,NA,12,0,2,0,0,10,12,0,0,NA,0,ID_SF,,N,N
+pilot_ex_un_v_in_1,2,2,7:15,28/09/21,7:45,28/09/21,24,1,bulinus,25,experimental,uninfected,C010,12,1,0,0,0,7,8,2,1,1,4,ID_SF_AO,shell pieces,N,N
+pilot_ex_un_v_in_1,2,2,7:15,28/09/21,7:45,28/09/21,24,2,biomph,25,control,infected,NA,12,1,3,0,1,7,12,0,0,NA,0,ID_SF_AO,"""in shelter"" was actually under ",N,N
+pilot_ex_un_v_in_1,2,2,7:15,28/09/21,7:45,28/09/21,24,3,bulinus,25,experimental,infected,C007,12,2,0,1,0,0,3,0,0,9,9,ID_SF_AO,shell pieces,N,N
+pilot_ex_un_v_in_1,2,2,7:15,28/09/21,7:45,28/09/21,24,4,biomph,25,experimental,infected,C012,12,2,1,0,0,9,12,0,0,0,0,ID_SF_AO,crayfish molted,N,Y
+pilot_ex_un_v_in_1,2,2,7:15,28/09/21,7:45,28/09/21,24,5,bulinus,25,control,uninfected,NA,12,2,2,1,0,7,12,0,0,NA,0,ID_SF_AO,,N,N
+pilot_ex_un_v_in_1,2,2,7:15,28/09/21,7:45,28/09/21,24,6,biomph,25,experimental,uninfected,C008,12,0,3,0,0,3,6,4,0,2,6,ID_SF_AO,shell pieces,N,N
+pilot_ex_un_v_in_1,2,2,7:15,28/09/21,7:45,28/09/21,24,7,bulinus,25,control,infected,NA,12,0,2,0,0,10,12,0,0,NA,0,ID_SF_AO,,N,N
+pilot_ex_un_v_in_1,2,2,7:15,28/09/21,7:45,28/09/21,24,8,biomph,25,control,uninfected,NA,12,0,3,1,0,8,12,0,0,NA,0,ID_SF_AO,,N,N
+pilot_ex_un_v_in_1,2,2,7:15,28/09/21,7:45,28/09/21,24,9,bulinus,30,control,infected,NA,12,0,2,0,0,10,12,0,0,NA,0,ID_SF_AO,,N,N
+pilot_ex_un_v_in_1,2,2,7:15,28/09/21,7:45,28/09/21,24,10,bulinus,30,experimental,infected,C002,12,1,0,0,3,1,5,2,0,5,7,ID_SF_AO,"3 ""in shelter"" actually under",N,N
+pilot_ex_un_v_in_1,2,2,7:15,28/09/21,7:45,28/09/21,24,11,biomph,30,control,uninfected,NA,12,0,3,0,0,9,12,0,0,NA,0,ID_SF_AO,,N,N
+pilot_ex_un_v_in_1,2,2,7:15,28/09/21,7:45,28/09/21,24,12,biomph,30,experimental,uninfected,C005,12,2,2,0,0,3,7,1,0,4,5,ID_SF_AO,shell pieces,N,N
+pilot_ex_un_v_in_1,2,2,7:15,28/09/21,7:45,28/09/21,24,13,bulinus,30,control,uninfected,NA,12,0,9,0,0,3,12,0,0,NA,0,ID_SF_AO,,N,N
+pilot_ex_un_v_in_1,2,2,7:15,28/09/21,7:45,28/09/21,24,14,biomph,30,experimental,infected,C001,12,1,7,0,0,3,11,1,0,0,1,ID_SF_AO,,N,N
+pilot_ex_un_v_in_1,2,2,7:15,28/09/21,7:45,28/09/21,24,15,bulinus,30,experimental,uninfected,C006,12,2,2,0,0,7,11,0,0,1,1,ID_SF_AO,shell pieces ,N,N
+pilot_ex_un_v_in_1,2,2,7:15,28/09/21,7:45,28/09/21,24,16,biomph,30,control,infected,NA,12,0,4,0,0,8,12,0,0,NA,0,ID_SF_AO,,N,N
+pilot_ex_un_v_in_1,2,2,19:00,28/09/21,19:46,28/09/21,36,1,bulinus,25,experimental,uninfected,C010,12,0,3,0,0,8,11,1,0,0,1,SF_ID,,N,N
+pilot_ex_un_v_in_1,2,2,19:00,28/09/21,19:46,28/09/21,36,2,biomph,25,control,infected,NA,12,0,0,0,0,12,12,0,0,NA,0,SF_ID,,N,N
+pilot_ex_un_v_in_1,2,2,19:00,28/09/21,19:46,28/09/21,36,3,bulinus,25,experimental,infected,C007,12,2,0,0,0,2,4,0,2,6,8,SF_ID,,N,N
+pilot_ex_un_v_in_1,2,2,19:00,28/09/21,19:46,28/09/21,36,4,biomph,25,experimental,infected,C012,12,2,2,0,0,6,10,0,2,0,2,SF_ID,,N,Y
+pilot_ex_un_v_in_1,2,2,19:00,28/09/21,19:46,28/09/21,36,5,bulinus,25,control,uninfected,NA,12,2,4,0,0,6,12,0,0,NA,0,SF_ID,,N,N
+pilot_ex_un_v_in_1,2,2,19:00,28/09/21,19:46,28/09/21,36,6,biomph,25,experimental,uninfected,C008,12,1,0,0,0,8,9,1,2,0,3,SF_ID,shell pieces,N,N
+pilot_ex_un_v_in_1,2,2,19:00,28/09/21,19:46,28/09/21,36,7,bulinus,25,control,infected,NA,12,0,3,0,0,9,12,0,0,NA,0,SF_ID,,N,N
+pilot_ex_un_v_in_1,2,2,19:00,28/09/21,19:46,28/09/21,36,8,biomph,25,control,uninfected,NA,12,0,6,0,0,6,12,0,0,NA,0,SF_ID,,N,N
+pilot_ex_un_v_in_1,2,2,19:00,28/09/21,19:46,28/09/21,36,9,bulinus,30,control,infected,NA,12,0,3,0,0,9,12,0,0,NA,0,SF_ID,,N,N
+pilot_ex_un_v_in_1,2,2,19:00,28/09/21,19:46,28/09/21,36,10,bulinus,30,experimental,infected,C002,12,2,1,0,1,3,7,0,0,5,5,SF_ID,shelter = under; shell pieces,N,N
+pilot_ex_un_v_in_1,2,2,19:00,28/09/21,19:46,28/09/21,36,11,biomph,30,control,uninfected,NA,12,1,6,0,0,5,12,0,0,NA,0,SF_ID,,N,N
+pilot_ex_un_v_in_1,2,2,19:00,28/09/21,19:46,28/09/21,36,12,biomph,30,experimental,uninfected,C005,12,1,7,0,0,2,10,0,0,2,2,SF_ID,,N,N
+pilot_ex_un_v_in_1,2,2,19:00,28/09/21,19:46,28/09/21,36,13,bulinus,30,control,uninfected,NA,12,0,9,0,0,3,12,0,0,NA,0,SF_ID,,N,N
+pilot_ex_un_v_in_1,2,2,19:00,28/09/21,19:46,28/09/21,36,14,biomph,30,experimental,infected,C001,12,0,6,0,0,5,11,0,1,0,1,SF_ID,,N,N
+pilot_ex_un_v_in_1,2,2,19:00,28/09/21,19:46,28/09/21,36,15,bulinus,30,experimental,uninfected,C006,12,2,3,0,0,3,8,0,0,4,4,SF_ID,shell pieces,N,N
+pilot_ex_un_v_in_1,2,2,19:00,28/09/21,19:46,28/09/21,36,16,biomph,30,control,infected,NA,12,0,1,0,0,11,12,0,0,NA,0,SF_ID,,N,N
+pilot_ex_un_v_in_1,3,3,7:05,29/09/21,7:30,29/09/21,48,1,bulinus,25,experimental,uninfected,C010,12,1,1,0,0,8,10,2,0,0,2,SK_AO_SF,,N,N
+pilot_ex_un_v_in_1,3,3,7:05,29/09/21,7:30,29/09/21,48,2,biomph,25,control,infected,NA,12,0,0,0,0,12,12,0,0,NA,0,SK_AO_SF,,N,N
+pilot_ex_un_v_in_1,3,3,7:05,29/09/21,7:30,29/09/21,48,3,bulinus,25,experimental,infected,C007,12,4,0,0,0,0,4,0,0,8,8,SK_AO_SF,shell pieces,N,N
+pilot_ex_un_v_in_1,3,3,7:05,29/09/21,7:30,29/09/21,48,4,biomph,25,experimental,infected,C012,12,2,3,0,0,4,9,3,0,0,3,SK_AO_SF,,N,N
+pilot_ex_un_v_in_1,3,3,7:05,29/09/21,7:30,29/09/21,48,5,bulinus,25,control,uninfected,NA,12,1,3,0,0,8,12,0,0,NA,0,SK_AO_SF,,N,N
+pilot_ex_un_v_in_1,3,3,7:05,29/09/21,7:30,29/09/21,48,6,biomph,25,experimental,uninfected,C008,12,4,0,0,0,3,7,4,0,1,5,SK_AO_SF,shell pieces,N,N
+pilot_ex_un_v_in_1,3,3,7:05,29/09/21,7:30,29/09/21,48,7,bulinus,25,control,infected,NA,12,1,3,1,0,7,12,0,0,NA,0,SK_AO_SF,,N,N
+pilot_ex_un_v_in_1,3,3,7:05,29/09/21,7:30,29/09/21,48,8,biomph,25,control,uninfected,NA,12,0,4,0,0,8,12,0,0,NA,0,SK_AO_SF,,N,N
+pilot_ex_un_v_in_1,3,3,7:05,29/09/21,7:30,29/09/21,48,9,bulinus,30,control,infected,NA,12,0,4,0,0,8,12,0,0,NA,0,SK_AO_SF,,N,N
+pilot_ex_un_v_in_1,3,3,7:05,29/09/21,7:30,29/09/21,48,10,bulinus,30,experimental,infected,C002,12,1,2,1,0,0,4,0,0,8,8,SK_AO_SF,shell pieces,N,N
+pilot_ex_un_v_in_1,3,3,7:05,29/09/21,7:30,29/09/21,48,11,biomph,30,control,uninfected,NA,12,0,5,0,0,7,12,0,0,NA,0,SK_AO_SF,,N,N
+pilot_ex_un_v_in_1,3,3,7:05,29/09/21,7:30,29/09/21,48,12,biomph,30,experimental,uninfected,C005,12,3,2,0,0,3,8,0,0,4,4,SK_AO_SF,shell pieces,N,N
+pilot_ex_un_v_in_1,3,3,7:05,29/09/21,7:30,29/09/21,48,13,bulinus,30,control,uninfected,NA,12,0,9,0,0,3,12,0,0,NA,0,SK_AO_SF,,N,N
+pilot_ex_un_v_in_1,3,3,7:05,29/09/21,7:30,29/09/21,48,14,biomph,30,experimental,infected,C001,12,1,10,0,0,0,11,1,0,0,1,SK_AO_SF,,N,N
+pilot_ex_un_v_in_1,3,3,7:05,29/09/21,7:30,29/09/21,48,15,bulinus,30,experimental,uninfected,C006,12,1,5,0,0,5,11,1,0,0,1,SK_AO_SF,,N,N
+pilot_ex_un_v_in_1,3,3,7:05,29/09/21,7:30,29/09/21,48,16,biomph,30,control,infected,NA,12,0,5,0,0,7,12,0,0,NA,0,SK_AO_SF,,N,N
+pilot_ex_un_v_in_1,3,3,19:11,29/09/21,19:50,29/09/21,60,1,bulinus,25,experimental,uninfected,C010,12,3,3,0,0,3,9,0,0,3,3,SK_SF,shell pieces,N,N
+pilot_ex_un_v_in_1,3,3,19:11,29/09/21,19:50,29/09/21,60,2,biomph,25,control,infected,NA,12,0,1,0,0,11,12,0,0,NA,0,SK_SF,,N,N
+pilot_ex_un_v_in_1,3,3,19:11,29/09/21,19:50,29/09/21,60,3,bulinus,25,experimental,infected,C007,12,1,2,0,0,4,7,0,0,6,6,SK_SF,shell pieces; one snail eaten during verification (i.e. re-counting),Y,N
+pilot_ex_un_v_in_1,3,3,19:11,29/09/21,19:50,29/09/21,60,4,biomph,25,experimental,infected,C012,12,2,0,0,0,9,11,1,0,0,1,SK_SF,,N,N
+pilot_ex_un_v_in_1,3,3,19:11,29/09/21,19:50,29/09/21,60,5,bulinus,25,control,uninfected,NA,12,1,2,0,0,9,12,0,0,NA,0,SK_SF,,N,N
+pilot_ex_un_v_in_1,3,3,19:11,29/09/21,19:50,29/09/21,60,6,biomph,25,experimental,uninfected,C008,12,2,3,0,0,2,7,5,0,0,5,SK_SF,,N,N
+pilot_ex_un_v_in_1,3,3,19:11,29/09/21,19:50,29/09/21,60,7,bulinus,25,control,infected,NA,12,1,7,0,0,4,12,0,0,NA,0,SK_SF,,N,N
+pilot_ex_un_v_in_1,3,3,19:11,29/09/21,19:50,29/09/21,60,8,biomph,25,control,uninfected,NA,12,0,4,0,0,8,12,0,0,NA,0,SK_SF,,N,N
+pilot_ex_un_v_in_1,3,3,19:11,29/09/21,19:50,29/09/21,60,9,bulinus,30,control,infected,NA,12,0,5,0,1,6,12,0,0,NA,0,SK_SF,shelter = under,N,N
+pilot_ex_un_v_in_1,3,3,19:11,29/09/21,19:50,29/09/21,60,10,bulinus,30,experimental,infected,C002,12,3,1,0,0,1,5,0,0,7,7,SK_SF,shell pieces,N,N
+pilot_ex_un_v_in_1,3,3,19:11,29/09/21,19:50,29/09/21,60,11,biomph,30,control,uninfected,NA,12,0,8,1,0,3,12,0,0,NA,0,SK_SF,,N,N
+pilot_ex_un_v_in_1,3,3,19:11,29/09/21,19:50,29/09/21,60,12,biomph,30,experimental,uninfected,C005,12,3,3,0,0,4,10,1,0,1,2,SK_SF,,N,N
+pilot_ex_un_v_in_1,3,3,19:11,29/09/21,19:50,29/09/21,60,13,bulinus,30,control,uninfected,NA,12,1,6,0,0,5,12,0,0,NA,0,SK_SF,,N,N
+pilot_ex_un_v_in_1,3,3,19:11,29/09/21,19:50,29/09/21,60,14,biomph,30,experimental,infected,C001,12,0,11,0,0,0,11,1,0,0,1,SK_SF,,N,N
+pilot_ex_un_v_in_1,3,3,19:11,29/09/21,19:50,29/09/21,60,15,bulinus,30,experimental,uninfected,C006,12,0,6,0,0,2,8,0,2,2,4,SK_SF,shell pieces ,N,N
+pilot_ex_un_v_in_1,3,3,19:11,29/09/21,19:50,29/09/21,60,16,biomph,30,control,infected,NA,12,1,5,0,0,6,12,0,0,NA,0,SK_SF,,N,N
+pilot_ex_un_v_in_1,4,4,7:09,30/09/21,7:28,30/09/21,72,1,bulinus,25,experimental,uninfected,C010,12,3,4,0,0,3,10,2,0,0,NA,ID_SF,,N,N
+pilot_ex_un_v_in_1,4,4,7:09,30/09/21,7:28,30/09/21,72,2,biomph,25,control,infected,NA,12,0,0,0,0,12,12,0,0,NA,NA,ID_SF,,N,N
+pilot_ex_un_v_in_1,4,4,7:09,30/09/21,7:28,30/09/21,72,3,bulinus,25,experimental,infected,C007,12,0,0,0,0,1,1,0,1,10,NA,ID_SF,shell pieces,Y,N
+pilot_ex_un_v_in_1,4,4,7:09,30/09/21,7:28,30/09/21,72,4,biomph,25,experimental,infected,C012,12,2,1,0,0,2,5,3,0,4,NA,ID_SF,shell pieces,N,N
+pilot_ex_un_v_in_1,4,4,7:09,30/09/21,7:28,30/09/21,72,5,bulinus,25,control,uninfected,NA,12,0,5,0,0,7,12,0,0,NA,NA,ID_SF,,N,N
+pilot_ex_un_v_in_1,4,4,7:09,30/09/21,7:28,30/09/21,72,6,biomph,25,experimental,uninfected,C008,12,2,0,0,0,1,3,7,2,0,NA,ID_SF,,N,N
+pilot_ex_un_v_in_1,4,4,7:09,30/09/21,7:28,30/09/21,72,7,bulinus,25,control,infected,NA,12,1,4,0,0,7,12,0,0,NA,NA,ID_SF,,N,N
+pilot_ex_un_v_in_1,4,4,7:09,30/09/21,7:28,30/09/21,72,8,biomph,25,control,uninfected,NA,12,0,2,0,0,10,12,0,0,NA,NA,ID_SF,,N,N
+pilot_ex_un_v_in_1,4,4,7:09,30/09/21,7:28,30/09/21,72,9,bulinus,30,control,infected,NA,12,0,1,0,0,11,12,0,0,NA,NA,ID_SF,,N,N
+pilot_ex_un_v_in_1,4,4,7:09,30/09/21,7:28,30/09/21,72,10,bulinus,30,experimental,infected,C002,12,2,0,0,0,0,2,0,0,10,NA,ID_SF,shell pieces,N,N
+pilot_ex_un_v_in_1,4,4,7:09,30/09/21,7:28,30/09/21,72,11,biomph,30,control,uninfected,NA,12,0,2,0,0,10,12,0,0,NA,NA,ID_SF,,N,N
+pilot_ex_un_v_in_1,4,4,7:09,30/09/21,7:28,30/09/21,72,12,biomph,30,experimental,uninfected,C005,12,3,1,0,0,1,5,3,0,4,NA,ID_SF,shell pieces,N,N
+pilot_ex_un_v_in_1,4,4,7:09,30/09/21,7:28,30/09/21,72,13,bulinus,30,control,uninfected,NA,12,2,5,3,0,2,12,0,0,NA,NA,ID_SF,,N,N
+pilot_ex_un_v_in_1,4,4,7:09,30/09/21,7:28,30/09/21,72,14,biomph,30,experimental,infected,C001,12,4,5,0,0,2,11,1,0,0,NA,ID_SF,,N,N
+pilot_ex_un_v_in_1,4,4,7:09,30/09/21,7:28,30/09/21,72,15,bulinus,30,experimental,uninfected,C006,12,1,4,0,0,3,8,2,1,1,NA,ID_SF,,N,N
+pilot_ex_un_v_in_1,4,4,7:09,30/09/21,7:28,30/09/21,72,16,biomph,30,control,infected,NA,12,1,7,0,0,4,12,0,0,NA,NA,ID_SF,,N,N
+ex_un_v_in_1,1,1,7:00,25/10/21,7:55,25/10/21,0,1,bulinus,25,experimental,uninfected,C009,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+ex_un_v_in_1,1,1,7:00,25/10/21,7:55,25/10/21,0,2,biomph,25,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+ex_un_v_in_1,1,1,7:00,25/10/21,7:55,25/10/21,0,3,bulinus,25,experimental,infected,C007,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+ex_un_v_in_1,1,1,7:00,25/10/21,7:55,25/10/21,0,4,biomph,25,experimental,infected,C012,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+ex_un_v_in_1,1,1,7:00,25/10/21,7:55,25/10/21,0,5,bulinus,25,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+ex_un_v_in_1,1,1,7:00,25/10/21,7:55,25/10/21,0,6,biomph,25,experimental,uninfected,C008,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+ex_un_v_in_1,1,1,7:00,25/10/21,7:55,25/10/21,0,7,bulinus,25,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+ex_un_v_in_1,1,1,7:00,25/10/21,7:55,25/10/21,0,8,biomph,25,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+ex_un_v_in_1,1,1,7:00,25/10/21,7:55,25/10/21,0,9,bulinus,30,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+ex_un_v_in_1,1,1,7:00,25/10/21,7:55,25/10/21,0,10,bulinus,30,experimental,infected,C002,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+ex_un_v_in_1,1,1,7:00,25/10/21,7:55,25/10/21,0,11,biomph,30,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+ex_un_v_in_1,1,1,7:00,25/10/21,7:55,25/10/21,0,12,biomph,30,experimental,uninfected,C005,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+ex_un_v_in_1,1,1,7:00,25/10/21,7:55,25/10/21,0,13,bulinus,30,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+ex_un_v_in_1,1,1,7:00,25/10/21,7:55,25/10/21,0,14,biomph,30,experimental,infected,C001,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+ex_un_v_in_1,1,1,7:00,25/10/21,7:55,25/10/21,0,15,bulinus,30,experimental,uninfected,C006,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,N,N
+ex_un_v_in_1,1,1,7:00,25/10/21,7:55,25/10/21,0,16,biomph,30,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_SF,,Y,N
+ex_un_v_in_1,1,1,19:00,25/10/21,19:48,25/10/21,12,1,bulinus,25,experimental,uninfected,C009,12,4,0,0,0,6,10,1,0,1,2,ID_SF,,N,N
+ex_un_v_in_1,1,1,19:00,25/10/21,19:48,25/10/21,12,2,biomph,25,control,infected,NA,12,0,3,0,0,10,13,0,0,NA,0,ID_SF,1 extra [snail]! Baby [snail] removed. ,Y,N
+ex_un_v_in_1,1,1,19:00,25/10/21,19:48,25/10/21,12,3,bulinus,25,experimental,infected,C007,12,3,1,0,0,5,9,1,0,2,3,ID_SF,,N,N
+ex_un_v_in_1,1,1,19:00,25/10/21,19:48,25/10/21,12,4,biomph,25,experimental,infected,C012,12,3,1,0,0,3,7,3,0,2,5,ID_SF,,N,N
+ex_un_v_in_1,1,1,19:00,25/10/21,19:48,25/10/21,12,5,bulinus,25,control,uninfected,NA,12,3,0,2,0,7,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,1,1,19:00,25/10/21,19:48,25/10/21,12,6,biomph,25,experimental,uninfected,C008,12,1,0,0,0,8,9,3,0,0,3,ID_SF,,N,N
+ex_un_v_in_1,1,1,19:00,25/10/21,19:48,25/10/21,12,7,bulinus,25,control,infected,NA,12,2,9,0,0,1,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,1,1,19:00,25/10/21,19:48,25/10/21,12,8,biomph,25,control,uninfected,NA,12,0,11,0,0,1,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,1,1,19:00,25/10/21,19:48,25/10/21,12,9,bulinus,30,control,infected,NA,12,0,9,1,0,2,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,1,1,19:00,25/10/21,19:48,25/10/21,12,10,bulinus,30,experimental,infected,C002,12,2,0,0,0,2,4,0,0,8,8,ID_SF,shell pieces ,N,N
+ex_un_v_in_1,1,1,19:00,25/10/21,19:48,25/10/21,12,11,biomph,30,control,uninfected,NA,12,0,6,0,0,6,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,1,1,19:00,25/10/21,19:48,25/10/21,12,12,biomph,30,experimental,uninfected,C005,12,0,1,0,0,8,9,3,0,0,3,ID_SF,,N,N
+ex_un_v_in_1,1,1,19:00,25/10/21,19:48,25/10/21,12,13,bulinus,30,control,uninfected,NA,12,0,2,0,0,10,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,1,1,19:00,25/10/21,19:48,25/10/21,12,14,biomph,30,experimental,infected,C001,12,1,3,0,0,2,6,0,0,6,6,ID_SF,shell pieces,N,N
+ex_un_v_in_1,1,1,19:00,25/10/21,19:48,25/10/21,12,15,bulinus,30,experimental,uninfected,C006,12,0,0,0,0,0,0,5,0,7,12,ID_SF,shell pieces,N,N
+ex_un_v_in_1,1,1,19:00,25/10/21,19:48,25/10/21,12,16,biomph,30,control,infected,NA,12,0,5,0,0,6,11,0,0,NA,1,ID_SF,1 [snail] missing ,Y,N
+ex_un_v_in_1,2,2,7:08,26/10/21,7:56,26/10/21,24,1,bulinus,25,experimental,uninfected,C009,12,2,3,0,0,6,11,1,0,0,1,ID_SF,,N,N
+ex_un_v_in_1,2,2,7:08,26/10/21,7:56,26/10/21,24,2,biomph,25,control,infected,NA,12,0,1,0,0,11,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,2,2,7:08,26/10/21,7:56,26/10/21,24,3,bulinus,25,experimental,infected,C007,12,3,0,0,0,6,9,0,2,1,3,ID_SF,,N,N
+ex_un_v_in_1,2,2,7:08,26/10/21,7:56,26/10/21,24,4,biomph,25,experimental,infected,C012,12,3,2,0,0,1,6,5,1,0,6,ID_SF,shell pieces,N,N
+ex_un_v_in_1,2,2,7:08,26/10/21,7:56,26/10/21,24,5,bulinus,25,control,uninfected,NA,12,2,2,1,0,7,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,2,2,7:08,26/10/21,7:56,26/10/21,24,6,biomph,25,experimental,uninfected,C008,12,3,4,0,0,4,11,1,0,0,1,ID_SF,,N,N
+ex_un_v_in_1,2,2,7:08,26/10/21,7:56,26/10/21,24,7,bulinus,25,control,infected,NA,12,1,8,1,0,2,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,2,2,7:08,26/10/21,7:56,26/10/21,24,8,biomph,25,control,uninfected,NA,12,0,8,1,0,3,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,2,2,7:08,26/10/21,7:56,26/10/21,24,9,bulinus,30,control,infected,NA,12,1,9,0,0,2,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,2,2,7:08,26/10/21,7:56,26/10/21,24,10,bulinus,30,experimental,infected,C002,12,0,0,0,0,0,0,4,0,8,12,ID_SF,shell pieces,N,N
+ex_un_v_in_1,2,2,7:08,26/10/21,7:56,26/10/21,24,11,biomph,30,control,uninfected,NA,12,0,11,0,0,1,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,2,2,7:08,26/10/21,7:56,26/10/21,24,12,biomph,30,experimental,uninfected,C005,12,0,7,0,0,5,12,0,0,0,0,ID_SF,,N,N
+ex_un_v_in_1,2,2,7:08,26/10/21,7:56,26/10/21,24,13,bulinus,30,control,uninfected,NA,12,1,6,0,0,5,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,2,2,7:08,26/10/21,7:56,26/10/21,24,14,biomph,30,experimental,infected,C001,12,2,0,0,0,2,4,6,0,2,8,ID_SF,,N,N
+ex_un_v_in_1,2,2,7:08,26/10/21,7:56,26/10/21,24,15,bulinus,30,experimental,uninfected,C006,12,1,0,0,0,0,1,8,2,1,11,ID_SF,shell pieces; lots of debris = used the net to scoop out,N,N
+ex_un_v_in_1,2,2,7:08,26/10/21,7:56,26/10/21,24,16,biomph,30,control,infected,NA,12,0,4,0,0,8,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,2,2,19:05,26/10/21,NA,26/10/21,36,1,bulinus,25,experimental,uninfected,C009,12,1,3,0,0,7,11,1,0,0,1,ID_SF,,N,N
+ex_un_v_in_1,2,2,19:05,26/10/21,NA,26/10/21,36,2,biomph,25,control,infected,NA,12,1,6,0,0,5,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,2,2,19:05,26/10/21,NA,26/10/21,36,3,bulinus,25,experimental,infected,C007,12,5,1,0,0,3,9,0,1,2,3,ID_SF,,N,N
+ex_un_v_in_1,2,2,19:05,26/10/21,NA,26/10/21,36,4,biomph,25,experimental,infected,C012,12,5,2,0,0,3,10,2,0,0,2,ID_SF,,N,N
+ex_un_v_in_1,2,2,19:05,26/10/21,NA,26/10/21,36,5,bulinus,25,control,uninfected,NA,12,2,2,0,0,8,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,2,2,19:05,26/10/21,NA,26/10/21,36,6,biomph,25,experimental,uninfected,C008,12,0,3,0,0,8,11,0,1,0,1,ID_SF,,N,N
+ex_un_v_in_1,2,2,19:05,26/10/21,NA,26/10/21,36,7,bulinus,25,control,infected,NA,12,1,7,0,0,4,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,2,2,19:05,26/10/21,NA,26/10/21,36,8,biomph,25,control,uninfected,NA,12,0,7,0,0,5,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,2,2,19:05,26/10/21,NA,26/10/21,36,9,bulinus,30,control,infected,NA,12,0,11,0,0,1,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,2,2,19:05,26/10/21,NA,26/10/21,36,10,bulinus,30,experimental,infected,C002,12,4,0,0,0,1,5,4,0,3,7,ID_SF,shell pieces ,N,N
+ex_un_v_in_1,2,2,19:05,26/10/21,NA,26/10/21,36,11,biomph,30,control,uninfected,NA,12,0,8,0,0,4,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,2,2,19:05,26/10/21,NA,26/10/21,36,12,biomph,30,experimental,uninfected,C005,12,0,5,0,0,7,12,0,0,0,0,ID_SF,,N,N
+ex_un_v_in_1,2,2,19:05,26/10/21,NA,26/10/21,36,13,bulinus,30,control,uninfected,NA,12,2,3,0,0,7,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,2,2,19:05,26/10/21,NA,26/10/21,36,14,biomph,30,experimental,infected,C001,12,1,3,0,0,3,7,3,0,2,5,ID_SF,,N,N
+ex_un_v_in_1,2,2,19:05,26/10/21,NA,26/10/21,36,15,bulinus,30,experimental,uninfected,C006,12,0,2,0,0,3,5,3,1,3,7,ID_SF,,N,N
+ex_un_v_in_1,2,2,19:05,26/10/21,NA,26/10/21,36,16,biomph,30,control,infected,NA,12,0,4,0,0,8,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_1,3,3,7:05,27/10/21,NA,27/10/21,48,1,bulinus,25,experimental,uninfected,C009,12,0,3,0,0,9,12,0,0,0,0,SK_SF,,N,N
+ex_un_v_in_1,3,3,7:05,27/10/21,NA,27/10/21,48,2,biomph,25,control,infected,NA,12,0,4,1,0,7,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_1,3,3,7:05,27/10/21,NA,27/10/21,48,3,bulinus,25,experimental,infected,C007,12,0,1,0,0,11,12,0,0,0,0,SK_SF,extra shell piece leftover,N,N
+ex_un_v_in_1,3,3,7:05,27/10/21,NA,27/10/21,48,4,biomph,25,experimental,infected,C012,12,3,1,0,0,2,6,6,0,0,6,SK_SF,,N,N
+ex_un_v_in_1,3,3,7:05,27/10/21,NA,27/10/21,48,5,bulinus,25,control,uninfected,NA,12,3,2,0,0,7,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_1,3,3,7:05,27/10/21,NA,27/10/21,48,6,biomph,25,experimental,uninfected,C008,12,0,8,0,0,4,12,0,0,0,0,SK_SF,,N,N
+ex_un_v_in_1,3,3,7:05,27/10/21,NA,27/10/21,48,7,bulinus,25,control,infected,NA,12,0,4,0,0,8,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_1,3,3,7:05,27/10/21,NA,27/10/21,48,8,biomph,25,control,uninfected,NA,12,0,7,0,0,5,12,0,0,NA,0,SK_SF,tiny baby removed,N,N
+ex_un_v_in_1,3,3,7:05,27/10/21,NA,27/10/21,48,9,bulinus,30,control,infected,NA,12,0,11,0,0,1,12,0,0,NA,0,SK_SF,shell pieces; debris removed,N,N
+ex_un_v_in_1,3,3,7:05,27/10/21,NA,27/10/21,48,10,bulinus,30,experimental,infected,C002,12,1,0,0,0,1,2,0,0,10,10,SK_SF,,N,N
+ex_un_v_in_1,3,3,7:05,27/10/21,NA,27/10/21,48,11,biomph,30,control,uninfected,NA,12,0,11,0,0,1,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_1,3,3,7:05,27/10/21,NA,27/10/21,48,12,biomph,30,experimental,uninfected,C005,12,0,11,0,0,0,11,1,0,0,1,SK_SF,,N,N
+ex_un_v_in_1,3,3,7:05,27/10/21,NA,27/10/21,48,13,bulinus,30,control,uninfected,NA,12,1,4,1,0,6,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_1,3,3,7:05,27/10/21,NA,27/10/21,48,14,biomph,30,experimental,infected,C001,12,3,1,0,0,2,6,6,0,0,6,SK_SF,,N,N
+ex_un_v_in_1,3,3,7:05,27/10/21,NA,27/10/21,48,15,bulinus,30,experimental,uninfected,C006,12,0,1,0,0,1,2,0,1,9,10,SK_SF,shell pieces; lots of debris = used net to scoop [out],N,N
+ex_un_v_in_1,3,3,7:05,27/10/21,NA,27/10/21,48,16,biomph,30,control,infected,NA,12,0,5,0,0,7,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_1,3,3,19:06,27/10/21,NA,27/10/21,60,1,bulinus,25,experimental,uninfected,C009,12,1,6,0,0,4,11,1,0,0,1,SK_SF,,N,N
+ex_un_v_in_1,3,3,19:06,27/10/21,NA,27/10/21,60,2,biomph,25,control,infected,NA,12,0,6,1,0,5,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_1,3,3,19:06,27/10/21,NA,27/10/21,60,3,bulinus,25,experimental,infected,C007,12,3,1,0,0,4,8,0,4,0,4,SK_SF,,N,N
+ex_un_v_in_1,3,3,19:06,27/10/21,NA,27/10/21,60,4,biomph,25,experimental,infected,C012,12,8,0,0,0,2,10,2,0,0,2,SK_SF,,N,N
+ex_un_v_in_1,3,3,19:06,27/10/21,NA,27/10/21,60,5,bulinus,25,control,uninfected,NA,12,1,4,0,0,7,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_1,3,3,19:06,27/10/21,NA,27/10/21,60,6,biomph,25,experimental,uninfected,C008,12,0,4,0,0,8,12,0,0,0,0,SK_SF,,N,N
+ex_un_v_in_1,3,3,19:06,27/10/21,NA,27/10/21,60,7,bulinus,25,control,infected,NA,12,0,8,0,0,4,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_1,3,3,19:06,27/10/21,NA,27/10/21,60,8,biomph,25,control,uninfected,NA,12,0,7,0,0,5,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_1,3,3,19:06,27/10/21,NA,27/10/21,60,9,bulinus,30,control,infected,NA,12,0,11,0,0,1,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_1,3,3,19:06,27/10/21,NA,27/10/21,60,10,bulinus,30,experimental,infected,C002,12,3,1,0,1,1,6,0,0,6,6,SK_SF,shell pieces; used net to remove debris,N,N
+ex_un_v_in_1,3,3,19:06,27/10/21,NA,27/10/21,60,11,biomph,30,control,uninfected,NA,12,0,8,0,0,4,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_1,3,3,19:06,27/10/21,NA,27/10/21,60,12,biomph,30,experimental,uninfected,C005,12,1,9,0,0,0,10,2,0,0,2,SK_SF,,N,N
+ex_un_v_in_1,3,3,19:06,27/10/21,NA,27/10/21,60,13,bulinus,30,control,uninfected,NA,12,1,1,0,1,9,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_1,3,3,19:06,27/10/21,NA,27/10/21,60,14,biomph,30,experimental,infected,C001,12,3,1,0,0,2,6,2,0,4,6,SK_SF,shell pieces; used net to remove debris,N,N
+ex_un_v_in_1,3,3,19:06,27/10/21,NA,27/10/21,60,15,bulinus,30,experimental,uninfected,C006,12,0,4,0,0,1,5,0,0,7,7,SK_SF,shell pieces; used net to remove debris,N,N
+ex_un_v_in_1,3,3,19:06,27/10/21,NA,27/10/21,60,16,biomph,30,control,infected,NA,12,0,6,0,0,6,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_1,4,4,7:06,28/10/21,8:00,28/10/21,72,1,bulinus,25,experimental,uninfected,C009,12,0,6,0,0,4,10,0,0,2,NA,ID,,N,N
+ex_un_v_in_1,4,4,7:06,28/10/21,8:00,28/10/21,72,2,biomph,25,control,infected,NA,12,1,5,0,0,6,12,0,0,NA,NA,ID,,N,N
+ex_un_v_in_1,4,4,7:06,28/10/21,8:00,28/10/21,72,3,bulinus,25,experimental,infected,C007,12,6,0,0,0,1,7,2,1,2,NA,ID,shell pieces,N,N
+ex_un_v_in_1,4,4,7:06,28/10/21,8:00,28/10/21,72,4,biomph,25,experimental,infected,C012,12,9,0,0,0,1,10,2,0,0,NA,ID,shell pieces,N,N
+ex_un_v_in_1,4,4,7:06,28/10/21,8:00,28/10/21,72,5,bulinus,25,control,uninfected,NA,12,1,6,0,0,5,12,0,0,NA,NA,ID,,N,N
+ex_un_v_in_1,4,4,7:06,28/10/21,8:00,28/10/21,72,6,biomph,25,experimental,uninfected,C008,12,0,9,0,0,3,12,0,0,0,NA,ID,,N,N
+ex_un_v_in_1,4,4,7:06,28/10/21,8:00,28/10/21,72,7,bulinus,25,control,infected,NA,12,0,4,0,0,8,12,0,0,NA,NA,ID,,N,N
+ex_un_v_in_1,4,4,7:06,28/10/21,8:00,28/10/21,72,8,biomph,25,control,uninfected,NA,12,0,6,0,0,6,12,0,0,NA,NA,ID,,N,N
+ex_un_v_in_1,4,4,7:06,28/10/21,8:00,28/10/21,72,9,bulinus,30,control,infected,NA,12,1,9,0,0,2,12,0,0,NA,NA,ID,,N,N
+ex_un_v_in_1,4,4,7:06,28/10/21,8:00,28/10/21,72,10,bulinus,30,experimental,infected,C002,12,1,0,0,0,0,1,0,0,11,NA,ID,,N,N
+ex_un_v_in_1,4,4,7:06,28/10/21,8:00,28/10/21,72,11,biomph,30,control,uninfected,NA,12,0,6,0,0,6,12,0,0,NA,NA,ID,,N,N
+ex_un_v_in_1,4,4,7:06,28/10/21,8:00,28/10/21,72,12,biomph,30,experimental,uninfected,C005,12,0,6,0,0,5,11,1,0,0,NA,ID,,N,N
+ex_un_v_in_1,4,4,7:06,28/10/21,8:00,28/10/21,72,13,bulinus,30,control,uninfected,NA,12,1,1,2,0,8,12,0,0,NA,NA,ID,,N,N
+ex_un_v_in_1,4,4,7:06,28/10/21,8:00,28/10/21,72,14,biomph,30,experimental,infected,C001,12,2,0,0,0,0,2,10,0,0,NA,ID,"shell pieces; one out of the water looked like it had been smushed by the lid, the shell was slightly cracked and it was bleeding; also, not all empty shells were 100% empty, but were over 50% empty ",N,N
+ex_un_v_in_1,4,4,7:06,28/10/21,8:00,28/10/21,72,15,bulinus,30,experimental,uninfected,C006,12,2,0,0,0,5,7,4,0,1,NA,ID,,N,N
+ex_un_v_in_1,4,4,7:06,28/10/21,8:00,28/10/21,72,16,biomph,30,control,infected,NA,12,0,6,0,0,6,12,0,0,NA,NA,ID,,N,N
+ex_un_v_in_2,5,1,7:00,1/11/2021,7:45,1/11/2021,0,1,biomph,20,experimental,uninfected,C012,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_2,5,1,7:00,1/11/2021,7:45,1/11/2021,0,2,bulinus,20,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_2,5,1,7:00,1/11/2021,7:45,1/11/2021,0,3,biomph,20,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_2,5,1,7:00,1/11/2021,7:45,1/11/2021,0,4,bulinus,20,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_2,5,1,7:00,1/11/2021,7:45,1/11/2021,0,5,bulinus,20,experimental,infected,C009,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_2,5,1,7:00,1/11/2021,7:45,1/11/2021,0,6,biomph,20,experimental,infected,C008,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_2,5,1,7:00,1/11/2021,7:45,1/11/2021,0,7,biomph,20,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_2,5,1,7:00,1/11/2021,7:45,1/11/2021,0,8,bulinus,20,experimental,uninfected,C013,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,replaced C007,N,N
+ex_un_v_in_2,5,1,7:00,1/11/2021,7:45,1/11/2021,0,9,biomph,35,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_2,5,1,7:00,1/11/2021,7:45,1/11/2021,0,10,bulinus,35,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_2,5,1,7:00,1/11/2021,7:45,1/11/2021,0,11,biomph,35,experimental,uninfected,C002,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_2,5,1,7:00,1/11/2021,7:45,1/11/2021,0,12,biomph,35,experimental,infected,C006,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_2,5,1,7:00,1/11/2021,7:45,1/11/2021,0,13,bulinus,35,experimental,infected,C005,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_2,5,1,7:00,1/11/2021,7:45,1/11/2021,0,14,biomph,35,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_2,5,1,7:00,1/11/2021,7:45,1/11/2021,0,15,bulinus,35,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_2,5,1,7:00,1/11/2021,7:45,1/11/2021,0,16,bulinus,35,experimental,uninfected,C001,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_2,5,1,19:00,1/11/2021,19:40,1/11/2021,12,1,biomph,20,experimental,uninfected,C012,12,0,2,0,0,8,10,2,0,0,2,ID_AO,,N,N
+ex_un_v_in_2,5,1,19:00,1/11/2021,19:40,1/11/2021,12,2,bulinus,20,control,uninfected,NA,12,0,0,2,0,10,12,0,0,NA,0,ID_AO,,N,N
+ex_un_v_in_2,5,1,19:00,1/11/2021,19:40,1/11/2021,12,3,biomph,20,control,uninfected,NA,12,1,1,1,0,9,12,0,0,NA,0,ID_AO,,N,N
+ex_un_v_in_2,5,1,19:00,1/11/2021,19:40,1/11/2021,12,4,bulinus,20,control,infected,NA,12,0,0,1,0,11,12,0,0,NA,0,ID_AO,,N,N
+ex_un_v_in_2,5,1,19:00,1/11/2021,19:40,1/11/2021,12,5,bulinus,20,experimental,infected,C009,12,7,1,0,0,2,10,1,0,1,2,ID_AO,shell pieces,N,N
+ex_un_v_in_2,5,1,19:00,1/11/2021,19:40,1/11/2021,12,6,biomph,20,experimental,infected,C008,12,0,2,0,0,10,12,0,0,0,0,ID_AO,,N,N
+ex_un_v_in_2,5,1,19:00,1/11/2021,19:40,1/11/2021,12,7,biomph,20,control,infected,NA,12,0,1,1,0,10,12,0,0,NA,0,ID_AO,,N,N
+ex_un_v_in_2,5,1,19:00,1/11/2021,19:40,1/11/2021,12,8,bulinus,20,experimental,uninfected,C013,12,0,1,1,0,10,12,0,0,0,0,ID_AO,*new crayfish (C013); placed in tank in A.M. = less time to acclimate ,N,N
+ex_un_v_in_2,5,1,19:00,1/11/2021,19:40,1/11/2021,12,9,biomph,35,control,infected,NA,12,0,2,0,0,10,12,0,0,NA,0,ID_AO,,N,N
+ex_un_v_in_2,5,1,19:00,1/11/2021,19:40,1/11/2021,12,10,bulinus,35,control,infected,NA,12,2,2,2,0,6,12,0,0,NA,0,ID_AO,,N,N
+ex_un_v_in_2,5,1,19:00,1/11/2021,19:40,1/11/2021,12,11,biomph,35,experimental,uninfected,C002,12,2,0,0,0,3,5,2,0,5,7,ID_AO,shell pieces,N,N
+ex_un_v_in_2,5,1,19:00,1/11/2021,19:40,1/11/2021,12,12,biomph,35,experimental,infected,C006,12,3,2,0,0,2,7,0,0,5,5,ID_AO,shell pieces ,N,N
+ex_un_v_in_2,5,1,19:00,1/11/2021,19:40,1/11/2021,12,13,bulinus,35,experimental,infected,C005,12,0,1,2,0,8,11,0,0,1,1,ID_AO,,N,N
+ex_un_v_in_2,5,1,19:00,1/11/2021,19:40,1/11/2021,12,14,biomph,35,control,uninfected,NA,12,0,0,0,0,12,12,0,0,NA,0,ID_AO,,N,N
+ex_un_v_in_2,5,1,19:00,1/11/2021,19:40,1/11/2021,12,15,bulinus,35,control,uninfected,NA,12,0,1,1,0,10,12,0,0,NA,0,ID_AO,,N,N
+ex_un_v_in_2,5,1,19:00,1/11/2021,19:40,1/11/2021,12,16,bulinus,35,experimental,uninfected,C001,12,0,0,0,0,2,2,2,2,6,10,ID_AO,shell pieces ,N,N
+ex_un_v_in_2,6,2,7:09,2/11/2021,7:38,2/11/2021,24,1,biomph,20,experimental,uninfected,C012,12,2,3,0,0,2,7,4,0,1,5,ID_SK,shell pieces ,N,N
+ex_un_v_in_2,6,2,7:09,2/11/2021,7:38,2/11/2021,24,2,bulinus,20,control,uninfected,NA,12,3,0,0,0,9,12,0,0,NA,0,ID_SK,,N,N
+ex_un_v_in_2,6,2,7:09,2/11/2021,7:38,2/11/2021,24,3,biomph,20,control,uninfected,NA,12,1,0,1,0,10,12,0,0,NA,0,ID_SK,,N,N
+ex_un_v_in_2,6,2,7:09,2/11/2021,7:38,2/11/2021,24,4,bulinus,20,control,infected,NA,12,1,2,0,0,8,11,0,1,NA,0,ID_SK,,N,N
+ex_un_v_in_2,6,2,7:09,2/11/2021,7:38,2/11/2021,24,5,bulinus,20,experimental,infected,C009,12,0,2,1,0,8,11,0,0,1,1,ID_SK,,N,N
+ex_un_v_in_2,6,2,7:09,2/11/2021,7:38,2/11/2021,24,6,biomph,20,experimental,infected,C008,12,1,1,0,0,7,9,3,0,0,3,ID_SK,,N,N
+ex_un_v_in_2,6,2,7:09,2/11/2021,7:38,2/11/2021,24,7,biomph,20,control,infected,NA,12,0,1,0,0,11,12,0,0,NA,0,ID_SK,,N,N
+ex_un_v_in_2,6,2,7:09,2/11/2021,7:38,2/11/2021,24,8,bulinus,20,experimental,uninfected,C013,12,0,2,1,0,9,12,0,0,0,0,ID_SK,,N,N
+ex_un_v_in_2,6,2,7:09,2/11/2021,7:38,2/11/2021,24,9,biomph,35,control,infected,NA,12,1,1,0,0,10,12,0,0,NA,0,ID_SK,,N,N
+ex_un_v_in_2,6,2,7:09,2/11/2021,7:38,2/11/2021,24,10,bulinus,35,control,infected,NA,12,1,2,0,0,9,12,0,0,NA,0,ID_SK,,Y,N
+ex_un_v_in_2,6,2,7:09,2/11/2021,7:38,2/11/2021,24,11,biomph,35,experimental,uninfected,C002,12,1,2,0,0,0,3,4,0,5,9,ID_SK,shell pieces,N,N
+ex_un_v_in_2,6,2,7:09,2/11/2021,7:38,2/11/2021,24,12,biomph,35,experimental,infected,C006,12,3,0,0,0,5,8,0,0,4,4,ID_SK,shell pieces,N,N
+ex_un_v_in_2,6,2,7:09,2/11/2021,7:38,2/11/2021,24,13,bulinus,35,experimental,infected,C005,12,2,1,1,0,2,6,2,0,4,6,ID_SK,shell pieces,N,N
+ex_un_v_in_2,6,2,7:09,2/11/2021,7:38,2/11/2021,24,14,biomph,35,control,uninfected,NA,12,0,3,0,0,9,12,0,0,NA,0,ID_SK,,N,N
+ex_un_v_in_2,6,2,7:09,2/11/2021,7:38,2/11/2021,24,15,bulinus,35,control,uninfected,NA,12,1,0,2,0,9,12,0,0,NA,0,ID_SK,,N,N
+ex_un_v_in_2,6,2,7:09,2/11/2021,7:38,2/11/2021,24,16,bulinus,35,experimental,uninfected,C001,12,0,0,0,0,1,1,0,0,11,11,ID_SK,shell pieces,N,N
+ex_un_v_in_2,6,2,19:02,2/11/2021,19:43,2/11/2021,36,1,biomph,20,experimental,uninfected,C012,12,2,3,0,0,5,10,1,1,0,2,ID_LC,shell pieces,N,N
+ex_un_v_in_2,6,2,19:02,2/11/2021,19:43,2/11/2021,36,2,bulinus,20,control,uninfected,NA,12,2,4,0,0,6,12,0,0,NA,0,ID_LC,,N,N
+ex_un_v_in_2,6,2,19:02,2/11/2021,19:43,2/11/2021,36,3,biomph,20,control,uninfected,NA,12,0,12,0,0,0,12,0,0,NA,0,ID_LC,,N,N
+ex_un_v_in_2,6,2,19:02,2/11/2021,19:43,2/11/2021,36,4,bulinus,20,control,infected,NA,12,1,1,0,0,10,12,0,0,NA,0,ID_LC,,N,N
+ex_un_v_in_2,6,2,19:02,2/11/2021,19:43,2/11/2021,36,5,bulinus,20,experimental,infected,C009,12,5,1,1,0,4,11,0,0,1,1,ID_LC,,N,N
+ex_un_v_in_2,6,2,19:02,2/11/2021,19:43,2/11/2021,36,6,biomph,20,experimental,infected,C008,12,5,0,0,0,5,10,2,0,0,2,ID_LC,,N,N
+ex_un_v_in_2,6,2,19:02,2/11/2021,19:43,2/11/2021,36,7,biomph,20,control,infected,NA,12,0,2,2,0,8,12,0,0,NA,0,ID_LC,,N,N
+ex_un_v_in_2,6,2,19:02,2/11/2021,19:43,2/11/2021,36,8,bulinus,20,experimental,uninfected,C013,12,1,2,0,0,7,10,0,0,2,2,ID_LC,,N,N
+ex_un_v_in_2,6,2,19:02,2/11/2021,19:43,2/11/2021,36,9,biomph,35,control,infected,NA,12,1,6,0,0,5,12,0,0,NA,0,ID_LC,,N,N
+ex_un_v_in_2,6,2,19:02,2/11/2021,19:43,2/11/2021,36,10,bulinus,35,control,infected,NA,12,1,4,0,0,6,11,0,0,NA,1,ID_LC,1 [snail] missing?,Y,N
+ex_un_v_in_2,6,2,19:02,2/11/2021,19:43,2/11/2021,36,11,biomph,35,experimental,uninfected,C002,12,4,1,0,0,1,6,4,0,2,6,ID_LC,shell pieces ,N,N
+ex_un_v_in_2,6,2,19:02,2/11/2021,19:43,2/11/2021,36,12,biomph,35,experimental,infected,C006,12,4,3,0,0,0,7,1,0,4,5,ID_LC,shell pieces ,N,N
+ex_un_v_in_2,6,2,19:02,2/11/2021,19:43,2/11/2021,36,13,bulinus,35,experimental,infected,C005,12,2,1,0,0,5,8,0,1,3,4,ID_LC,shell pieces ,N,N
+ex_un_v_in_2,6,2,19:02,2/11/2021,19:43,2/11/2021,36,14,biomph,35,control,uninfected,NA,12,0,7,0,0,5,12,0,0,0,0,ID_LC,,N,N
+ex_un_v_in_2,6,2,19:02,2/11/2021,19:43,2/11/2021,36,15,bulinus,35,control,uninfected,NA,12,0,5,0,0,7,12,0,0,NA,0,ID_LC,,N,N
+ex_un_v_in_2,6,2,19:02,2/11/2021,19:43,2/11/2021,36,16,bulinus,35,experimental,uninfected,C001,12,0,1,0,0,5,6,3,0,3,6,ID_LC,shell pieces,N,N
+ex_un_v_in_2,7,3,7:03,3/11/2021,7:45,3/11/2021,48,1,biomph,20,experimental,uninfected,C012,12,3,3,0,0,4,10,2,0,0,2,SK_AO ,added snails from non-experiment [tanks],N,N
+ex_un_v_in_2,7,3,7:03,3/11/2021,7:45,3/11/2021,48,2,bulinus,20,control,uninfected,NA,12,1,5,0,0,6,12,0,0,NA,0,SK_AO ,,N,N
+ex_un_v_in_2,7,3,7:03,3/11/2021,7:45,3/11/2021,48,3,biomph,20,control,uninfected,NA,12,0,9,0,0,3,12,0,0,NA,0,SK_AO ,,N,N
+ex_un_v_in_2,7,3,7:03,3/11/2021,7:45,3/11/2021,48,4,bulinus,20,control,infected,NA,12,1,1,0,0,10,12,0,0,NA,0,SK_AO ,,N,N
+ex_un_v_in_2,7,3,7:03,3/11/2021,7:45,3/11/2021,48,5,bulinus,20,experimental,infected,C009,12,1,2,4,0,4,11,0,0,1,1,SK_AO ,,N,N
+ex_un_v_in_2,7,3,7:03,3/11/2021,7:45,3/11/2021,48,6,biomph,20,experimental,infected,C008,12,1,2,0,0,7,10,2,0,0,2,SK_AO ,,N,N
+ex_un_v_in_2,7,3,7:03,3/11/2021,7:45,3/11/2021,48,7,biomph,20,control,infected,NA,12,0,1,0,0,11,12,0,0,NA,0,SK_AO ,,N,N
+ex_un_v_in_2,7,3,7:03,3/11/2021,7:45,3/11/2021,48,8,bulinus,20,experimental,uninfected,C013,12,2,2,0,0,2,6,0,0,6,6,SK_AO ,shell pieces,N,N
+ex_un_v_in_2,7,3,7:03,3/11/2021,7:45,3/11/2021,48,9,biomph,35,control,infected,NA,12,1,6,0,0,5,12,0,0,NA,0,SK_AO ,,N,N
+ex_un_v_in_2,7,3,7:03,3/11/2021,7:45,3/11/2021,48,10,bulinus,35,control,infected,NA,12,0,3,0,0,10,13,0,0,NA,0,SK_AO ,removed 1 snail,Y,N
+ex_un_v_in_2,7,3,7:03,3/11/2021,7:45,3/11/2021,48,11,biomph,35,experimental,uninfected,C002,12,6,0,0,0,1,7,5,0,0,5,SK_AO ,shell pieces,N,N
+ex_un_v_in_2,7,3,7:03,3/11/2021,7:45,3/11/2021,48,12,biomph,35,experimental,infected,C006,12,6,1,0,0,2,9,2,0,1,3,SK_AO ,shell pieces,N,N
+ex_un_v_in_2,7,3,7:03,3/11/2021,7:45,3/11/2021,48,13,bulinus,35,experimental,infected,C005,12,3,2,0,0,2,7,1,0,4,5,SK_AO ,shell pieces,N,N
+ex_un_v_in_2,7,3,7:03,3/11/2021,7:45,3/11/2021,48,14,biomph,35,control,uninfected,NA,12,0,10,0,0,2,12,0,0,NA,0,SK_AO ,,N,N
+ex_un_v_in_2,7,3,7:03,3/11/2021,7:45,3/11/2021,48,15,bulinus,35,control,uninfected,NA,12,1,10,0,0,1,12,0,0,NA,0,SK_AO ,,N,N
+ex_un_v_in_2,7,3,7:03,3/11/2021,7:45,3/11/2021,48,16,bulinus,35,experimental,uninfected,C001,12,0,0,0,0,3,3,6,0,3,9,SK_AO ,shell pieces,N,N
+ex_un_v_in_2,7,3,19:00,3/11/2021,19:38,3/11/2021,60,1,biomph,20,experimental,uninfected,C012,12,2,4,0,0,5,11,1,0,0,1,SK_ID,,N,N
+ex_un_v_in_2,7,3,19:00,3/11/2021,19:38,3/11/2021,60,2,bulinus,20,control,uninfected,NA,12,2,1,0,0,8,12,0,0,NA,0,SK_ID,,N,N
+ex_un_v_in_2,7,3,19:00,3/11/2021,19:38,3/11/2021,60,3,biomph,20,control,uninfected,NA,12,0,7,0,0,4,11,0,1,NA,1,SK_ID,,N,N
+ex_un_v_in_2,7,3,19:00,3/11/2021,19:38,3/11/2021,60,4,bulinus,20,control,infected,NA,12,0,5,0,0,7,12,0,0,NA,0,SK_ID,,N,N
+ex_un_v_in_2,7,3,19:00,3/11/2021,19:38,3/11/2021,60,5,bulinus,20,experimental,infected,C009,12,1,1,0,0,8,10,0,1,1,2,SK_ID,,N,N
+ex_un_v_in_2,7,3,19:00,3/11/2021,19:38,3/11/2021,60,6,biomph,20,experimental,infected,C008,12,1,3,0,0,7,11,0,1,0,1,SK_ID,,N,N
+ex_un_v_in_2,7,3,19:00,3/11/2021,19:38,3/11/2021,60,7,biomph,20,control,infected,NA,12,0,0,1,0,11,12,0,0,NA,0,SK_ID,,N,N
+ex_un_v_in_2,7,3,19:00,3/11/2021,19:38,3/11/2021,60,8,bulinus,20,experimental,uninfected,C013,12,1,2,0,0,1,4,1,1,6,8,SK_ID,one [snail] alive with no shell = removed; shell pieces,N,N
+ex_un_v_in_2,7,3,19:00,3/11/2021,19:38,3/11/2021,60,9,biomph,35,control,infected,NA,12,1,7,0,0,3,11,0,1,NA,1,SK_ID,baby [snail] removed,N,N
+ex_un_v_in_2,7,3,19:00,3/11/2021,19:38,3/11/2021,60,10,bulinus,35,control,infected,NA,12,0,10,0,0,2,12,0,0,NA,0,SK_ID,,N,N
+ex_un_v_in_2,7,3,19:00,3/11/2021,19:38,3/11/2021,60,11,biomph,35,experimental,uninfected,C002,12,5,0,0,0,2,7,5,0,0,5,SK_ID,,N,N
+ex_un_v_in_2,7,3,19:00,3/11/2021,19:38,3/11/2021,60,12,biomph,35,experimental,infected,C006,12,6,0,0,0,0,6,3,0,3,6,SK_ID,shell pieces,N,N
+ex_un_v_in_2,7,3,19:00,3/11/2021,19:38,3/11/2021,60,13,bulinus,35,experimental,infected,C005,12,3,1,0,0,8,12,0,0,0,0,SK_ID,leftover shell pieces,N,N
+ex_un_v_in_2,7,3,19:00,3/11/2021,19:38,3/11/2021,60,14,biomph,35,control,uninfected,NA,12,0,8,0,0,4,12,0,0,NA,0,SK_ID,,N,N
+ex_un_v_in_2,7,3,19:00,3/11/2021,19:38,3/11/2021,60,15,bulinus,35,control,uninfected,NA,12,2,8,2,0,0,12,0,0,NA,0,SK_ID,,N,N
+ex_un_v_in_2,7,3,19:00,3/11/2021,19:38,3/11/2021,60,16,bulinus,35,experimental,uninfected,C001,12,0,2,0,0,4,6,0,1,4,6,SK_ID,shell pieces ,N,N
+ex_un_v_in_2,8,4,7:01,4/11/2021,NA,4/11/2021,72,1,biomph,20,experimental,uninfected,C012,12,4,1,0,0,4,9,3,0,0,NA,ID_AO,,N,N
+ex_un_v_in_2,8,4,7:01,4/11/2021,NA,4/11/2021,72,2,bulinus,20,control,uninfected,NA,12,0,0,3,0,9,12,0,0,NA,NA,ID_AO,,N,N
+ex_un_v_in_2,8,4,7:01,4/11/2021,NA,4/11/2021,72,3,biomph,20,control,uninfected,NA,12,0,2,0,0,9,11,0,1,NA,NA,ID_AO,,N,N
+ex_un_v_in_2,8,4,7:01,4/11/2021,NA,4/11/2021,72,4,bulinus,20,control,infected,NA,12,0,1,2,0,9,12,0,0,NA,NA,ID_AO,,N,N
+ex_un_v_in_2,8,4,7:01,4/11/2021,NA,4/11/2021,72,5,bulinus,20,experimental,infected,C009,12,0,0,1,0,9,10,0,0,2,NA,ID_AO,shell pieces,N,N
+ex_un_v_in_2,8,4,7:01,4/11/2021,NA,4/11/2021,72,6,biomph,20,experimental,infected,C008,12,1,2,0,0,7,10,2,0,0,NA,ID_AO,,N,N
+ex_un_v_in_2,8,4,7:01,4/11/2021,NA,4/11/2021,72,7,biomph,20,control,infected,NA,12,1,1,0,0,10,12,0,0,NA,NA,ID_AO,,N,N
+ex_un_v_in_2,8,4,7:01,4/11/2021,NA,4/11/2021,72,8,bulinus,20,experimental,uninfected,C013,12,1,1,1,0,3,6,0,4,2,NA,ID_AO,shell pieces,N,N
+ex_un_v_in_2,8,4,7:01,4/11/2021,NA,4/11/2021,72,9,biomph,35,control,infected,NA,12,0,6,1,0,4,11,1,0,NA,NA,ID_AO,,N,N
+ex_un_v_in_2,8,4,7:01,4/11/2021,NA,4/11/2021,72,10,bulinus,35,control,infected,NA,12,1,2,1,0,8,12,0,0,NA,NA,ID_AO,,N,N
+ex_un_v_in_2,8,4,7:01,4/11/2021,NA,4/11/2021,72,11,biomph,35,experimental,uninfected,C002,12,5,0,0,0,1,6,5,0,1,NA,ID_AO,shell pieces,N,N
+ex_un_v_in_2,8,4,7:01,4/11/2021,NA,4/11/2021,72,12,biomph,35,experimental,infected,C006,12,6,2,0,0,2,10,0,0,2,NA,ID_AO,shell pieces,N,N
+ex_un_v_in_2,8,4,7:01,4/11/2021,NA,4/11/2021,72,13,bulinus,35,experimental,infected,C005,12,2,3,0,0,2,7,1,0,4,NA,ID_AO,shell pieces,N,N
+ex_un_v_in_2,8,4,7:01,4/11/2021,NA,4/11/2021,72,14,biomph,35,control,uninfected,NA,12,0,6,0,0,6,12,0,0,NA,NA,ID_AO,,N,N
+ex_un_v_in_2,8,4,7:01,4/11/2021,NA,4/11/2021,72,15,bulinus,35,control,uninfected,NA,12,0,7,0,0,5,12,0,0,NA,NA,ID_AO,,N,N
+ex_un_v_in_2,8,4,7:01,4/11/2021,NA,4/11/2021,72,16,bulinus,35,experimental,uninfected,C001,12,0,2,0,0,3,5,0,0,7,NA,ID_AO,shell pieces ,N,N
+ex_un_v_in_3,9,1,7:00,8/11/2021,NA,8/11/2021,0,1,biomph,15,experimental,uninfected,C009,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_3,9,1,7:00,8/11/2021,NA,8/11/2021,0,2,biomph,15,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_3,9,1,7:00,8/11/2021,NA,8/11/2021,0,3,biomph,15,experimental,infected,C013,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_3,9,1,7:00,8/11/2021,NA,8/11/2021,0,4,bulinus,15,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_3,9,1,7:00,8/11/2021,NA,8/11/2021,0,5,bulinus,15,experimental,uninfected,C012,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_3,9,1,7:00,8/11/2021,NA,8/11/2021,0,6,biomph,15,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_3,9,1,7:00,8/11/2021,NA,8/11/2021,0,7,bulinus,15,experimental,infected,C008,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,N,N
+ex_un_v_in_3,9,1,7:00,8/11/2021,NA,8/11/2021,0,8,bulinus,15,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SK_AO ,,Y,N
+ex_un_v_in_3,9,1,19:10,8/11/2021,19:30,8/11/2021,12,1,biomph,15,experimental,uninfected,C009,12,0,1,2,0,6,9,3,0,0,3,ID_AO,,N,N
+ex_un_v_in_3,9,1,19:10,8/11/2021,19:30,8/11/2021,12,2,biomph,15,control,infected,NA,12,0,0,1,0,10,11,0,0,NA,1,ID_AO,,N,N
+ex_un_v_in_3,9,1,19:10,8/11/2021,19:30,8/11/2021,12,3,biomph,15,experimental,infected,C013,12,0,3,0,0,7,10,2,0,0,2,ID_AO,,N,N
+ex_un_v_in_3,9,1,19:10,8/11/2021,19:30,8/11/2021,12,4,bulinus,15,control,uninfected,NA,12,2,2,1,0,7,12,0,0,NA,0,ID_AO,,N,N
+ex_un_v_in_3,9,1,19:10,8/11/2021,19:30,8/11/2021,12,5,bulinus,15,experimental,uninfected,C012,12,1,0,0,0,9,10,0,1,1,2,ID_AO,,N,N
+ex_un_v_in_3,9,1,19:10,8/11/2021,19:30,8/11/2021,12,6,biomph,15,control,uninfected,NA,12,0,1,1,0,10,12,0,0,NA,0,ID_AO,,N,N
+ex_un_v_in_3,9,1,19:10,8/11/2021,19:30,8/11/2021,12,7,bulinus,15,experimental,infected,C008,12,0,3,2,0,3,8,2,0,2,4,ID_AO,shell pieces,N,N
+ex_un_v_in_3,9,1,19:10,8/11/2021,19:30,8/11/2021,12,8,bulinus,15,control,infected,NA,12,1,3,1,0,8,13,0,0,NA,0,ID_AO,,Y,N
+ex_un_v_in_3,10,2,7:35,9/11/2021,7:53,9/11/2021,24,1,biomph,15,experimental,uninfected,C009,12,0,2,1,0,8,11,1,0,0,1,SK_SF,,N,N
+ex_un_v_in_3,10,2,7:35,9/11/2021,7:53,9/11/2021,24,2,biomph,15,control,infected,NA,12,0,1,1,0,10,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_3,10,2,7:35,9/11/2021,7:53,9/11/2021,24,3,biomph,15,experimental,infected,C013,12,0,1,0,0,4,5,7,0,0,7,SK_SF,,N,N
+ex_un_v_in_3,10,2,7:35,9/11/2021,7:53,9/11/2021,24,4,bulinus,15,control,uninfected,NA,12,5,0,0,0,7,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_3,10,2,7:35,9/11/2021,7:53,9/11/2021,24,5,bulinus,15,experimental,uninfected,C012,12,2,0,0,0,9,11,1,0,0,1,SK_SF,,N,N
+ex_un_v_in_3,10,2,7:35,9/11/2021,7:53,9/11/2021,24,6,biomph,15,control,uninfected,NA,12,0,2,1,0,8,11,0,1,NA,1,SK_SF,,N,N
+ex_un_v_in_3,10,2,7:35,9/11/2021,7:53,9/11/2021,24,7,bulinus,15,experimental,infected,C008,12,0,1,0,0,10,11,0,0,1,1,SK_SF,shell pieces,N,N
+ex_un_v_in_3,10,2,7:35,9/11/2021,7:53,9/11/2021,24,8,bulinus,15,control,infected,NA,12,2,2,1,0,7,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_3,10,2,NA,9/11/2021,19:30,9/11/2021,36,1,biomph,15,experimental,uninfected,C009,12,1,3,0,1,6,11,0,1,0,1,ID_SF,,N,N
+ex_un_v_in_3,10,2,NA,9/11/2021,19:30,9/11/2021,36,2,biomph,15,control,infected,NA,12,0,4,0,0,8,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_3,10,2,NA,9/11/2021,19:30,9/11/2021,36,3,biomph,15,experimental,infected,C013,12,0,5,0,0,2,7,3,2,0,5,ID_SF,,N,N
+ex_un_v_in_3,10,2,NA,9/11/2021,19:30,9/11/2021,36,4,bulinus,15,control,uninfected,NA,12,4,2,1,0,5,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_3,10,2,NA,9/11/2021,19:30,9/11/2021,36,5,bulinus,15,experimental,uninfected,C012,12,0,0,1,0,11,12,0,0,0,0,ID_SF,,N,N
+ex_un_v_in_3,10,2,NA,9/11/2021,19:30,9/11/2021,36,6,biomph,15,control,uninfected,NA,12,0,2,0,0,10,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_3,10,2,NA,9/11/2021,19:30,9/11/2021,36,7,bulinus,15,experimental,infected,C008,12,1,3,0,0,8,12,0,0,0,0,ID_SF,,N,N
+ex_un_v_in_3,10,2,NA,9/11/2021,19:30,9/11/2021,36,8,bulinus,15,control,infected,NA,12,0,8,0,0,4,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_3,11,3,7:04,10/11/2021,7:24,10/11/2021,48,1,biomph,15,experimental,uninfected,C009,12,0,0,0,0,10,10,1,1,0,2,SK_AO ,,N,N
+ex_un_v_in_3,11,3,7:04,10/11/2021,7:24,10/11/2021,48,2,biomph,15,control,infected,NA,12,0,2,0,0,10,12,0,0,NA,0,SK_AO ,,N,N
+ex_un_v_in_3,11,3,7:04,10/11/2021,7:24,10/11/2021,48,3,biomph,15,experimental,infected,C013,12,0,5,0,0,2,7,5,0,0,5,SK_AO ,,N,N
+ex_un_v_in_3,11,3,7:04,10/11/2021,7:24,10/11/2021,48,4,bulinus,15,control,uninfected,NA,12,3,2,2,0,5,12,0,0,NA,0,SK_AO ,,N,N
+ex_un_v_in_3,11,3,7:04,10/11/2021,7:24,10/11/2021,48,5,bulinus,15,experimental,uninfected,C012,12,2,0,2,0,8,12,0,0,0,0,SK_AO ,,N,N
+ex_un_v_in_3,11,3,7:04,10/11/2021,7:24,10/11/2021,48,6,biomph,15,control,uninfected,NA,12,0,0,2,0,10,12,0,0,NA,0,SK_AO ,,N,N
+ex_un_v_in_3,11,3,7:04,10/11/2021,7:24,10/11/2021,48,7,bulinus,15,experimental,infected,C008,12,1,2,1,0,5,9,0,0,0,3,SK_AO ,shell pieces ,N,N
+ex_un_v_in_3,11,3,7:04,10/11/2021,7:24,10/11/2021,48,8,bulinus,15,control,infected,NA,12,0,7,0,0,5,12,0,0,NA,0,SK_AO ,,N,N
+ex_un_v_in_3,11,3,19:00,10/11/2021,19:16,10/11/2021,60,1,biomph,15,experimental,uninfected,C009,12,0,1,1,0,8,10,2,0,0,2,SK_SF,,N,N
+ex_un_v_in_3,11,3,19:00,10/11/2021,19:16,10/11/2021,60,2,biomph,15,control,infected,NA,12,0,5,1,0,6,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_3,11,3,19:00,10/11/2021,19:16,10/11/2021,60,3,biomph,15,experimental,infected,C013,12,0,5,0,0,3,8,4,0,0,4,SK_SF,,N,N
+ex_un_v_in_3,11,3,19:00,10/11/2021,19:16,10/11/2021,60,4,bulinus,15,control,uninfected,NA,12,2,0,2,1,5,10,0,1,NA,2,SK_SF,1 snail outside tank,N,N
+ex_un_v_in_3,11,3,19:00,10/11/2021,19:16,10/11/2021,60,5,bulinus,15,experimental,uninfected,C012,12,4,0,1,1,5,11,0,1,0,1,SK_SF,,N,N
+ex_un_v_in_3,11,3,19:00,10/11/2021,19:16,10/11/2021,60,6,biomph,15,control,uninfected,NA,12,0,10,0,0,2,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_3,11,3,19:00,10/11/2021,19:16,10/11/2021,60,7,bulinus,15,experimental,infected,C008,12,0,2,0,0,10,12,0,0,0,0,SK_SF,,N,N
+ex_un_v_in_3,11,3,19:00,10/11/2021,19:16,10/11/2021,60,8,bulinus,15,control,infected,NA,12,1,7,0,0,4,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_3,12,4,7:08,11/11/2021,7:22,11/11/2021,72,1,biomph,15,experimental,uninfected,C009,12,0,3,0,0,7,10,2,0,0,NA,ID_SF,,N,N
+ex_un_v_in_3,12,4,7:08,11/11/2021,7:22,11/11/2021,72,2,biomph,15,control,infected,NA,12,0,5,0,0,6,11,0,1,NA,NA,ID_SF,,N,N
+ex_un_v_in_3,12,4,7:08,11/11/2021,7:22,11/11/2021,72,3,biomph,15,experimental,infected,C013,12,0,7,0,0,1,8,3,1,0,NA,ID_SF,,N,N
+ex_un_v_in_3,12,4,7:08,11/11/2021,7:22,11/11/2021,72,4,bulinus,15,control,uninfected,NA,12,6,0,1,1,4,12,0,0,NA,NA,ID_SF,,N,N
+ex_un_v_in_3,12,4,7:08,11/11/2021,7:22,11/11/2021,72,5,bulinus,15,experimental,uninfected,C012,12,2,1,0,0,8,11,0,0,1,NA,ID_SF,,N,N
+ex_un_v_in_3,12,4,7:08,11/11/2021,7:22,11/11/2021,72,6,biomph,15,control,uninfected,NA,12,0,10,1,0,1,12,0,0,NA,NA,ID_SF,,N,N
+ex_un_v_in_3,12,4,7:08,11/11/2021,7:22,11/11/2021,72,7,bulinus,15,experimental,infected,C008,12,0,3,0,0,7,10,0,2,0,NA,ID_SF,,N,N
+ex_un_v_in_3,12,4,7:08,11/11/2021,7:22,11/11/2021,72,8,bulinus,15,control,infected,NA,12,0,3,0,0,9,12,0,0,NA,NA,ID_SF,,N,N
+ex_un_v_in_4,13,1,7:00,29/11/21,NA,29/11/21,0,1,bulinus,15,experimental,uninfected,C002,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK_AO,,N,N
+ex_un_v_in_4,13,1,7:00,29/11/21,NA,29/11/21,0,2,biomph,15,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK_AO,,N,N
+ex_un_v_in_4,13,1,7:00,29/11/21,NA,29/11/21,0,3,biomph,15,experimental,uninfected,C001,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK_AO,,N,N
+ex_un_v_in_4,13,1,7:00,29/11/21,NA,29/11/21,0,4,bulinus,15,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK_AO,,N,N
+ex_un_v_in_4,13,1,7:00,29/11/21,NA,29/11/21,0,5,biomph,15,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK_AO,,N,N
+ex_un_v_in_4,13,1,7:00,29/11/21,NA,29/11/21,0,6,bulinus,15,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK_AO,,N,N
+ex_un_v_in_4,13,1,7:00,29/11/21,NA,29/11/21,0,7,bulinus,15,experimental,infected,C011,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK_AO,,N,N
+ex_un_v_in_4,13,1,7:00,29/11/21,NA,29/11/21,0,8,biomph,15,experimental,infected,C005,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,SF_SK_AO,,N,N
+ex_un_v_in_4,13,1,19:08,29/11/21,19:46,29/11/21,12,1,bulinus,15,experimental,uninfected,C002,12,0,0,1,0,3,4,3,1,4,8,ID_SF,shell pieces ,N,N
+ex_un_v_in_4,13,1,19:08,29/11/21,19:46,29/11/21,12,2,biomph,15,control,infected,NA,12,0,5,0,0,7,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_4,13,1,19:08,29/11/21,19:46,29/11/21,12,3,biomph,15,experimental,uninfected,C001,12,0,1,1,0,8,10,1,1,0,2,ID_SF,,N,N
+ex_un_v_in_4,13,1,19:08,29/11/21,19:46,29/11/21,12,4,bulinus,15,control,infected,NA,12,5,2,0,0,5,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_4,13,1,19:08,29/11/21,19:46,29/11/21,12,5,biomph,15,control,uninfected,NA,12,0,11,0,0,1,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_4,13,1,19:08,29/11/21,19:46,29/11/21,12,6,bulinus,15,control,uninfected,NA,12,0,1,0,0,11,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_4,13,1,19:08,29/11/21,19:46,29/11/21,12,7,bulinus,15,experimental,infected,C011,12,7,0,0,0,4,11,1,0,0,1,ID_SF,,N,N
+ex_un_v_in_4,13,1,19:08,29/11/21,19:46,29/11/21,12,8,biomph,15,experimental,infected,C005,12,0,0,0,0,6,6,6,0,0,6,ID_SF,,N,N
+ex_un_v_in_4,14,2,7:01,30/11/21,7:43,30/11/21,24,1,bulinus,15,experimental,uninfected,C002,12,1,0,0,0,1,2,0,3,7,10,AO_SF,shell pieces,N,N
+ex_un_v_in_4,14,2,7:01,30/11/21,7:43,30/11/21,24,2,biomph,15,control,infected,NA,12,0,4,1,0,7,12,0,0,NA,0,AO_SF,,N,N
+ex_un_v_in_4,14,2,7:01,30/11/21,7:43,30/11/21,24,3,biomph,15,experimental,uninfected,C001,12,0,0,2,0,10,12,0,0,0,0,AO_SF,,N,N
+ex_un_v_in_4,14,2,7:01,30/11/21,7:43,30/11/21,24,4,bulinus,15,control,infected,NA,12,6,3,0,0,3,12,0,0,NA,0,AO_SF,,N,N
+ex_un_v_in_4,14,2,7:01,30/11/21,7:43,30/11/21,24,5,biomph,15,control,uninfected,NA,12,0,5,0,1,6,12,0,0,NA,0,AO_SF,,N,N
+ex_un_v_in_4,14,2,7:01,30/11/21,7:43,30/11/21,24,6,bulinus,15,control,uninfected,NA,12,0,0,0,1,11,12,0,0,NA,0,AO_SF,3 snails eatting pellet,N,N
+ex_un_v_in_4,14,2,7:01,30/11/21,7:43,30/11/21,24,7,bulinus,15,experimental,infected,C011,12,3,0,0,3,2,8,2,1,1,4,AO_SF,shell pieces,N,N
+ex_un_v_in_4,14,2,7:01,30/11/21,7:43,30/11/21,24,8,biomph,15,experimental,infected,C005,12,1,0,0,0,7,8,4,0,0,4,AO_SF,,N,N
+ex_un_v_in_4,14,2,18:55,30/11/21,19:30,30/11/21,36,1,bulinus,15,experimental,uninfected,C002,12,0,0,0,0,3,3,2,3,4,9,ID_SF,,N,N
+ex_un_v_in_4,14,2,18:55,30/11/21,19:30,30/11/21,36,2,biomph,15,control,infected,NA,12,0,6,0,0,6,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_4,14,2,18:55,30/11/21,19:30,30/11/21,36,3,biomph,15,experimental,uninfected,C001,12,0,2,0,0,9,11,0,1,0,1,ID_SF,,N,N
+ex_un_v_in_4,14,2,18:55,30/11/21,19:30,30/11/21,36,4,bulinus,15,control,infected,NA,12,4,4,0,1,3,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_4,14,2,18:55,30/11/21,19:30,30/11/21,36,5,biomph,15,control,uninfected,NA,12,0,6,0,0,6,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_4,14,2,18:55,30/11/21,19:30,30/11/21,36,6,bulinus,15,control,uninfected,NA,12,3,3,0,0,6,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_4,14,2,18:55,30/11/21,19:30,30/11/21,36,7,bulinus,15,experimental,infected,C011,12,1,1,0,2,5,9,1,1,1,3,ID_SF,,N,N
+ex_un_v_in_4,14,2,18:55,30/11/21,19:30,30/11/21,36,8,biomph,15,experimental,infected,C005,12,0,2,0,0,9,11,1,0,0,1,ID_SF,,N,N
+ex_un_v_in_4,15,3,7:03,1/12/2021,NA,1/12/2021,48,1,bulinus,15,experimental,uninfected,C002,12,0,0,0,0,4,4,1,3,4,8,SK_SF_AO,shell pieces,N,N
+ex_un_v_in_4,15,3,7:03,1/12/2021,NA,1/12/2021,48,2,biomph,15,control,infected,NA,12,0,4,1,0,7,12,0,0,NA,0,SK_SF_AO,,N,N
+ex_un_v_in_4,15,3,7:03,1/12/2021,NA,1/12/2021,48,3,biomph,15,experimental,uninfected,C001,12,0,1,0,0,10,11,1,0,0,1,SK_SF_AO,,N,N
+ex_un_v_in_4,15,3,7:03,1/12/2021,NA,1/12/2021,48,4,bulinus,15,control,infected,NA,12,0,5,0,0,7,12,0,0,NA,0,SK_SF_AO,,N,N
+ex_un_v_in_4,15,3,7:03,1/12/2021,NA,1/12/2021,48,5,biomph,15,control,uninfected,NA,12,0,2,1,0,9,12,0,0,NA,0,SK_SF_AO,,N,N
+ex_un_v_in_4,15,3,7:03,1/12/2021,NA,1/12/2021,48,6,bulinus,15,control,uninfected,NA,12,0,0,0,0,12,12,0,0,NA,0,SK_SF_AO,,N,N
+ex_un_v_in_4,15,3,7:03,1/12/2021,NA,1/12/2021,48,7,bulinus,15,experimental,infected,C011,12,2,0,2,3,3,10,0,0,2,2,SK_SF_AO,,N,N
+ex_un_v_in_4,15,3,7:03,1/12/2021,NA,1/12/2021,48,8,biomph,15,experimental,infected,C005,12,0,1,0,0,8,9,3,0,0,3,SK_SF_AO,,N,N
+ex_un_v_in_4,15,3,19:04,1/12/2021,19:36,1/12/2021,60,1,bulinus,15,experimental,uninfected,C002,12,0,0,1,0,5,6,2,2,2,5,SK_SF,shell pieces,N,N
+ex_un_v_in_4,15,3,19:04,1/12/2021,19:36,1/12/2021,60,2,biomph,15,control,infected,NA,12,0,2,0,0,9,11,0,1,NA,1,SK_SF,,N,N
+ex_un_v_in_4,15,3,19:04,1/12/2021,19:36,1/12/2021,60,3,biomph,15,experimental,uninfected,C001,12,0,1,1,1,8,11,1,0,0,1,SK_SF,,N,N
+ex_un_v_in_4,15,3,19:04,1/12/2021,19:36,1/12/2021,60,4,bulinus,15,control,infected,NA,12,1,3,0,0,8,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_4,15,3,19:04,1/12/2021,19:36,1/12/2021,60,5,biomph,15,control,uninfected,NA,12,0,4,0,0,8,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_4,15,3,19:04,1/12/2021,19:36,1/12/2021,60,6,bulinus,15,control,uninfected,NA,12,0,0,0,1,11,12,0,0,NA,0,SK_SF,,N,N
+ex_un_v_in_4,15,3,19:04,1/12/2021,19:36,1/12/2021,60,7,bulinus,15,experimental,infected,C011,12,2,3,0,0,6,11,0,0,1,1,SK_SF,shell pieces,N,N
+ex_un_v_in_4,15,3,19:04,1/12/2021,19:36,1/12/2021,60,8,biomph,15,experimental,infected,C005,12,2,1,0,0,7,10,1,1,0,2,SK_SF,,N,N
+ex_un_v_in_4,16,4,7:10,2/12/2021,7:41,2/12/2021,72,1,bulinus,15,experimental,uninfected,C002,12,0,0,1,0,4,5,0,4,3,NA,ID_SF,shell pieces,N,N
+ex_un_v_in_4,16,4,7:10,2/12/2021,7:41,2/12/2021,72,2,biomph,15,control,infected,NA,12,0,2,0,0,10,12,0,0,NA,NA,ID_SF,,N,N
+ex_un_v_in_4,16,4,7:10,2/12/2021,7:41,2/12/2021,72,3,biomph,15,experimental,uninfected,C001,12,0,0,1,0,11,12,0,0,0,NA,ID_SF,,N,N
+ex_un_v_in_4,16,4,7:10,2/12/2021,7:41,2/12/2021,72,4,bulinus,15,control,infected,NA,12,0,5,0,0,7,12,0,0,NA,NA,ID_SF,,N,N
+ex_un_v_in_4,16,4,7:10,2/12/2021,7:41,2/12/2021,72,5,biomph,15,control,uninfected,NA,12,0,0,1,0,11,12,0,0,NA,NA,ID_SF,,N,N
+ex_un_v_in_4,16,4,7:10,2/12/2021,7:41,2/12/2021,72,6,bulinus,15,control,uninfected,NA,12,0,1,0,0,11,12,0,0,NA,NA,ID_SF,,N,N
+ex_un_v_in_4,16,4,7:10,2/12/2021,7:41,2/12/2021,72,7,bulinus,15,experimental,infected,C011,12,3,2,0,3,3,11,1,0,0,NA,ID_SF,,N,N
+ex_un_v_in_4,16,4,7:10,2/12/2021,7:41,2/12/2021,72,8,biomph,15,experimental,infected,C005,12,0,0,0,0,7,7,5,0,0,NA,ID_SF,,N,N
+ex_un_v_in_5,17,1,NA,6/12/2021,7:34,6/12/2021,0,1,bulinus,20,experimental,infected,C005,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF,,N,N
+ex_un_v_in_5,17,1,NA,6/12/2021,7:34,6/12/2021,0,2,biomph,20,experimental,infected,C011,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF,,N,Y
+ex_un_v_in_5,17,1,NA,6/12/2021,7:34,6/12/2021,0,3,bulinus,20,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF,,N,N
+ex_un_v_in_5,17,1,NA,6/12/2021,7:34,6/12/2021,0,4,bulinus,20,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF,,N,N
+ex_un_v_in_5,17,1,NA,6/12/2021,7:34,6/12/2021,0,5,biomph,20,experimental,uninfected,C002,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF,,N,N
+ex_un_v_in_5,17,1,NA,6/12/2021,7:34,6/12/2021,0,6,biomph,20,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF,,N,N
+ex_un_v_in_5,17,1,NA,6/12/2021,7:34,6/12/2021,0,7,biomph,20,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF,,N,N
+ex_un_v_in_5,17,1,NA,6/12/2021,7:34,6/12/2021,0,8,bulinus,20,experimental,uninfected,C001,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF,,N,N
+ex_un_v_in_5,17,1,NA,6/12/2021,7:34,6/12/2021,0,9,bulinus,35,experimental,uninfected,C008,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF,,N,N
+ex_un_v_in_5,17,1,NA,6/12/2021,7:34,6/12/2021,0,10,biomph,35,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF,,N,N
+ex_un_v_in_5,17,1,NA,6/12/2021,7:34,6/12/2021,0,11,bulinus,35,experimental,infected,C013,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF,,N,N
+ex_un_v_in_5,17,1,NA,6/12/2021,7:34,6/12/2021,0,12,biomph,35,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF,,N,N
+ex_un_v_in_5,17,1,NA,6/12/2021,7:34,6/12/2021,0,13,bulinus,35,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF,,N,N
+ex_un_v_in_5,17,1,NA,6/12/2021,7:34,6/12/2021,0,14,biomph,35,experimental,uninfected,C012,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF,,N,Y
+ex_un_v_in_5,17,1,NA,6/12/2021,7:34,6/12/2021,0,15,bulinus,35,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF,,N,N
+ex_un_v_in_5,17,1,NA,6/12/2021,7:34,6/12/2021,0,16,biomph,35,experimental,infected,C014,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF,,N,N
+ex_un_v_in_5,17,1,19:06,6/12/2021,19:43,6/12/2021,12,1,bulinus,20,experimental,infected,C005,12,1,0,0,0,2,3,2,0,7,9,ID_SF,shell pieces,N,N
+ex_un_v_in_5,17,1,19:06,6/12/2021,19:43,6/12/2021,12,2,biomph,20,experimental,infected,C011,12,0,2,0,0,10,12,0,0,0,0,ID_SF,crayfish molted; one snail inside crayfish molt ,N,Y
+ex_un_v_in_5,17,1,19:06,6/12/2021,19:43,6/12/2021,12,3,bulinus,20,control,uninfected,NA,12,3,3,0,0,6,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_5,17,1,19:06,6/12/2021,19:43,6/12/2021,12,4,bulinus,20,control,infected,NA,12,2,6,1,0,3,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_5,17,1,19:06,6/12/2021,19:43,6/12/2021,12,5,biomph,20,experimental,uninfected,C002,12,2,1,0,0,2,5,5,0,2,7,ID_SF,shell pieces,N,N
+ex_un_v_in_5,17,1,19:06,6/12/2021,19:43,6/12/2021,12,6,biomph,20,control,uninfected,NA,12,0,1,1,0,10,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_5,17,1,19:06,6/12/2021,19:43,6/12/2021,12,7,biomph,20,control,infected,NA,12,1,3,0,0,7,11,0,1,NA,1,ID_SF,,N,N
+ex_un_v_in_5,17,1,19:06,6/12/2021,19:43,6/12/2021,12,8,bulinus,20,experimental,uninfected,C001,12,3,0,0,1,6,10,1,0,1,2,ID_SF,,N,N
+ex_un_v_in_5,17,1,19:06,6/12/2021,19:43,6/12/2021,12,9,bulinus,35,experimental,uninfected,C008,12,0,0,0,0,0,0,4,0,8,12,ID_SF,shell pieces,N,N
+ex_un_v_in_5,17,1,19:06,6/12/2021,19:43,6/12/2021,12,10,biomph,35,control,uninfected,NA,12,1,5,0,0,6,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_5,17,1,19:06,6/12/2021,19:43,6/12/2021,12,11,bulinus,35,experimental,infected,C013,12,1,0,0,2,0,3,1,0,8,9,ID_SF,shell pieces,N,N
+ex_un_v_in_5,17,1,19:06,6/12/2021,19:43,6/12/2021,12,12,biomph,35,control,infected,NA,12,0,3,1,0,8,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_5,17,1,19:06,6/12/2021,19:43,6/12/2021,12,13,bulinus,35,control,infected,NA,12,3,0,1,0,8,12,0,0,NA,0,ID_SF,baby [snail] removed,N,N
+ex_un_v_in_5,17,1,19:06,6/12/2021,19:43,6/12/2021,12,14,biomph,35,experimental,uninfected,C012,12,6,1,0,0,2,9,0,0,3,3,ID_SF,shell pieces,N,Y
+ex_un_v_in_5,17,1,19:06,6/12/2021,19:43,6/12/2021,12,15,bulinus,35,control,uninfected,NA,12,1,1,1,0,9,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_5,17,1,19:06,6/12/2021,19:43,6/12/2021,12,16,biomph,35,experimental,infected,C014,12,0,0,1,0,11,12,0,0,0,0,ID_SF,,N,N
+ex_un_v_in_5,18,2,7:11,7/12/2021,7:50,7/12/2021,24,1,bulinus,20,experimental,infected,C005,12,0,0,0,1,4,5,3,0,4,7,ID_SF,shell pieces,N,N
+ex_un_v_in_5,18,2,7:11,7/12/2021,7:50,7/12/2021,24,2,biomph,20,experimental,infected,C011,12,0,5,0,0,4,9,3,0,0,3,ID_SF,molt! (from yesterday),N,N
+ex_un_v_in_5,18,2,7:11,7/12/2021,7:50,7/12/2021,24,3,bulinus,20,control,uninfected,NA,12,2,0,0,0,10,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_5,18,2,7:11,7/12/2021,7:50,7/12/2021,24,4,bulinus,20,control,infected,NA,12,2,9,0,0,1,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_5,18,2,7:11,7/12/2021,7:50,7/12/2021,24,5,biomph,20,experimental,uninfected,C002,12,2,1,0,0,1,4,4,0,4,8,ID_SF,shell pieces,N,N
+ex_un_v_in_5,18,2,7:11,7/12/2021,7:50,7/12/2021,24,6,biomph,20,control,uninfected,NA,12,0,4,0,0,8,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_5,18,2,7:11,7/12/2021,7:50,7/12/2021,24,7,biomph,20,control,infected,NA,12,0,0,0,0,12,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_5,18,2,7:11,7/12/2021,7:50,7/12/2021,24,8,bulinus,20,experimental,uninfected,C001,12,4,0,0,0,6,10,0,1,1,2,ID_SF,,N,N
+ex_un_v_in_5,18,2,7:11,7/12/2021,7:50,7/12/2021,24,9,bulinus,35,experimental,uninfected,C008,12,2,3,0,0,0,5,3,0,4,7,ID_SF,shell pieces,N,N
+ex_un_v_in_5,18,2,7:11,7/12/2021,7:50,7/12/2021,24,10,biomph,35,control,uninfected,NA,12,0,1,1,0,10,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_5,18,2,7:11,7/12/2021,7:50,7/12/2021,24,11,bulinus,35,experimental,infected,C013,12,5,0,0,0,0,5,2,0,5,7,ID_SF,shell pieces,N,N
+ex_un_v_in_5,18,2,7:11,7/12/2021,7:50,7/12/2021,24,12,biomph,35,control,infected,NA,12,0,0,2,0,10,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_5,18,2,7:11,7/12/2021,7:50,7/12/2021,24,13,bulinus,35,control,infected,NA,12,1,2,1,0,8,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_5,18,2,7:11,7/12/2021,7:50,7/12/2021,24,14,biomph,35,experimental,uninfected,C012,12,3,1,0,0,0,4,0,0,8,8,ID_SF,shell pieces,N,N
+ex_un_v_in_5,18,2,7:11,7/12/2021,7:50,7/12/2021,24,15,bulinus,35,control,uninfected,NA,12,0,3,1,0,8,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_5,18,2,7:11,7/12/2021,7:50,7/12/2021,24,16,biomph,35,experimental,infected,C014,12,0,4,0,0,8,12,0,0,0,0,ID_SF,,N,N
+ex_un_v_in_5,18,2,19:05,7/12/2021,19:50,7/12/2021,36,1,bulinus,20,experimental,infected,C005,12,2,3,0,0,3,8,0,0,4,4,AO_SF,,N,N
+ex_un_v_in_5,18,2,19:05,7/12/2021,19:50,7/12/2021,36,2,biomph,20,experimental,infected,C011,12,4,2,0,1,1,8,4,0,0,4,AO_SF,molt! (from yesterday),N,N
+ex_un_v_in_5,18,2,19:05,7/12/2021,19:50,7/12/2021,36,3,bulinus,20,control,uninfected,NA,12,2,1,0,1,8,12,0,0,NA,0,AO_SF,,N,N
+ex_un_v_in_5,18,2,19:05,7/12/2021,19:50,7/12/2021,36,4,bulinus,20,control,infected,NA,12,0,9,0,0,3,12,0,0,NA,0,AO_SF,,N,N
+ex_un_v_in_5,18,2,19:05,7/12/2021,19:50,7/12/2021,36,5,biomph,20,experimental,uninfected,C002,12,1,1,0,0,3,5,1,0,6,7,AO_SF,shell pieces,N,N
+ex_un_v_in_5,18,2,19:05,7/12/2021,19:50,7/12/2021,36,6,biomph,20,control,uninfected,NA,12,0,5,0,0,7,12,0,0,NA,0,AO_SF,,N,N
+ex_un_v_in_5,18,2,19:05,7/12/2021,19:50,7/12/2021,36,7,biomph,20,control,infected,NA,12,0,2,0,0,10,12,0,0,NA,0,AO_SF,,N,N
+ex_un_v_in_5,18,2,19:05,7/12/2021,19:50,7/12/2021,36,8,bulinus,20,experimental,uninfected,C001,12,8,0,0,0,3,11,0,1,0,1,AO_SF,,N,N
+ex_un_v_in_5,18,2,19:05,7/12/2021,19:50,7/12/2021,36,9,bulinus,35,experimental,uninfected,C008,12,1,2,0,0,0,3,0,0,9,9,AO_SF,shell pieces,N,N
+ex_un_v_in_5,18,2,19:05,7/12/2021,19:50,7/12/2021,36,10,biomph,35,control,uninfected,NA,12,0,12,0,0,0,12,0,0,NA,0,AO_SF,,N,N
+ex_un_v_in_5,18,2,19:05,7/12/2021,19:50,7/12/2021,36,11,bulinus,35,experimental,infected,C013,12,3,1,0,0,2,6,0,0,6,6,AO_SF,shell pieces,N,N
+ex_un_v_in_5,18,2,19:05,7/12/2021,19:50,7/12/2021,36,12,biomph,35,control,infected,NA,12,0,7,0,0,5,12,0,0,NA,0,AO_SF,,N,N
+ex_un_v_in_5,18,2,19:05,7/12/2021,19:50,7/12/2021,36,13,bulinus,35,control,infected,NA,12,1,9,0,0,2,12,0,0,NA,0,AO_SF,,N,N
+ex_un_v_in_5,18,2,19:05,7/12/2021,19:50,7/12/2021,36,14,biomph,35,experimental,uninfected,C012,12,7,0,0,0,0,7,1,0,4,5,AO_SF,shell pieces ,N,N
+ex_un_v_in_5,18,2,19:05,7/12/2021,19:50,7/12/2021,36,15,bulinus,35,control,uninfected,NA,12,1,6,0,0,5,12,0,0,NA,0,AO_SF,,N,N
+ex_un_v_in_5,18,2,19:05,7/12/2021,19:50,7/12/2021,36,16,biomph,35,experimental,infected,C014,12,0,5,1,0,6,12,0,0,0,0,AO_SF,,N,N
+ex_un_v_in_5,19,3,7:04,8/12/2021,7:36,8/12/2021,48,1,bulinus,20,experimental,infected,C005,12,0,4,0,0,4,8,0,0,4,4,SK_AO ,shell pieces,N,N
+ex_un_v_in_5,19,3,7:04,8/12/2021,7:36,8/12/2021,48,2,biomph,20,experimental,infected,C011,12,3,0,0,0,7,10,2,0,0,2,SK_AO ,molt being eaten ,N,N
+ex_un_v_in_5,19,3,7:04,8/12/2021,7:36,8/12/2021,48,3,bulinus,20,control,uninfected,NA,12,1,4,0,1,6,12,0,0,NA,0,SK_AO ,,N,N
+ex_un_v_in_5,19,3,7:04,8/12/2021,7:36,8/12/2021,48,4,bulinus,20,control,infected,NA,12,1,2,0,1,7,12,0,0,NA,0,SK_AO ,,N,N
+ex_un_v_in_5,19,3,7:04,8/12/2021,7:36,8/12/2021,48,5,biomph,20,experimental,uninfected,C002,12,1,0,0,0,1,2,7,0,3,10,SK_AO ,shell pieces ,N,N
+ex_un_v_in_5,19,3,7:04,8/12/2021,7:36,8/12/2021,48,6,biomph,20,control,uninfected,NA,12,0,7,0,0,5,12,0,0,NA,0,SK_AO ,,N,N
+ex_un_v_in_5,19,3,7:04,8/12/2021,7:36,8/12/2021,48,7,biomph,20,control,infected,NA,12,0,6,0,0,6,12,0,0,NA,0,SK_AO ,,N,N
+ex_un_v_in_5,19,3,7:04,8/12/2021,7:36,8/12/2021,48,8,bulinus,20,experimental,uninfected,C001,12,5,0,0,0,6,11,0,0,1,1,SK_AO ,,N,N
+ex_un_v_in_5,19,3,7:04,8/12/2021,7:36,8/12/2021,48,9,bulinus,35,experimental,uninfected,C008,12,2,0,0,0,0,2,0,0,10,10,SK_AO ,shell pieces,N,N
+ex_un_v_in_5,19,3,7:04,8/12/2021,7:36,8/12/2021,48,10,biomph,35,control,uninfected,NA,12,0,7,0,0,5,12,0,0,NA,0,SK_AO ,,N,N
+ex_un_v_in_5,19,3,7:04,8/12/2021,7:36,8/12/2021,48,11,bulinus,35,experimental,infected,C013,12,4,0,0,0,1,5,0,0,7,7,SK_AO ,shell pieces ,N,N
+ex_un_v_in_5,19,3,7:04,8/12/2021,7:36,8/12/2021,48,12,biomph,35,control,infected,NA,12,0,4,1,0,7,12,0,0,NA,0,SK_AO ,,N,N
+ex_un_v_in_5,19,3,7:04,8/12/2021,7:36,8/12/2021,48,13,bulinus,35,control,infected,NA,12,3,5,0,0,4,12,0,0,NA,0,SK_AO ,,N,N
+ex_un_v_in_5,19,3,7:04,8/12/2021,7:36,8/12/2021,48,14,biomph,35,experimental,uninfected,C012,12,2,5,1,0,1,9,0,0,3,3,SK_AO ,,N,N
+ex_un_v_in_5,19,3,7:04,8/12/2021,7:36,8/12/2021,48,15,bulinus,35,control,uninfected,NA,12,0,5,1,0,6,12,0,0,NA,0,SK_AO ,,N,N
+ex_un_v_in_5,19,3,7:04,8/12/2021,7:36,8/12/2021,48,16,biomph,35,experimental,infected,C014,12,0,8,0,0,4,12,0,0,0,0,SK_AO ,,N,N
+ex_un_v_in_5,19,3,18:58,8/12/2021,NA,8/12/2021,60,1,bulinus,20,experimental,infected,C005,12,0,1,0,0,7,8,2,2,0,4,SK_ID,,N,N
+ex_un_v_in_5,19,3,18:58,8/12/2021,NA,8/12/2021,60,2,biomph,20,experimental,infected,C011,12,6,1,0,0,0,7,3,0,2,5,SK_ID,,N,N
+ex_un_v_in_5,19,3,18:58,8/12/2021,NA,8/12/2021,60,3,bulinus,20,control,uninfected,NA,12,2,0,0,0,10,12,0,0,NA,0,SK_ID,,N,N
+ex_un_v_in_5,19,3,18:58,8/12/2021,NA,8/12/2021,60,4,bulinus,20,control,infected,NA,12,1,6,0,0,5,12,0,0,NA,0,SK_ID,,N,N
+ex_un_v_in_5,19,3,18:58,8/12/2021,NA,8/12/2021,60,5,biomph,20,experimental,uninfected,C002,12,2,0,0,0,0,2,2,2,6,10,SK_ID,shell pieces,N,N
+ex_un_v_in_5,19,3,18:58,8/12/2021,NA,8/12/2021,60,6,biomph,20,control,uninfected,NA,12,0,9,0,0,3,12,0,0,NA,0,SK_ID,,N,N
+ex_un_v_in_5,19,3,18:58,8/12/2021,NA,8/12/2021,60,7,biomph,20,control,infected,NA,12,1,6,0,0,5,12,0,0,NA,0,SK_ID,,N,N
+ex_un_v_in_5,19,3,18:58,8/12/2021,NA,8/12/2021,60,8,bulinus,20,experimental,uninfected,C001,12,5,0,0,0,5,10,1,1,0,2,SK_ID,shell pieces,N,N
+ex_un_v_in_5,19,3,18:58,8/12/2021,NA,8/12/2021,60,9,bulinus,35,experimental,uninfected,C008,12,1,0,0,2,1,4,5,0,3,8,SK_ID,shell pieces,N,N
+ex_un_v_in_5,19,3,18:58,8/12/2021,NA,8/12/2021,60,10,biomph,35,control,uninfected,NA,12,1,6,0,0,5,12,0,0,NA,0,SK_ID,,N,N
+ex_un_v_in_5,19,3,18:58,8/12/2021,NA,8/12/2021,60,11,bulinus,35,experimental,infected,C013,12,3,1,0,1,2,7,1,0,4,5,SK_ID,shell pieces,N,N
+ex_un_v_in_5,19,3,18:58,8/12/2021,NA,8/12/2021,60,12,biomph,35,control,infected,NA,12,0,10,0,0,2,12,0,0,NA,0,SK_ID,,N,N
+ex_un_v_in_5,19,3,18:58,8/12/2021,NA,8/12/2021,60,13,bulinus,35,control,infected,NA,12,1,7,0,0,4,12,0,0,NA,0,SK_ID,,N,N
+ex_un_v_in_5,19,3,18:58,8/12/2021,NA,8/12/2021,60,14,biomph,35,experimental,uninfected,C012,12,9,0,0,0,0,9,2,0,1,3,SK_ID,shell pieces ,N,N
+ex_un_v_in_5,19,3,18:58,8/12/2021,NA,8/12/2021,60,15,bulinus,35,control,uninfected,NA,12,1,6,0,0,5,12,0,0,NA,0,SK_ID,,N,N
+ex_un_v_in_5,19,3,18:58,8/12/2021,NA,8/12/2021,60,16,biomph,35,experimental,infected,C014,12,0,8,0,0,4,12,0,0,0,0,SK_ID,,N,N
+ex_un_v_in_5,20,4,7:00,9/12/2021,NA,9/12/2021,72,1,bulinus,20,experimental,infected,C005,12,0,0,0,0,5,5,2,0,5,NA,SK_ID,shell pieces,N,N
+ex_un_v_in_5,20,4,7:00,9/12/2021,NA,9/12/2021,72,2,biomph,20,experimental,infected,C011,12,6,0,0,0,2,8,4,0,0,NA,SK_ID,shell pieces,N,N
+ex_un_v_in_5,20,4,7:00,9/12/2021,NA,9/12/2021,72,3,bulinus,20,control,uninfected,NA,12,1,7,0,0,4,12,0,0,NA,NA,SK_ID,,N,N
+ex_un_v_in_5,20,4,7:00,9/12/2021,NA,9/12/2021,72,4,bulinus,20,control,infected,NA,12,0,8,1,0,3,12,0,0,NA,NA,SK_ID,,N,N
+ex_un_v_in_5,20,4,7:00,9/12/2021,NA,9/12/2021,72,5,biomph,20,experimental,uninfected,C002,12,1,0,0,0,1,2,5,1,4,NA,SK_ID,shell pieces & snail pieces,N,N
+ex_un_v_in_5,20,4,7:00,9/12/2021,NA,9/12/2021,72,6,biomph,20,control,uninfected,NA,12,0,4,0,0,8,12,0,0,NA,NA,SK_ID,,N,N
+ex_un_v_in_5,20,4,7:00,9/12/2021,NA,9/12/2021,72,7,biomph,20,control,infected,NA,12,1,8,0,0,3,12,0,0,NA,NA,SK_ID,,N,N
+ex_un_v_in_5,20,4,7:00,9/12/2021,NA,9/12/2021,72,8,bulinus,20,experimental,uninfected,C001,12,7,0,0,0,4,11,1,0,0,NA,SK_ID,,N,N
+ex_un_v_in_5,20,4,7:00,9/12/2021,NA,9/12/2021,72,9,bulinus,35,experimental,uninfected,C008,12,4,0,0,0,0,4,5,1,2,NA,SK_ID,shell pieces,N,N
+ex_un_v_in_5,20,4,7:00,9/12/2021,NA,9/12/2021,72,10,biomph,35,control,uninfected,NA,12,7,0,0,0,5,12,0,0,NA,NA,SK_ID,,N,N
+ex_un_v_in_5,20,4,7:00,9/12/2021,NA,9/12/2021,72,11,bulinus,35,experimental,infected,C013,12,3,1,0,0,1,5,3,0,4,NA,SK_ID,shell pieces,N,N
+ex_un_v_in_5,20,4,7:00,9/12/2021,NA,9/12/2021,72,12,biomph,35,control,infected,NA,12,0,9,0,0,3,12,0,0,NA,NA,SK_ID,,N,N
+ex_un_v_in_5,20,4,7:00,9/12/2021,NA,9/12/2021,72,13,bulinus,35,control,infected,NA,12,4,4,0,0,4,12,0,0,NA,NA,SK_ID,,N,N
+ex_un_v_in_5,20,4,7:00,9/12/2021,NA,9/12/2021,72,14,biomph,35,experimental,uninfected,C012,12,9,1,0,0,0,10,1,0,1,NA,SK_ID,shell pieces ,N,N
+ex_un_v_in_5,20,4,7:00,9/12/2021,NA,9/12/2021,72,15,bulinus,35,control,uninfected,NA,12,0,8,0,0,4,12,0,0,NA,NA,SK_ID,,N,N
+ex_un_v_in_5,20,4,7:00,9/12/2021,NA,9/12/2021,72,16,biomph,35,experimental,infected,C014,12,0,9,0,0,3,12,0,0,0,NA,SK_ID,,N,N
+ex_un_v_in_6,21,1,7:00,13/12/21,7:40,13/12/21,0,1,bulinus,25,experimental,infected,C002,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF_SK,,N,N
+ex_un_v_in_6,21,1,7:00,13/12/21,7:40,13/12/21,0,2,bulinus,25,experimental,uninfected,C005,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF_SK,,N,N
+ex_un_v_in_6,21,1,7:00,13/12/21,7:40,13/12/21,0,3,biomph,25,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF_SK,,N,N
+ex_un_v_in_6,21,1,7:00,13/12/21,7:40,13/12/21,0,4,bulinus,25,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF_SK,,N,N
+ex_un_v_in_6,21,1,7:00,13/12/21,7:40,13/12/21,0,5,biomph,25,experimental,uninfected,C011,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF_SK,,N,N
+ex_un_v_in_6,21,1,7:00,13/12/21,7:40,13/12/21,0,6,biomph,25,experimental,infected,C001,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF_SK,,N,N
+ex_un_v_in_6,21,1,7:00,13/12/21,7:40,13/12/21,0,7,bulinus,25,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF_SK,,N,N
+ex_un_v_in_6,21,1,7:00,13/12/21,7:40,13/12/21,0,8,biomph,25,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF_SK,,N,N
+ex_un_v_in_6,21,1,7:00,13/12/21,7:40,13/12/21,0,9,biomph,30,experimental,uninfected,C008,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF_SK,,N,N
+ex_un_v_in_6,21,1,7:00,13/12/21,7:40,13/12/21,0,10,bulinus,30,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF_SK,,N,N
+ex_un_v_in_6,21,1,7:00,13/12/21,7:40,13/12/21,0,11,biomph,30,control,uninfected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF_SK,,N,N
+ex_un_v_in_6,21,1,7:00,13/12/21,7:40,13/12/21,0,12,biomph,30,experimental,infected,C012,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF_SK,,N,N
+ex_un_v_in_6,21,1,7:00,13/12/21,7:40,13/12/21,0,13,bulinus,30,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF_SK,,N,N
+ex_un_v_in_6,21,1,7:00,13/12/21,7:40,13/12/21,0,14,biomph,30,control,infected,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF_SK,,N,N
+ex_un_v_in_6,21,1,7:00,13/12/21,7:40,13/12/21,0,15,bulinus,30,experimental,uninfected,C013,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF_SK,,N,N
+ex_un_v_in_6,21,1,7:00,13/12/21,7:40,13/12/21,0,16,bulinus,30,experimental,infected,C014,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,AO_SF_SK,,N,N
+ex_un_v_in_6,21,1,19:00,13/12/21,19:36,13/12/21,12,1,bulinus,25,experimental,infected,C002,12,0,0,0,0,0,0,5,0,7,12,ID_SF,shell pieces,N,N
+ex_un_v_in_6,21,1,19:00,13/12/21,19:36,13/12/21,12,2,bulinus,25,experimental,uninfected,C005,12,0,0,0,0,8,8,2,0,2,4,ID_SF,,N,N
+ex_un_v_in_6,21,1,19:00,13/12/21,19:36,13/12/21,12,3,biomph,25,control,infected,NA,12,0,2,0,0,10,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_6,21,1,19:00,13/12/21,19:36,13/12/21,12,4,bulinus,25,control,uninfected,NA,12,0,2,0,0,10,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_6,21,1,19:00,13/12/21,19:36,13/12/21,12,5,biomph,25,experimental,uninfected,C011,12,3,1,0,0,0,4,6,1,1,8,ID_SF,,N,N
+ex_un_v_in_6,21,1,19:00,13/12/21,19:36,13/12/21,12,6,biomph,25,experimental,infected,C001,12,0,1,0,0,10,11,1,0,0,1,ID_SF,,N,N
+ex_un_v_in_6,21,1,19:00,13/12/21,19:36,13/12/21,12,7,bulinus,25,control,infected,NA,12,0,1,0,0,11,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_6,21,1,19:00,13/12/21,19:36,13/12/21,12,8,biomph,25,control,uninfected,NA,12,1,1,1,0,9,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_6,21,1,19:00,13/12/21,19:36,13/12/21,12,9,biomph,30,experimental,uninfected,C008,12,3,0,0,0,1,4,1,0,7,8,ID_SF,shell pieces,N,N
+ex_un_v_in_6,21,1,19:00,13/12/21,19:36,13/12/21,12,10,bulinus,30,control,uninfected,NA,12,1,0,0,0,11,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_6,21,1,19:00,13/12/21,19:36,13/12/21,12,11,biomph,30,control,uninfected,NA,12,0,1,0,0,11,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_6,21,1,19:00,13/12/21,19:36,13/12/21,12,12,biomph,30,experimental,infected,C012,12,4,0,0,0,1,5,3,0,4,7,ID_SF,1 baby [snail] removed,N,N
+ex_un_v_in_6,21,1,19:00,13/12/21,19:36,13/12/21,12,13,bulinus,30,control,infected,NA,12,1,0,0,0,11,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_6,21,1,19:00,13/12/21,19:36,13/12/21,12,14,biomph,30,control,infected,NA,12,0,0,0,0,12,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_6,21,1,19:00,13/12/21,19:36,13/12/21,12,15,bulinus,30,experimental,uninfected,C013,12,0,0,0,2,1,3,3,2,4,9,ID_SF,shell pieces,N,N
+ex_un_v_in_6,21,1,19:00,13/12/21,19:36,13/12/21,12,16,bulinus,30,experimental,infected,C014,12,4,0,1,1,5,11,0,0,1,1,ID_SF,,N,N
+ex_un_v_in_6,22,2,7:00,14/12/21,7:50,14/12/21,24,1,bulinus,25,experimental,infected,C002,12,1,1,0,0,0,2,2,0,8,10,AO_SF,,N,N
+ex_un_v_in_6,22,2,7:00,14/12/21,7:50,14/12/21,24,2,bulinus,25,experimental,uninfected,C005,12,2,0,0,0,2,4,3,0,5,8,AO_SF,shell pieces,N,N
+ex_un_v_in_6,22,2,7:00,14/12/21,7:50,14/12/21,24,3,biomph,25,control,infected,NA,12,0,5,0,0,7,12,0,0,NA,0,AO_SF,,N,N
+ex_un_v_in_6,22,2,7:00,14/12/21,7:50,14/12/21,24,4,bulinus,25,control,uninfected,NA,12,0,1,0,0,11,12,0,0,NA,0,AO_SF,,N,N
+ex_un_v_in_6,22,2,7:00,14/12/21,7:50,14/12/21,24,5,biomph,25,experimental,uninfected,C011,12,1,0,0,0,1,2,3,0,7,10,AO_SF,shell pieces; took some snails from non-experiment [tanks] but same temp,N,N
+ex_un_v_in_6,22,2,7:00,14/12/21,7:50,14/12/21,24,6,biomph,25,experimental,infected,C001,12,0,0,0,2,9,11,1,0,0,1,AO_SF,,N,N
+ex_un_v_in_6,22,2,7:00,14/12/21,7:50,14/12/21,24,7,bulinus,25,control,infected,NA,12,0,2,1,0,9,12,0,0,NA,0,AO_SF,,N,N
+ex_un_v_in_6,22,2,7:00,14/12/21,7:50,14/12/21,24,8,biomph,25,control,uninfected,NA,12,0,1,0,0,11,12,0,0,NA,0,AO_SF,,N,N
+ex_un_v_in_6,22,2,7:00,14/12/21,7:50,14/12/21,24,9,biomph,30,experimental,uninfected,C008,12,3,2,0,0,0,5,5,0,2,7,AO_SF,shell pieces; added 1 [snail] from non-experiment tank (& added more to experiment [snail] tank),N,N
+ex_un_v_in_6,22,2,7:00,14/12/21,7:50,14/12/21,24,10,bulinus,30,control,uninfected,NA,12,0,2,0,0,10,12,0,0,NA,0,AO_SF,,N,N
+ex_un_v_in_6,22,2,7:00,14/12/21,7:50,14/12/21,24,11,biomph,30,control,uninfected,NA,12,0,1,0,2,9,12,0,0,NA,0,AO_SF,,N,N
+ex_un_v_in_6,22,2,7:00,14/12/21,7:50,14/12/21,24,12,biomph,30,experimental,infected,C012,12,5,0,0,0,3,8,0,0,4,4,AO_SF,shell pieces,N,N
+ex_un_v_in_6,22,2,7:00,14/12/21,7:50,14/12/21,24,13,bulinus,30,control,infected,NA,12,0,1,0,0,11,12,0,0,NA,0,AO_SF,,N,N
+ex_un_v_in_6,22,2,7:00,14/12/21,7:50,14/12/21,24,14,biomph,30,control,infected,NA,12,0,9,0,0,3,12,0,0,NA,0,AO_SF,,N,N
+ex_un_v_in_6,22,2,7:00,14/12/21,7:50,14/12/21,24,15,bulinus,30,experimental,uninfected,C013,12,1,2,0,0,1,4,1,1,6,8,AO_SF,shell pieces; added 1 L of water b/c low,N,N
+ex_un_v_in_6,22,2,7:00,14/12/21,7:50,14/12/21,24,16,bulinus,30,experimental,infected,C014,12,4,2,0,2,1,9,0,0,3,3,AO_SF,shell pieces ,N,N
+ex_un_v_in_6,22,2,19:00,14/12/21,19:37,14/12/21,36,1,bulinus,25,experimental,infected,C002,12,0,1,0,0,0,1,6,3,2,11,ID_SF,shell pieces,N,N
+ex_un_v_in_6,22,2,19:00,14/12/21,19:37,14/12/21,36,2,bulinus,25,experimental,uninfected,C005,12,1,0,0,1,3,5,2,2,3,7,ID_SF,,N,N
+ex_un_v_in_6,22,2,19:00,14/12/21,19:37,14/12/21,36,3,biomph,25,control,infected,NA,12,0,7,0,0,5,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_6,22,2,19:00,14/12/21,19:37,14/12/21,36,4,bulinus,25,control,uninfected,NA,12,1,2,0,1,8,12,0,0,NA,0,ID_SF,removing 1 baby [snail],N,N
+ex_un_v_in_6,22,2,19:00,14/12/21,19:37,14/12/21,36,5,biomph,25,experimental,uninfected,C011,12,2,1,0,0,1,4,2,3,3,8,ID_SF,shell pieces,N,N
+ex_un_v_in_6,22,2,19:00,14/12/21,19:37,14/12/21,36,6,biomph,25,experimental,infected,C001,12,0,3,0,0,6,9,2,1,0,3,ID_SF,,N,N
+ex_un_v_in_6,22,2,19:00,14/12/21,19:37,14/12/21,36,7,bulinus,25,control,infected,NA,12,0,3,0,0,9,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_6,22,2,19:00,14/12/21,19:37,14/12/21,36,8,biomph,25,control,uninfected,NA,12,0,7,0,0,5,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_6,22,2,19:00,14/12/21,19:37,14/12/21,36,9,biomph,30,experimental,uninfected,C008,12,4,1,0,0,1,6,2,1,3,6,ID_SF,shell pieces,N,N
+ex_un_v_in_6,22,2,19:00,14/12/21,19:37,14/12/21,36,10,bulinus,30,control,uninfected,NA,12,0,5,0,0,7,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_6,22,2,19:00,14/12/21,19:37,14/12/21,36,11,biomph,30,control,uninfected,NA,12,0,6,0,0,6,12,0,0,NA,0,ID_SF,removing [1] baby [snail],N,N
+ex_un_v_in_6,22,2,19:00,14/12/21,19:37,14/12/21,36,12,biomph,30,experimental,infected,C012,12,5,0,0,0,0,5,6,0,1,7,ID_SF,shell pieces,N,N
+ex_un_v_in_6,22,2,19:00,14/12/21,19:37,14/12/21,36,13,bulinus,30,control,infected,NA,12,0,5,1,0,6,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_6,22,2,19:00,14/12/21,19:37,14/12/21,36,14,biomph,30,control,infected,NA,12,0,8,0,0,4,12,0,0,NA,0,ID_SF,,N,N
+ex_un_v_in_6,22,2,19:00,14/12/21,19:37,14/12/21,36,15,bulinus,30,experimental,uninfected,C013,12,0,1,0,0,3,4,2,3,3,8,ID_SF,shell pieces,N,N
+ex_un_v_in_6,22,2,19:00,14/12/21,19:37,14/12/21,36,16,bulinus,30,experimental,infected,C014,12,5,1,0,1,1,8,3,0,1,4,ID_SF,shell pieces ,N,N
+ex_un_v_in_6,23,3,7:00,15/12/21,NA,15/12/21,48,1,bulinus,25,experimental,infected,C002,12,0,0,0,0,0,0,0,0,12,12,SK_SF_AO,shell pieces,N,N
+ex_un_v_in_6,23,3,7:00,15/12/21,NA,15/12/21,48,2,bulinus,25,experimental,uninfected,C005,12,1,0,0,0,1,2,2,0,8,10,SK_SF_AO,shell pieces,N,N
+ex_un_v_in_6,23,3,7:00,15/12/21,NA,15/12/21,48,3,biomph,25,control,infected,NA,12,0,5,0,0,7,12,0,0,NA,0,SK_SF_AO,,N,N
+ex_un_v_in_6,23,3,7:00,15/12/21,NA,15/12/21,48,4,bulinus,25,control,uninfected,NA,12,0,6,0,0,6,12,0,0,NA,0,SK_SF_AO,,N,N
+ex_un_v_in_6,23,3,7:00,15/12/21,NA,15/12/21,48,5,biomph,25,experimental,uninfected,C011,12,1,1,0,0,1,3,8,0,1,9,SK_SF_AO,,N,N
+ex_un_v_in_6,23,3,7:00,15/12/21,NA,15/12/21,48,6,biomph,25,experimental,infected,C001,12,0,3,0,0,8,11,1,0,0,1,SK_SF_AO,,N,N
+ex_un_v_in_6,23,3,7:00,15/12/21,NA,15/12/21,48,7,bulinus,25,control,infected,NA,12,0,9,0,1,2,12,0,0,NA,0,SK_SF_AO,,N,N
+ex_un_v_in_6,23,3,7:00,15/12/21,NA,15/12/21,48,8,biomph,25,control,uninfected,NA,12,0,1,0,0,11,12,0,0,NA,0,SK_SF_AO,,N,N
+ex_un_v_in_6,23,3,7:00,15/12/21,NA,15/12/21,48,9,biomph,30,experimental,uninfected,C008,12,3,0,0,0,2,5,4,0,3,7,SK_SF_AO,,N,N
+ex_un_v_in_6,23,3,7:00,15/12/21,NA,15/12/21,48,10,bulinus,30,control,uninfected,NA,12,2,5,0,0,5,12,0,0,NA,0,SK_SF_AO,,N,N
+ex_un_v_in_6,23,3,7:00,15/12/21,NA,15/12/21,48,11,biomph,30,control,uninfected,NA,12,0,7,0,0,5,12,0,0,NA,0,SK_SF_AO,,N,N
+ex_un_v_in_6,23,3,7:00,15/12/21,NA,15/12/21,48,12,biomph,30,experimental,infected,C012,12,4,0,0,0,1,5,1,1,5,7,SK_SF_AO,shell pieces ,N,N
+ex_un_v_in_6,23,3,7:00,15/12/21,NA,15/12/21,48,13,bulinus,30,control,infected,NA,12,2,6,0,0,4,12,0,0,NA,0,SK_SF_AO,,N,N
+ex_un_v_in_6,23,3,7:00,15/12/21,NA,15/12/21,48,14,biomph,30,control,infected,NA,12,0,9,0,0,3,12,0,0,NA,0,SK_SF_AO,,N,N
+ex_un_v_in_6,23,3,7:00,15/12/21,NA,15/12/21,48,15,bulinus,30,experimental,uninfected,C013,12,0,0,0,0,3,3,2,2,5,9,SK_SF_AO,,N,N
+ex_un_v_in_6,23,3,7:00,15/12/21,NA,15/12/21,48,16,bulinus,30,experimental,infected,C014,12,1,3,0,0,5,9,2,0,1,0,SK_SF_AO,,N,N
+ex_un_v_in_6,23,3,19:08,15/12/21,19:44,15/12/21,60,1,bulinus,25,experimental,infected,C002,12,2,0,0,1,0,3,0,0,9,9,SK_SF ,shell pieces,N,N
+ex_un_v_in_6,23,3,19:08,15/12/21,19:44,15/12/21,60,2,bulinus,25,experimental,uninfected,C005,12,2,0,0,0,5,7,0,1,4,5,SK_SF ,shell pieces,N,N
+ex_un_v_in_6,23,3,19:08,15/12/21,19:44,15/12/21,60,3,biomph,25,control,infected,NA,12,0,7,0,0,5,12,0,0,NA,0,SK_SF ,,N,N
+ex_un_v_in_6,23,3,19:08,15/12/21,19:44,15/12/21,60,4,bulinus,25,control,uninfected,NA,12,2,4,0,0,6,12,0,0,NA,0,SK_SF ,,N,N
+ex_un_v_in_6,23,3,19:08,15/12/21,19:44,15/12/21,60,5,biomph,25,experimental,uninfected,C011,12,1,1,0,0,0,2,4,0,6,10,SK_SF ,shell pieces,N,N
+ex_un_v_in_6,23,3,19:08,15/12/21,19:44,15/12/21,60,6,biomph,25,experimental,infected,C001,12,1,2,0,0,6,9,2,1,0,3,SK_SF ,,N,N
+ex_un_v_in_6,23,3,19:08,15/12/21,19:44,15/12/21,60,7,bulinus,25,control,infected,NA,12,1,7,0,0,4,12,0,0,NA,0,SK_SF ,,N,N
+ex_un_v_in_6,23,3,19:08,15/12/21,19:44,15/12/21,60,8,biomph,25,control,uninfected,NA,12,0,9,0,0,3,12,0,0,NA,0,SK_SF ,,N,N
+ex_un_v_in_6,23,3,19:08,15/12/21,19:44,15/12/21,60,9,biomph,30,experimental,uninfected,C008,12,5,2,0,0,0,7,3,0,2,5,SK_SF ,shell pieces,N,N
+ex_un_v_in_6,23,3,19:08,15/12/21,19:44,15/12/21,60,10,bulinus,30,control,uninfected,NA,12,0,9,0,0,3,12,0,0,NA,0,SK_SF ,,N,N
+ex_un_v_in_6,23,3,19:08,15/12/21,19:44,15/12/21,60,11,biomph,30,control,uninfected,NA,12,0,5,0,0,7,12,0,0,NA,0,SK_SF ,,N,N
+ex_un_v_in_6,23,3,19:08,15/12/21,19:44,15/12/21,60,12,biomph,30,experimental,infected,C012,12,5,2,0,0,0,7,3,0,2,5,SK_SF ,,N,N
+ex_un_v_in_6,23,3,19:08,15/12/21,19:44,15/12/21,60,13,bulinus,30,control,infected,NA,12,1,8,0,0,3,12,0,0,NA,0,SK_SF ,,N,N
+ex_un_v_in_6,23,3,19:08,15/12/21,19:44,15/12/21,60,14,biomph,30,control,infected,NA,12,0,0,0,0,12,12,0,0,NA,0,SK_SF ,,N,N
+ex_un_v_in_6,23,3,19:08,15/12/21,19:44,15/12/21,60,15,bulinus,30,experimental,uninfected,C013,12,1,0,0,1,4,6,0,0,6,6,SK_SF ,,N,N
+ex_un_v_in_6,23,3,19:08,15/12/21,19:44,15/12/21,60,16,bulinus,30,experimental,infected,C014,12,0,4,0,1,4,9,1,0,2,3,SK_SF ,,N,N
+ex_un_v_in_6,24,4,7:04,16/12/21,7:40,16/12/21,72,1,bulinus,25,experimental,infected,C002,12,2,2,0,0,0,4,0,0,8,NA,PT_SF,shell pieces,N,N
+ex_un_v_in_6,24,4,7:04,16/12/21,7:40,16/12/21,72,2,bulinus,25,experimental,uninfected,C005,12,3,0,0,0,3,6,3,0,3,NA,PT_SF,,N,N
+ex_un_v_in_6,24,4,7:04,16/12/21,7:40,16/12/21,72,3,biomph,25,control,infected,NA,12,0,7,0,0,5,12,0,0,na,NA,PT_SF,,N,N
+ex_un_v_in_6,24,4,7:04,16/12/21,7:40,16/12/21,72,4,bulinus,25,control,uninfected,NA,12,3,1,0,0,8,12,0,0,NA,NA,PT_SF,,N,N
+ex_un_v_in_6,24,4,7:04,16/12/21,7:40,16/12/21,72,5,biomph,25,experimental,uninfected,C011,12,0,1,0,0,1,2,6,0,4,NA,PT_SF,shell pieces,N,N
+ex_un_v_in_6,24,4,7:04,16/12/21,7:40,16/12/21,72,6,biomph,25,experimental,infected,C001,12,0,2,0,0,7,9,3,0,0,NA,PT_SF,,N,N
+ex_un_v_in_6,24,4,7:04,16/12/21,7:40,16/12/21,72,7,bulinus,25,control,infected,NA,12,0,5,0,0,7,12,0,0,NA,NA,PT_SF,,N,N
+ex_un_v_in_6,24,4,7:04,16/12/21,7:40,16/12/21,72,8,biomph,25,control,uninfected,NA,12,0,5,0,0,7,12,0,0,NA,NA,PT_SF,,N,N
+ex_un_v_in_6,24,4,7:04,16/12/21,7:40,16/12/21,72,9,biomph,30,experimental,uninfected,C008,12,4,4,0,0,1,9,0,1,2,NA,PT_SF,,N,N
+ex_un_v_in_6,24,4,7:04,16/12/21,7:40,16/12/21,72,10,bulinus,30,control,uninfected,NA,12,0,6,0,0,6,12,0,0,NA,NA,PT_SF,,N,N
+ex_un_v_in_6,24,4,7:04,16/12/21,7:40,16/12/21,72,11,biomph,30,control,uninfected,NA,12,0,7,0,0,4,11,0,0,NA,NA,PT_SF,1 [snail] out of tank,N,N
+ex_un_v_in_6,24,4,7:04,16/12/21,7:40,16/12/21,72,12,biomph,30,experimental,infected,C012,12,5,1,0,0,2,8,3,0,1,NA,PT_SF,shell pieces,N,N
+ex_un_v_in_6,24,4,7:04,16/12/21,7:40,16/12/21,72,13,bulinus,30,control,infected,NA,12,3,2,0,0,7,12,0,0,NA,NA,PT_SF,,N,N
+ex_un_v_in_6,24,4,7:04,16/12/21,7:40,16/12/21,72,14,biomph,30,control,infected,NA,12,0,7,0,0,5,12,0,0,NA,NA,PT_SF,,N,N
+ex_un_v_in_6,24,4,7:04,16/12/21,7:40,16/12/21,72,15,bulinus,30,experimental,uninfected,C013,12,1,1,0,0,2,4,0,0,8,NA,PT_SF,shell pieces ,N,N
+ex_un_v_in_6,24,4,7:04,16/12/21,7:40,16/12/21,72,16,bulinus,30,experimental,infected,C014,12,4,3,0,0,2,9,1,0,2,NA,PT_SF,,N,N

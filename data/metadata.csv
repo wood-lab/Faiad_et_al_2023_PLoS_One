@@ -1,0 +1,40 @@
+﻿File,variable,description,units/format
+all_trials_crayfish_digital.csv,week,Experimental run ID. Used in combination with crayfish_id to join crayfish data to snail data.,
+all_trials_crayfish_digital.csv,start_date,Run start date,dd/mm/yy
+all_trials_crayfish_digital.csv,end_date,Run end date,dd/mm/yy
+all_trials_crayfish_digital.csv,tank,tank number,
+all_trials_crayfish_digital.csv,crayfish_id,unique id assigned to each crayfish,
+all_trials_crayfish_digital.csv,length,crayfish length,mm
+all_trials_crayfish_digital.csv,weight,crayfish weight,g
+all_trials_crayfish_digital.csv,collector_name,collector initials,
+all_trials_crayfish_digital.csv,notes,notes (e.g. molting),
+all_trials_crayfish_digital.csv,berried,whether crayfish is carrying eggs,Y/N
+all_trials_snail_digital.csv,week,Experimental run ID. Used in combination with crayfish_id to join crayfish data to snail data.,
+all_trials_snail_digital.csv,experiment_day,Day of experimental run,days (1+)
+all_trials_snail_digital.csv,trial_day,Day of trial (within run),days (1+)
+all_trials_snail_digital.csv,start_time,Trial start time,hh::mm
+all_trials_snail_digital.csv,start_date,Trial start date,dd/mm/yy
+all_trials_snail_digital.csv,end_time,Trial end time,hh::mm
+all_trials_snail_digital.csv,end_date,Trial end date,dd/mm/yy
+all_trials_snail_digital.csv,time,trial time point (0 to 72 hrs in 12 hr intervals),hrs
+all_trials_snail_digital.csv,tank,tank number,
+all_trials_snail_digital.csv,snail_species,"""bulinus"" for Bulinus truncatus, and ""biomph"" for Biomphalaria glabrata ",
+all_trials_snail_digital.csv,temp,"temperature treatment (15, 20, 25, 30, or 35C)",degrees C
+all_trials_snail_digital.csv,condition,"Experimental condition (e.g. pilot, control, or experimental)",
+all_trials_snail_digital.csv,infection_status,Whether snails are infected with Schistosoma,infected / uninfected
+all_trials_snail_digital.csv,crayfish_id,unique id assigned to each crayfish,
+all_trials_snail_digital.csv,snail_density,Initial number of snails at start of trial (always 12),integer (12)
+all_trials_snail_digital.csv,snails_out,Snails above the water line / outside tank,integer (0-12)
+all_trials_snail_digital.csv,snails_lettuce,Snails on / consuming lettuce,integer (0-12)
+all_trials_snail_digital.csv,snails_sheltered,Snails in shelter,integer (0-12)
+all_trials_snail_digital.csv,snails_under_shelter,Number of snails under shelter / hiding,integer (0-12)
+all_trials_snail_digital.csv,snails_open ,Snails in open water / exposed,integer (0-12)
+all_trials_snail_digital.csv,snails_remaining,Number of live snails remaining at end of trial,integer (0-12)
+all_trials_snail_digital.csv,empty_shells,Number of empty snail shells,integer (0-12)
+all_trials_snail_digital.csv,dead_snails,Number of dead snails (excluding crayfish predation),integer (0-12)
+all_trials_snail_digital.csv,snails_consumed,Number of snails consumed during trial,integer (0-12)
+all_trials_snail_digital.csv,snails_added,Number of snails added at start of trial,integer (0-12)
+all_trials_snail_digital.csv,collector_name,collector initials,
+all_trials_snail_digital.csv,notes,notes (e.g. missing / extra snails),
+all_trials_snail_digital.csv,dodgey_remove,Whether data should be excluded from analysis,Y/N
+all_trials_snail_digital.csv,molt,Whether crayfish is molting,Y/N
